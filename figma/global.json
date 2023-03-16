@@ -1,0 +1,38 @@
+{
+  "$space-4": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "$space-8": {
+    "value": "8",
+    "type": "sizing"
+  },
+  "$space-12": {
+    "value": "12",
+    "type": "sizing"
+  },
+  "$space-16": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "$space-20": {
+    "value": "20",
+    "type": "sizing"
+  },
+  "$space-24": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "$space-32": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "$space-40": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "$space-48": {
+    "value": "48",
+    "type": "sizing"
+  }
+}
