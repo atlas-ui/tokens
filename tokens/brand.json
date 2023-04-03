@@ -87,8 +87,16 @@
     "value": "40",
     "type": "sizing"
   },
+  "sizing-48": {
+    "value": "48",
+    "type": "sizing"
+  },
   "sizing-56": {
     "value": "56",
+    "type": "sizing"
+  },
+  "sizing-60": {
+    "value": "60",
     "type": "sizing"
   },
   "sizing-80": {
