@@ -209,10 +209,18 @@
       "type": "fontSizes"
     },
     "title-large": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "title-small": {
       "value": "24",
       "type": "fontSizes"
     },
     "detail-large": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "detail-small": {
       "value": "16",
       "type": "fontSizes"
     }
