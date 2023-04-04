@@ -1026,5 +1026,291 @@
         }
       }
     }
+  },
+  "color": {
+    "dark": {
+      "background": {
+        "value": "black",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#222",
+        "type": "color"
+      },
+      "separator": {
+        "value": "rgba(255,255,255,0.03)",
+        "type": "color"
+      },
+      "contrast-strong": {
+        "value": "white",
+        "type": "color"
+      },
+      "contrast-subtle": {
+        "value": "#666",
+        "type": "color"
+      },
+      "contrast-critical": {
+        "value": "red",
+        "type": "color"
+      },
+      "contrast-success": {
+        "value": "green",
+        "type": "color"
+      },
+      "contrast-link": {
+        "value": "blue",
+        "type": "color"
+      },
+      "button-primary": {
+        "surface": {
+          "value": "white",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "black",
+          "type": "color"
+        },
+        "border": {
+          "value": "none",
+          "type": "color"
+        },
+        "states": {
+          "hover": {
+            "surface": {
+              "value": "{color.dark.button-primary.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-primary.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-primary.border}",
+              "type": "color"
+            }
+          },
+          "pressed": {
+            "surface": {
+              "value": "{color.dark.button-primary.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-primary.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-primary.border}",
+              "type": "color"
+            }
+          },
+          "focused": {
+            "surface": {
+              "value": "{color.dark.button-primary.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-primary.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-primary.border}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "button-select": {
+        "surface": {
+          "value": "white",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "black",
+          "type": "color"
+        },
+        "border": {
+          "value": "none",
+          "type": "color"
+        },
+        "states": {
+          "hover": {
+            "surface": {
+              "value": "{color.dark.button-select.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-select.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-select.border}",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "surface": {
+              "value": "{color.dark.button-select.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-select.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-select.border}",
+              "type": "color"
+            }
+          },
+          "focused": {
+            "surface": {
+              "value": "{color.dark.button-select.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.button-primary.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.button-select.border}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "input": {
+        "surface": {
+          "value": "#222",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "white",
+          "type": "color"
+        },
+        "border": {
+          "value": "#333",
+          "type": "color"
+        },
+        "states": {
+          "hover": {
+            "surface": {
+              "value": "{color.dark.input.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.input.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.input.border}",
+              "type": "color"
+            }
+          },
+          "has-input": {
+            "surface": {
+              "value": "{color.dark.input.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.input.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.input.border}",
+              "type": "color"
+            }
+          },
+          "focused": {
+            "surface": {
+              "value": "{color.dark.input.surface}",
+              "type": "color"
+            },
+            "contrast": {
+              "value": "{color.dark.input.contrast}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.dark.input.border}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "overlay": {
+        "background": {
+          "value": "rgba(0,0,0,.8)",
+          "type": "color"
+        },
+        "surface": {
+          "value": "none",
+          "type": "color"
+        },
+        "contrast-strong": {
+          "value": "white",
+          "type": "color"
+        },
+        "contrast-subtle": {
+          "value": "rgba(255,255,255,0.7)",
+          "type": "color"
+        },
+        "button-primary": {
+          "surface": {
+            "value": "white",
+            "type": "color"
+          },
+          "contrast": {
+            "value": "black",
+            "type": "color"
+          },
+          "border": {
+            "value": "none",
+            "type": "color"
+          },
+          "states": {
+            "hover": {
+              "surface": {
+                "value": "{color.dark.button-primary.surface}",
+                "type": "color"
+              },
+              "contrast": {
+                "value": "{color.dark.button-primary.contrast}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{color.dark.button-primary.border}",
+                "type": "color"
+              }
+            },
+            "pressed": {
+              "surface": {
+                "value": "{color.dark.button-primary.surface}",
+                "type": "color"
+              },
+              "contrast": {
+                "value": "{color.dark.button-primary.contrast}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{color.dark.button-primary.border}",
+                "type": "color"
+              }
+            },
+            "focused": {
+              "surface": {
+                "value": "{color.dark.button-primary.surface}",
+                "type": "color"
+              },
+              "contrast": {
+                "value": "{color.dark.button-primary.contrast}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{color.dark.button-primary.border}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
