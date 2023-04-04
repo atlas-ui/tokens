@@ -282,6 +282,22 @@
     },
     "tv": {
       "breakpoint-tv": {
+        "icon-small": {
+          "value": "{sizing-24}",
+          "type": "sizing"
+        },
+        "icon-medium": {
+          "value": "{sizing-32}",
+          "type": "sizing"
+        },
+        "icon-large": {
+          "value": "{sizing-48}",
+          "type": "sizing"
+        },
+        "button-surface-large": {
+          "value": "{sizing-48}",
+          "type": "sizing"
+        },
         "grid-spacing-small": {
           "value": "{spacing-16}",
           "type": "spacing"
