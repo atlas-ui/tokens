@@ -434,6 +434,10 @@
       "90": {
         "value": "#dfe8ec",
         "type": "color"
+      },
+      "95": {
+        "value": "#eff4f5",
+        "type": "color"
       }
     },
     "cassette": {
