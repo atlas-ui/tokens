@@ -374,6 +374,30 @@
       "text-field": {
         "value": "{border-radius-16}",
         "type": "borderRadius"
+      },
+      "aspect-ratio-image-standard": {
+        "value": "1x1",
+        "type": "borderRadius"
+      },
+      "aspect-ratio-image-video": {
+        "value": "16x9",
+        "type": "borderRadius"
+      },
+      "aspect-ratio-image-logo": {
+        "value": "5x4",
+        "type": "borderRadius"
+      },
+      "aspect-ratio-card-tall": {
+        "value": "4x5",
+        "type": "borderRadius"
+      },
+      "aspect-ratio-card-average": {
+        "value": "1x1",
+        "type": "borderRadius"
+      },
+      "aspect-ratio-card-short": {
+        "value": "3x2",
+        "type": "borderRadius"
       }
     }
   },
