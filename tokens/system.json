@@ -1077,7 +1077,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{color.dark.button-primary.surface}",
+              "value": "{palettes.vinyl.80}",
               "type": "color"
             },
             "contrast": {
@@ -1091,7 +1091,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{color.dark.button-primary.surface}",
+              "value": "{palettes.vinyl.80}",
               "type": "color"
             },
             "contrast": {
@@ -1135,7 +1135,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{color.dark.button-secondary.surface}",
+              "value": "{palettes.vinyl.20}",
               "type": "color"
             },
             "contrast": {
@@ -1149,7 +1149,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{color.dark.button-secondary.surface}",
+              "value": "{palettes.vinyl.20}",
               "type": "color"
             },
             "contrast": {
@@ -1179,7 +1179,7 @@
       },
       "button-tertiary": {
         "surface": {
-          "value": "{palettes.vinyl.10}",
+          "value": "none",
           "type": "color"
         },
         "contrast": {
@@ -1193,7 +1193,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{color.dark.button-tertiary.surface}",
+              "value": "{palettes.vinyl.10}",
               "type": "color"
             },
             "contrast": {
@@ -1207,7 +1207,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{color.dark.button-tertiary.surface}",
+              "value": "{palettes.vinyl.10}",
               "type": "color"
             },
             "contrast": {
@@ -1251,7 +1251,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{color.dark.button-select.surface}",
+              "value": "{palettes.vinyl.20}",
               "type": "color"
             },
             "contrast": {
@@ -1386,11 +1386,11 @@
         },
         "button-primary": {
           "surface": {
-            "value": "white",
+            "value": "{palettes.base.white}",
             "type": "color"
           },
           "contrast": {
-            "value": "black",
+            "value": "{palettes.base.black}",
             "type": "color"
           },
           "border": {
@@ -1400,7 +1400,7 @@
           "states": {
             "hover": {
               "surface": {
-                "value": "{color.dark.overlay.button-primary.surface}",
+                "value": "{palettes.alpha.white-90}",
                 "type": "color"
               },
               "contrast": {
@@ -1414,7 +1414,7 @@
             },
             "pressed": {
               "surface": {
-                "value": "{color.dark.overlay.button-primary.surface}",
+                "value": "{palettes.alpha.white-90}",
                 "type": "color"
               },
               "contrast": {
@@ -1458,7 +1458,7 @@
           "states": {
             "hover": {
               "surface": {
-                "value": "{color.dark.overlay.button-secondary.surface}",
+                "value": "{palettes.alpha.white-10}",
                 "type": "color"
               },
               "contrast": {
@@ -1472,7 +1472,7 @@
             },
             "pressed": {
               "surface": {
-                "value": "{color.dark.overlay.button-secondary.surface}",
+                "value": "{palettes.alpha.white-10}",
                 "type": "color"
               },
               "contrast": {

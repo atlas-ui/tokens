@@ -648,6 +648,10 @@
       "white-10": {
         "value": "rgba(255,255,255,0.1)",
         "type": "color"
+      },
+      "white-90": {
+        "value": "rgba(255,255,255,0.9)",
+        "type": "color"
       }
     }
   }
