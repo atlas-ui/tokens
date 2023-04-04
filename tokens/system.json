@@ -1077,7 +1077,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{palettes.vinyl.80}",
+              "value": "{palettes.cassette.80}",
               "type": "color"
             },
             "contrast": {
@@ -1091,7 +1091,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{palettes.vinyl.80}",
+              "value": "{palettes.cassette.80}",
               "type": "color"
             },
             "contrast": {
@@ -1121,7 +1121,7 @@
       },
       "button-secondary": {
         "surface": {
-          "value": "{palettes.vinyl.10}",
+          "value": "{palettes.vinyl.20}",
           "type": "color"
         },
         "contrast": {
@@ -1135,7 +1135,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{palettes.vinyl.20}",
+              "value": "{palettes.cassette.10}",
               "type": "color"
             },
             "contrast": {
@@ -1149,7 +1149,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{palettes.vinyl.20}",
+              "value": "{palettes.cassette.30}",
               "type": "color"
             },
             "contrast": {
@@ -1193,7 +1193,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{palettes.vinyl.10}",
+              "value": "{palettes.cassette.10}",
               "type": "color"
             },
             "contrast": {
@@ -1207,7 +1207,7 @@
           },
           "pressed": {
             "surface": {
-              "value": "{palettes.vinyl.10}",
+              "value": "{palettes.cassette.10}",
               "type": "color"
             },
             "contrast": {
@@ -1251,7 +1251,7 @@
         "states": {
           "hover": {
             "surface": {
-              "value": "{palettes.vinyl.20}",
+              "value": "{palettes.cassette.20}",
               "type": "color"
             },
             "contrast": {
