@@ -393,7 +393,7 @@
       }
     }
   },
-  "extended palettes": {
+  "palettes": {
     "vinyl": {
       "5": {
         "value": "#0d1416",
@@ -625,16 +625,30 @@
         "value": "#ccffec",
         "type": "color"
       }
-    }
-  },
-  "base": {
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
     },
-    "black": {
-      "value": "#000000",
-      "type": "color"
+    "base": {
+      "white": {
+        "value": "rgba(255,255,255,1)",
+        "type": "color"
+      },
+      "black": {
+        "value": "rgba(0,0,0,1)",
+        "type": "color"
+      }
+    },
+    "alpha": {
+      "black-80": {
+        "value": "rgba(0,0,0,0.8)",
+        "type": "color"
+      },
+      "vinyl-80": {
+        "value": "rgba(13,20,22,0.8)",
+        "type": "color"
+      },
+      "white-10": {
+        "value": "rgba(255,255,255,0.1)",
+        "type": "color"
+      }
     }
   }
 }
