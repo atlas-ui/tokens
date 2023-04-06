@@ -467,7 +467,7 @@
         "title-small": {
           "value": {
             "fontFamily": "{font-family-primary}",
-            "fontWeight": "{font-weight-strong}",
+            "fontWeight": "{font-weight-moderate}",
             "lineHeight": "{line-height-title}",
             "fontSize": "{typescale-small.title-small}",
             "letterSpacing": "{letter-spacing-0}",
@@ -1211,7 +1211,7 @@
         "headline-small": {
           "value": {
             "fontFamily": "{font-family-primary}",
-            "fontWeight": "{font-weight-strong}",
+            "fontWeight": "{font-weight-moderate}",
             "lineHeight": "{line-height-headline-small}",
             "fontSize": "{typescale-tv.headline-small}",
             "letterSpacing": "{letter-spacing-0}",
@@ -1817,7 +1817,7 @@
       },
       "button-primary": {
         "surface": {
-          "value": "{palettes.base.white}",
+          "value": "{palettes.cassette.80}",
           "type": "color"
         },
         "contrast": {
