@@ -72,11 +72,11 @@
     "type": "borderRadius"
   },
   "border-radius-pill": {
-    "value": "\"pill\"",
+    "value": "pill",
     "type": "borderRadius"
   },
   "border-radius-circle": {
-    "value": "\"circle\"",
+    "value": "circle",
     "type": "borderRadius"
   },
   "sizing-16": {

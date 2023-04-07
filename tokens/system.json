@@ -1748,7 +1748,7 @@
         "type": "color"
       },
       "contrast-critical": {
-        "value": "{red.50}",
+        "value": "{red.60}",
         "type": "color"
       },
       "contrast-success": {
