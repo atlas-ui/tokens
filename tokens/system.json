@@ -1334,7 +1334,7 @@
         "type": "color"
       },
       "contrast-success": {
-        "value": "{green.30}",
+        "value": "{green.20}",
         "type": "color"
       },
       "contrast-link": {
@@ -1533,7 +1533,7 @@
           "type": "color"
         },
         "contrast-focused": {
-          "value": "{color.light.button-primary.contrast}",
+          "value": "{color.light.button-select.contrast}",
           "type": "color"
         },
         "border-focused": {
@@ -1551,7 +1551,7 @@
           "type": "color"
         },
         "contrast-subtle": {
-          "value": "{neutral.40}",
+          "value": "{neutral.30}",
           "type": "color"
         },
         "border": {
@@ -1567,7 +1567,7 @@
           "type": "color"
         },
         "contrast-subtle-hover": {
-          "value": "{neutral.40}",
+          "value": "{neutral.30}",
           "type": "color"
         },
         "border-hover": {
@@ -1583,7 +1583,7 @@
           "type": "color"
         },
         "contrast-subtle-has-input": {
-          "value": "{neutral.40}",
+          "value": "{neutral.30}",
           "type": "color"
         },
         "border-has-input": {
@@ -1599,7 +1599,7 @@
           "type": "color"
         },
         "contrast-subtle-focused": {
-          "value": "{accent1.40}",
+          "value": "{accent1.30}",
           "type": "color"
         },
         "border-focused": {
@@ -1761,7 +1761,7 @@
       },
       "button-primary": {
         "surface": {
-          "value": "{accent1.80}",
+          "value": "{base.white}",
           "type": "color"
         },
         "contrast": {
@@ -1773,7 +1773,7 @@
           "type": "color"
         },
         "surface-hover": {
-          "value": "{accent1.80}",
+          "value": "{neutral.90}",
           "type": "color"
         },
         "contrast-hover": {
@@ -1785,7 +1785,7 @@
           "type": "color"
         },
         "surface-pressed": {
-          "value": "{accent1.80}",
+          "value": "{neutral.90}",
           "type": "color"
         },
         "contrast-pressed": {
@@ -1951,7 +1951,7 @@
           "type": "color"
         },
         "contrast-focused": {
-          "value": "{color.dark.button-primary.contrast}",
+          "value": "{base.white}",
           "type": "color"
         },
         "border-focused": {
