@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "brand",
-    "system-old",
     "system/global",
     "system/mobile",
     "system/web",
