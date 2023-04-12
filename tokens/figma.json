@@ -1,5 +1,5 @@
 {
-  "light": {
+  "Light": {
     "background": {
       "value": "{color.global.light.background}",
       "type": "color"
@@ -461,7 +461,7 @@
       }
     }
   },
-  "dark": {
+  "Dark": {
     "background": {
       "value": "{color.global.dark.background}",
       "type": "color"
@@ -923,7 +923,7 @@
       }
     }
   },
-  "hc-light": {
+  "HC Light": {
     "background": {
       "value": "{color.global.hc-light.background}",
       "type": "color"
@@ -1385,7 +1385,7 @@
       }
     }
   },
-  "hc-dark": {
+  "HC Dark": {
     "background": {
       "value": "{color.global.hc-dark.background}",
       "type": "color"
