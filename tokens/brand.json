@@ -526,15 +526,11 @@
       "value": "125%",
       "type": "lineHeights"
     },
-    "line-height-detail-subtle": {
+    "line-height-detail": {
       "value": "125%",
       "type": "lineHeights"
     },
-    "line-height-detail-strong": {
-      "value": "100%",
-      "type": "lineHeights"
-    },
-    "line-height-body": {
+    "line-height-paragraph": {
       "value": "150%",
       "type": "lineHeights"
     },

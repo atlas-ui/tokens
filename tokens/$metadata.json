@@ -4,6 +4,7 @@
     "system/global",
     "system/mobile",
     "system/web",
-    "system/tv"
+    "system/tv",
+    "figma"
   ]
 }

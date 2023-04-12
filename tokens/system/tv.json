@@ -377,6 +377,342 @@
       }
     }
   },
+  "typography": {
+    "tv": {
+      "breakpoint-tv": {
+        "headline-large": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.headline-large.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.headline-large.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.headline-large.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.headline-large.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.headline-large.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.headline-large.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.headline-large.textCase}",
+            "type": "textCase"
+          }
+        },
+        "headline-medium": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.headline-medium.textCase}",
+            "type": "textCase"
+          }
+        },
+        "headline-small": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.headline-small.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.headline-small.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.headline-small.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.headline-small.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.headline-small.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.headline-small.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.headline-small.textCase}",
+            "type": "textCase"
+          }
+        },
+        "title-large": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.title-large.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.title-large.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.title-large.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.title-large.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.title-large.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.title-large.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.title-large.textCase}",
+            "type": "textCase"
+          }
+        },
+        "title-small": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.title-small.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.title-small.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.title-small.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.title-small.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.title-small.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.title-small.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.title-small.textCase}",
+            "type": "textCase"
+          }
+        },
+        "detail-large": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.detail-large.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.detail-large.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.detail-large.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.detail-large.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.detail-large.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.detail-large.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.detail-large.textCase}",
+            "type": "textCase"
+          }
+        },
+        "detail-small": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.detail-small.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.detail-small.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.detail-small.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.detail-small.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.detail-small.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.detail-small.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.detail-small.textCase}",
+            "type": "textCase"
+          }
+        },
+        "paragraph-large": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.paragraph-large.textCase}",
+            "type": "textCase"
+          }
+        },
+        "paragraph-small": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.paragraph-small.textCase}",
+            "type": "textCase"
+          }
+        },
+        "label-large": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.label-large.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.label-large.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.label-large.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.label-large.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.label-large.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.label-large.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.label-large.textCase}",
+            "type": "textCase"
+          }
+        },
+        "label-small": {
+          "fontFamily": {
+            "value": "{typography.global.breakpoint-tv.label-small.fontFamily}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{typography.global.breakpoint-tv.label-small.fontWeight}",
+            "type": "fontWeights"
+          },
+          "lineHeight": {
+            "value": "{typography.global.breakpoint-tv.label-small.lineHeight}",
+            "type": "lineHeights"
+          },
+          "fontSize": {
+            "value": "{typography.global.breakpoint-tv.label-small.fontSize}",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": "{typography.global.breakpoint-tv.label-small.letterSpacing}",
+            "type": "letterSpacing"
+          },
+          "textDecoration": {
+            "value": "{typography.global.breakpoint-tv.label-small.textDecoration}",
+            "type": "textDecoration"
+          },
+          "textCase": {
+            "value": "{typography.global.breakpoint-tv.label-small.textCase}",
+            "type": "textCase"
+          }
+        }
+      }
+    }
+  },
   "size": {
     "tv": {
       "breakpoint-tv": {
