@@ -3,11 +3,11 @@
     "global": {
       "light": {
         "background": {
-          "value": "{brand.neutral.95}",
+          "value": "{brand.base.white}",
           "type": "color"
         },
         "surface": {
-          "value": "{brand.neutral.80}",
+          "value": "{brand.neutral.90}",
           "type": "color"
         },
         "separator": {
@@ -931,7 +931,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{brand.neutral.90}",
+          "value": "{brand.neutral.95}",
           "type": "color"
         },
         "separator": {
@@ -1393,7 +1393,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{brand.neutral.10}",
+          "value": "{brand.neutral.5}",
           "type": "color"
         },
         "separator": {
@@ -3841,81 +3841,105 @@
   },
   "shape": {
     "global": {
+      "image-standard-small": {
+        "shapeType": {
+          "value": "{brand.shape-rectangle}",
+          "type": "borderRadius"
+        },
+        "aspectRatio": {
+          "value": "{brand.aspect-ratio-1}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-4}",
+          "type": "borderRadius"
+        }
+      },
+      "image-persona": {
+        "shapeType": {
+          "value": "{brand.shape-circle}",
+          "type": "borderRadius"
+        }
+      },
+      "image-standard-medium": {
+        "shapeType": {
+          "value": "{brand.shape-rectangle}",
+          "type": "borderRadius"
+        },
+        "aspectRatio": {
+          "value": "{brand.aspect-ratio-1}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-8}",
+          "type": "borderRadius"
+        }
+      },
+      "image-standard-large": {
+        "shapeType": {
+          "value": "{brand.shape-rectangle}",
+          "type": "borderRadius"
+        },
+        "aspectRatio": {
+          "value": "{brand.aspect-ratio-1}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-8}",
+          "type": "borderRadius"
+        }
+      },
       "button-composite": {
-        "value": "{brand.border-radius-pill}",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
+          "type": "borderRadius"
+        }
       },
       "button-icon": {
-        "value": "{brand.border-radius-circle}",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-circle}",
+          "type": "borderRadius"
+        }
       },
       "container-small": {
-        "value": "{brand.border-radius-8}",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-8}",
+          "type": "borderRadius"
+        }
       },
       "container-medium": {
-        "value": "{brand.border-radius-16}",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-16}",
+          "type": "borderRadius"
+        }
       },
       "container-large": {
-        "value": "{brand.border-radius-32}",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-32}",
+          "type": "borderRadius"
+        }
       },
       "container-xlarge": {
-        "value": "{brand.border-radius-40}",
-        "type": "borderRadius"
-      },
-      "image-identity": {
-        "value": "{brand.border-radius-circle}",
-        "type": "borderRadius"
-      },
-      "image-media-small": {
-        "value": "{brand.border-radius-4}",
-        "type": "borderRadius"
-      },
-      "image-media-medium": {
-        "value": "{brand.border-radius-8}",
-        "type": "borderRadius"
-      },
-      "image-media-large": {
-        "value": "{brand.border-radius-16}",
-        "type": "borderRadius"
-      },
-      "image-media-xlarge": {
-        "value": "{brand.border-radius-24}",
-        "type": "borderRadius"
-      },
-      "search-field": {
-        "value": "{brand.border-radius-pill}",
-        "type": "borderRadius"
-      },
-      "text-field": {
-        "value": "{brand.border-radius-16}",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-image-standard": {
-        "value": "1x1",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-image-video": {
-        "value": "16x9",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-image-logo": {
-        "value": "5x4",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-card-tall": {
-        "value": "4x5",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-card-average": {
-        "value": "1x1",
-        "type": "borderRadius"
-      },
-      "aspect-ratio-card-short": {
-        "value": "3x2",
-        "type": "borderRadius"
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
+          "type": "borderRadius"
+        },
+        "borderRadius": {
+          "value": "{brand.border-radius-40}",
+          "type": "borderRadius"
+        }
       }
     }
   }

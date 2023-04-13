@@ -112,11 +112,15 @@
       "value": "40",
       "type": "borderRadius"
     },
-    "border-radius-pill": {
-      "value": "pill",
+    "shape-rectangle": {
+      "value": "rectangle",
       "type": "borderRadius"
     },
-    "border-radius-circle": {
+    "shape-capsule": {
+      "value": "capsule",
+      "type": "borderRadius"
+    },
+    "shape-circle": {
       "value": "circle",
       "type": "borderRadius"
     },
@@ -557,6 +561,10 @@
     "text-case-sentence": {
       "value": "none",
       "type": "textCase"
+    },
+    "aspect-ratio-1": {
+      "value": "1.0",
+      "type": "sizing"
     }
   }
 }
