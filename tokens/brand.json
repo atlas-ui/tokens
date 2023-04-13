@@ -40,12 +40,12 @@
       "value": "80",
       "type": "sizing"
     },
-    "spacing-2": {
-      "value": "2",
-      "type": "spacing"
-    },
     "spacing-0": {
       "value": "0",
+      "type": "spacing"
+    },
+    "spacing-2": {
+      "value": "2",
       "type": "spacing"
     },
     "spacing-4": {
@@ -379,8 +379,16 @@
         "value": "rgba(255,255,255,0.1)",
         "type": "color"
       },
+      "white-30": {
+        "value": "rgba(255,255,255,0.3)",
+        "type": "color"
+      },
       "black-10": {
         "value": "rgba(0,0,0,0.1)",
+        "type": "color"
+      },
+      "black-30": {
+        "value": "rgba(0,0,0,0.3)",
         "type": "color"
       },
       "white-90": {
