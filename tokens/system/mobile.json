@@ -1488,7 +1488,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-small.aspectRatio",
+            "value": "{shape.global.image-standard-small.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {
@@ -1508,7 +1508,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-medium.aspectRatio",
+            "value": "{shape.global.image-standard-medium.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {
@@ -1522,7 +1522,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-large.aspectRatio",
+            "value": "{shape.global.image-standard-large.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {
@@ -1590,7 +1590,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-small.aspectRatio",
+            "value": "{shape.global.image-standard-small.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {
@@ -1610,7 +1610,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-medium.aspectRatio",
+            "value": "{shape.global.image-standard-medium.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {
@@ -1624,7 +1624,7 @@
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "shape.global.image-standard-large.aspectRatio",
+            "value": "{shape.global.image-standard-large.aspectRatio}",
             "type": "borderRadius"
           },
           "borderRadius": {

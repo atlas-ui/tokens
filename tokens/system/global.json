@@ -3885,7 +3885,7 @@
           "type": "borderRadius"
         },
         "borderRadius": {
-          "value": "{brand.border-radius-8}",
+          "value": "{brand.border-radius-24}",
           "type": "borderRadius"
         }
       },
