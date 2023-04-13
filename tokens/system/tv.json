@@ -494,57 +494,105 @@
   "shape": {
     "tv": {
       "breakpoint-tv": {
+        "image-standard-small": {
+          "shapeType": {
+            "value": "{shape.global.image-standard-small.shapeType}",
+            "type": "borderRadius"
+          },
+          "aspectRatio": {
+            "value": "shape.global.image-standard-small.aspectRatio",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.image-standard-small.borderRadius}",
+            "type": "borderRadius"
+          }
+        },
+        "image-persona": {
+          "shapeType": {
+            "value": "{shape.global.image-persona.shapeType}",
+            "type": "borderRadius"
+          }
+        },
+        "image-standard-medium": {
+          "shapeType": {
+            "value": "{shape.global.image-standard-medium.shapeType}",
+            "type": "borderRadius"
+          },
+          "aspectRatio": {
+            "value": "shape.global.image-standard-medium.aspectRatio",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.image-standard-medium.borderRadius}",
+            "type": "borderRadius"
+          }
+        },
+        "image-standard-large": {
+          "shapeType": {
+            "value": "{shape.global.image-standard-large.shapeType}",
+            "type": "borderRadius"
+          },
+          "aspectRatio": {
+            "value": "shape.global.image-standard-large.aspectRatio",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.image-standard-large.borderRadius}",
+            "type": "borderRadius"
+          }
+        },
         "button-composite": {
-          "value": "{shape.global.button-composite}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.button-composite.shapeType}",
+            "type": "borderRadius"
+          }
         },
         "button-icon": {
-          "value": "{shape.global.button-icon}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.button-icon.shapeType}",
+            "type": "borderRadius"
+          }
         },
         "container-small": {
-          "value": "{shape.global.container-small}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.container-small.shapeType}",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.container-small.borderRadius}",
+            "type": "borderRadius"
+          }
         },
         "container-medium": {
-          "value": "{shape.global.container-medium}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.container-medium.shapeType}",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.container-medium.borderRadius}",
+            "type": "borderRadius"
+          }
         },
         "container-large": {
-          "value": "{shape.global.container-large}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.container-large.shapeType}",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.container-large.borderRadius}",
+            "type": "borderRadius"
+          }
         },
         "container-xlarge": {
-          "value": "{shape.global.container-xlarge}",
-          "type": "borderRadius"
-        },
-        "image-identity": {
-          "value": "{shape.global.image-identity}",
-          "type": "borderRadius"
-        },
-        "image-media-small": {
-          "value": "{shape.global.image-media-small}",
-          "type": "borderRadius"
-        },
-        "image-media-medium": {
-          "value": "{shape.global.image-media-medium}",
-          "type": "borderRadius"
-        },
-        "image-media-large": {
-          "value": "{shape.global.image-media-large}",
-          "type": "borderRadius"
-        },
-        "image-media-xlarge": {
-          "value": "{brand.border-radius-24}",
-          "type": "borderRadius"
-        },
-        "search-field": {
-          "value": "{shape.global.search-field}",
-          "type": "borderRadius"
-        },
-        "text-field": {
-          "value": "{shape.global.text-field}",
-          "type": "borderRadius"
+          "shapeType": {
+            "value": "{shape.global.container-xlarge.shapeType}",
+            "type": "borderRadius"
+          },
+          "borderRadius": {
+            "value": "{shape.global.container-xlarge.borderRadius}",
+            "type": "borderRadius"
+          }
         }
       }
     }
