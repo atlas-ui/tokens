@@ -2531,19 +2531,19 @@
     "global": {
       "headline-large": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-small.headline-large.paddingBottom}",
+          "value": "{typography.global.breakpoint-small-pb.headline-large.paddingBottom}",
           "type": "dimension"
         }
       },
       "headline-medium": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-small.headline-medium.paddingBottom}",
+          "value": "{typography.global.breakpoint-small-pb.headline-medium.paddingBottom}",
           "type": "dimension"
         }
       },
       "headline-small": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-small.headline-small.paddingBottom}",
+          "value": "{typography.global.breakpoint-small-pb.headline-small.paddingBottom}",
           "type": "dimension"
         }
       }
@@ -2551,19 +2551,19 @@
     "tv": {
       "headline-large": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv.headline-large.paddingBottom}",
+          "value": "{typography.global.breakpoint-tv-pb.headline-large.paddingBottom}",
           "type": "dimension"
         }
       },
       "headline-medium": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv.headline-medium.paddingBottom}",
+          "value": "{typography.global.breakpoint-tv-pb.headline-medium.paddingBottom}",
           "type": "dimension"
         }
       },
       "headline-small": {
         "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv.headline-small.paddingBottom}",
+          "value": "{typography.global.breakpoint-tv-pb.headline-small.paddingBottom}",
           "type": "dimension"
         }
       }
