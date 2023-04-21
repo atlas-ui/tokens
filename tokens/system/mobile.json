@@ -2165,6 +2165,34 @@
         "touch-target-sizing-min": {
           "value": "{size.global.touch-target-sizing-min}",
           "type": "sizing"
+        },
+        "image-rounding-small": {
+          "value": "{size.global.image-rounding-small}",
+          "type": "borderRadius"
+        },
+        "image-rounding-medium": {
+          "value": "{size.global.image-rounding-medium}",
+          "type": "borderRadius"
+        },
+        "image-rounding-large": {
+          "value": "{size.global.image-rounding-large}",
+          "type": "borderRadius"
+        },
+        "item-rounding-small": {
+          "value": "{size.global.item-rounding-small}",
+          "type": "borderRadius"
+        },
+        "item-rounding-medium": {
+          "value": "{size.global.item-rounding-medium}",
+          "type": "borderRadius"
+        },
+        "item-rounding-large": {
+          "value": "{size.global.item-rounding-large}",
+          "type": "borderRadius"
+        },
+        "item-rounding-xlarge": {
+          "value": "{size.global.item-rounding-xlarge}",
+          "type": "borderRadius"
         }
       },
       "breakpoint-medium": {
@@ -2215,6 +2243,34 @@
         "touch-target-sizing-min": {
           "value": "{size.global.touch-target-sizing-min}",
           "type": "sizing"
+        },
+        "image-rounding-small": {
+          "value": "{size.global.image-rounding-small}",
+          "type": "borderRadius"
+        },
+        "image-rounding-medium": {
+          "value": "{size.global.image-rounding-medium}",
+          "type": "borderRadius"
+        },
+        "image-rounding-large": {
+          "value": "{size.global.image-rounding-large}",
+          "type": "borderRadius"
+        },
+        "item-rounding-small": {
+          "value": "{size.global.item-rounding-small}",
+          "type": "borderRadius"
+        },
+        "item-rounding-medium": {
+          "value": "{size.global.item-rounding-medium}",
+          "type": "borderRadius"
+        },
+        "item-rounding-large": {
+          "value": "{size.global.item-rounding-large}",
+          "type": "borderRadius"
+        },
+        "item-rounding-xlarge": {
+          "value": "{size.global.item-rounding-xlarge}",
+          "type": "borderRadius"
         }
       }
     }
@@ -2294,205 +2350,73 @@
   "shape": {
     "mobile": {
       "breakpoint-small": {
-        "image-standard-small": {
+        "image-standard-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-small.shapeType}",
+            "value": "{shape.global.image-standard-shape.shapeType}",
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "{shape.global.image-standard-small.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-small.borderRadius}",
+            "value": "{shape.global.image-standard-shape.aspectRatio}",
             "type": "borderRadius"
           }
         },
-        "image-persona": {
+        "image-persona-shape": {
           "shapeType": {
-            "value": "{shape.global.image-persona.shapeType}",
+            "value": "{shape.global.image-persona-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "image-standard-medium": {
+        "button-composite-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-medium.shapeType}",
-            "type": "borderRadius"
-          },
-          "aspectRatio": {
-            "value": "{shape.global.image-standard-medium.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-medium.borderRadius}",
+            "value": "{shape.global.button-composite-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "image-standard-large": {
+        "button-icon-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-large.shapeType}",
-            "type": "borderRadius"
-          },
-          "aspectRatio": {
-            "value": "{shape.global.image-standard-large.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-large.borderRadius}",
+            "value": "{shape.global.button-icon-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "button-composite": {
+        "item-shape": {
           "shapeType": {
-            "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
-          }
-        },
-        "button-icon": {
-          "shapeType": {
-            "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
-          }
-        },
-        "container-small": {
-          "shapeType": {
-            "value": "{shape.global.container-small.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-small.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-medium": {
-          "shapeType": {
-            "value": "{shape.global.container-medium.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-medium.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-large": {
-          "shapeType": {
-            "value": "{shape.global.container-large.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-large.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-xlarge": {
-          "shapeType": {
-            "value": "{shape.global.container-xlarge.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-xlarge.borderRadius}",
+            "value": "{shape.global.item-shape.shapeType}",
             "type": "borderRadius"
           }
         }
       },
       "breakpoint-medium": {
-        "image-standard-small": {
+        "image-standard-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-small.shapeType}",
+            "value": "{shape.global.image-standard-shape.shapeType}",
             "type": "borderRadius"
           },
           "aspectRatio": {
-            "value": "{shape.global.image-standard-small.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-small.borderRadius}",
+            "value": "{shape.global.image-standard-shape.aspectRatio}",
             "type": "borderRadius"
           }
         },
-        "image-persona": {
+        "image-persona-shape": {
           "shapeType": {
-            "value": "{shape.global.image-persona.shapeType}",
+            "value": "{shape.global.image-persona-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "image-standard-medium": {
+        "button-composite-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-medium.shapeType}",
-            "type": "borderRadius"
-          },
-          "aspectRatio": {
-            "value": "{shape.global.image-standard-medium.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-medium.borderRadius}",
+            "value": "{shape.global.button-composite-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "image-standard-large": {
+        "button-icon-shape": {
           "shapeType": {
-            "value": "{shape.global.image-standard-large.shapeType}",
-            "type": "borderRadius"
-          },
-          "aspectRatio": {
-            "value": "{shape.global.image-standard-large.aspectRatio}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.image-standard-large.borderRadius}",
+            "value": "{shape.global.button-icon-shape.shapeType}",
             "type": "borderRadius"
           }
         },
-        "button-composite": {
+        "item-shape": {
           "shapeType": {
-            "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
-          }
-        },
-        "button-icon": {
-          "shapeType": {
-            "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
-          }
-        },
-        "container-small": {
-          "shapeType": {
-            "value": "{shape.global.container-small.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-small.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-medium": {
-          "shapeType": {
-            "value": "{shape.global.container-medium.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-medium.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-large": {
-          "shapeType": {
-            "value": "{shape.global.container-large.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-large.borderRadius}",
-            "type": "borderRadius"
-          }
-        },
-        "container-xlarge": {
-          "shapeType": {
-            "value": "{shape.global.container-xlarge.shapeType}",
-            "type": "borderRadius"
-          },
-          "borderRadius": {
-            "value": "{shape.global.container-xlarge.borderRadius}",
+            "value": "{shape.global.item-shape.shapeType}",
             "type": "borderRadius"
           }
         }

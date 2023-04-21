@@ -2354,6 +2354,34 @@
       "touch-target-sizing-min": {
         "value": "{brand.sizing-40}",
         "type": "sizing"
+      },
+      "image-rounding-small": {
+        "value": "{brand.border-radius-4}",
+        "type": "borderRadius"
+      },
+      "image-rounding-medium": {
+        "value": "{brand.border-radius-8}",
+        "type": "borderRadius"
+      },
+      "image-rounding-large": {
+        "value": "{brand.border-radius-24}",
+        "type": "borderRadius"
+      },
+      "item-rounding-small": {
+        "value": "{brand.border-radius-8}",
+        "type": "borderRadius"
+      },
+      "item-rounding-medium": {
+        "value": "{brand.border-radius-16}",
+        "type": "borderRadius"
+      },
+      "item-rounding-large": {
+        "value": "{brand.border-radius-32}",
+        "type": "borderRadius"
+      },
+      "item-rounding-xlarge": {
+        "value": "{brand.border-radius-40}",
+        "type": "borderRadius"
       }
     }
   },
@@ -2395,104 +2423,38 @@
   },
   "shape": {
     "global": {
-      "image-standard-small": {
-        "shapeType": {
-          "value": "{brand.shape-rectangle}",
-          "type": "borderRadius"
-        },
-        "aspectRatio": {
-          "value": "{brand.aspect-ratio-1}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-4}",
-          "type": "borderRadius"
-        }
-      },
-      "image-persona": {
+      "image-persona-shape": {
         "shapeType": {
           "value": "{brand.shape-circle}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
-      "image-standard-medium": {
+      "image-standard-shape": {
         "shapeType": {
           "value": "{brand.shape-rectangle}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "aspectRatio": {
           "value": "{brand.aspect-ratio-1}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-8}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
-      "image-standard-large": {
-        "shapeType": {
-          "value": "{brand.shape-rectangle}",
-          "type": "borderRadius"
-        },
-        "aspectRatio": {
-          "value": "{brand.aspect-ratio-1}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-24}",
-          "type": "borderRadius"
-        }
-      },
-      "button-composite": {
+      "button-composite-shape": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
-      "button-icon": {
+      "button-icon-shape": {
         "shapeType": {
           "value": "{brand.shape-circle}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
-      "container-small": {
+      "item-shape": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-8}",
-          "type": "borderRadius"
-        }
-      },
-      "container-medium": {
-        "shapeType": {
-          "value": "{brand.shape-capsule}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-16}",
-          "type": "borderRadius"
-        }
-      },
-      "container-large": {
-        "shapeType": {
-          "value": "{brand.shape-capsule}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-32}",
-          "type": "borderRadius"
-        }
-      },
-      "container-xlarge": {
-        "shapeType": {
-          "value": "{brand.shape-capsule}",
-          "type": "borderRadius"
-        },
-        "borderRadius": {
-          "value": "{brand.border-radius-40}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       }
     }
