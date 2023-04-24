@@ -2307,51 +2307,51 @@
   },
   "size": {
     "global": {
-      "icon-sizing-small": {
+      "icon-small": {
         "value": "{brand.sizing-16}",
         "type": "sizing"
       },
-      "icon-sizing-medium": {
+      "icon-medium": {
         "value": "{brand.sizing-24}",
         "type": "sizing"
       },
-      "icon-sizing-large": {
+      "icon-large": {
         "value": "{brand.sizing-32}",
         "type": "sizing"
       },
-      "image-list-sizing-small": {
+      "image-list-small": {
         "value": "{brand.sizing-40}",
         "type": "sizing"
       },
-      "image-list-sizing-medium": {
+      "image-list-medium": {
         "value": "{brand.sizing-56}",
         "type": "sizing"
       },
-      "image-list-sizing-large": {
+      "image-list-large": {
         "value": "{brand.sizing-80}",
         "type": "sizing"
       },
-      "button-surface-sizing-small": {
+      "button-surface-small": {
         "value": "{brand.sizing-32}",
         "type": "sizing"
       },
-      "button-surface-sizing-medium": {
+      "button-surface-medium": {
         "value": "{brand.sizing-40}",
         "type": "sizing"
       },
-      "button-surface-sizing-large": {
+      "button-surface-large": {
         "value": "{brand.sizing-56}",
         "type": "sizing"
       },
-      "text-field-sizing-small": {
+      "text-field-small": {
         "value": "{brand.sizing-48}",
         "type": "sizing"
       },
-      "text-field-sizing-large": {
+      "text-field-large": {
         "value": "{brand.sizing-60}",
         "type": "sizing"
       },
-      "touch-target-sizing-min": {
+      "touch-target-min": {
         "value": "{brand.sizing-40}",
         "type": "sizing"
       },
@@ -2387,35 +2387,35 @@
   },
   "space": {
     "global": {
-      "page-spacing-horizontal": {
+      "page-horizontal": {
         "value": "{brand.spacing-24}",
         "type": "spacing"
       },
-      "page-spacing-top": {
+      "page-top": {
         "value": "{brand.spacing-24}",
         "type": "spacing"
       },
-      "page-spacing-bottom": {
+      "page-bottom": {
         "value": "{brand.spacing-24}",
         "type": "spacing"
       },
-      "inter-set-spacing-horizontal": {
+      "inter-set-horizontal": {
         "value": "{brand.spacing-16}",
         "type": "spacing"
       },
-      "inter-set-spacing-vertical": {
+      "inter-set-vertical": {
         "value": "{brand.spacing-32}",
         "type": "spacing"
       },
-      "set-spacing-vertical": {
+      "set-vertical": {
         "value": "{brand.spacing-16}",
         "type": "spacing"
       },
-      "inter-item-spacing-horizontal": {
+      "inter-item-horizontal": {
         "value": "{brand.spacing-8}",
         "type": "spacing"
       },
-      "inter-item-spacing-vertical": {
+      "inter-item-vertical": {
         "value": "{brand.spacing-16}",
         "type": "spacing"
       }
@@ -2423,13 +2423,13 @@
   },
   "shape": {
     "global": {
-      "image-persona-shape": {
+      "image-persona": {
         "shapeType": {
           "value": "{brand.shape-circle}",
           "type": "dimension"
         }
       },
-      "image-standard-shape": {
+      "image-standard": {
         "shapeType": {
           "value": "{brand.shape-rectangle}",
           "type": "dimension"
@@ -2439,19 +2439,19 @@
           "type": "dimension"
         }
       },
-      "button-composite-shape": {
+      "button-composite": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
           "type": "dimension"
         }
       },
-      "button-icon-shape": {
+      "button-icon": {
         "shapeType": {
           "value": "{brand.shape-circle}",
           "type": "dimension"
         }
       },
-      "item-shape": {
+      "item": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
           "type": "dimension"

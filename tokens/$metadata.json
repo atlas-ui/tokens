@@ -3,8 +3,8 @@
     "brand",
     "system/global",
     "system/mobile",
-    "system/web",
     "system/tv",
+    "system/web",
     "figma"
   ]
 }
