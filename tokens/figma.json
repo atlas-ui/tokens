@@ -1,466 +1,4 @@
 {
-  "Light": {
-    "background": {
-      "value": "{color.global.light.background}",
-      "type": "color"
-    },
-    "surface": {
-      "value": "{color.global.light.surface}",
-      "type": "color"
-    },
-    "separator": {
-      "value": "{color.global.light.separator}",
-      "type": "color"
-    },
-    "contrast-strong": {
-      "value": "{color.global.light.contrast-strong}",
-      "type": "color"
-    },
-    "contrast-subtle": {
-      "value": "{color.global.light.contrast-subtle}",
-      "type": "color"
-    },
-    "contrast-critical": {
-      "value": "{color.global.light.contrast-critical}",
-      "type": "color"
-    },
-    "contrast-success": {
-      "value": "{color.global.light.contrast-success}",
-      "type": "color"
-    },
-    "contrast-link": {
-      "value": "{color.global.light.contrast-link}",
-      "type": "color"
-    },
-    "button-primary": {
-      "surface": {
-        "value": "{color.global.light.button-primary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.light.button-primary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.light.button-primary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.light.button-primary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.light.button-primary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.light.button-primary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.light.button-primary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.light.button-primary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.light.button-primary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.light.button-primary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.light.button-primary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.light.button-primary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-secondary": {
-      "surface": {
-        "value": "{color.global.light.button-secondary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.light.button-secondary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.light.button-secondary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.light.button-secondary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.light.button-secondary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.light.button-secondary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.light.button-secondary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.light.button-secondary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.light.button-secondary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.light.button-secondary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.light.button-secondary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.light.button-secondary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-tertiary": {
-      "surface": {
-        "value": "{color.global.light.button-tertiary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.light.button-tertiary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.light.button-tertiary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.light.button-tertiary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.light.button-tertiary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.light.button-tertiary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.light.button-tertiary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.light.button-tertiary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.light.button-tertiary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.light.button-tertiary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.light.button-tertiary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.light.button-tertiary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-select": {
-      "surface": {
-        "value": "{color.global.light.button-select.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.light.button-select.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.light.button-select.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.light.button-select.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.light.button-select.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.light.button-select.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.light.button-select.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.light.button-select.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.light.button-select.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.light.button-select.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.light.button-select.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.light.button-select.border-focused}",
-        "type": "color"
-      },
-      "surface-selected": {
-        "value": "{color.global.light.button-select.surface-selected}",
-        "type": "color"
-      },
-      "contrast-selected": {
-        "value": "{color.global.light.button-select.contrast-selected}",
-        "type": "color"
-      },
-      "border-selected": {
-        "value": "{color.global.light.button-select.border-selected}",
-        "type": "color"
-      }
-    },
-    "input": {
-      "surface": {
-        "value": "{color.global.light.input.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.light.input.contrast}",
-        "type": "color"
-      },
-      "contrast-subtle": {
-        "value": "{color.global.light.input.contrast-subtle}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.light.input.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.light.input.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.light.input.contrast-hover}",
-        "type": "color"
-      },
-      "contrast-subtle-hover": {
-        "value": "{color.global.light.input.contrast-subtle-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.light.input.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.light.input.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.light.input.contrast-pressed}",
-        "type": "color"
-      },
-      "contrast-subtle-pressed": {
-        "value": "{color.global.light.input.contrast-subtle-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.light.input.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.light.input.surface-focused}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.light.input.contrast-focused}",
-        "type": "color"
-      },
-      "contrast-subtle-focused": {
-        "value": "{color.global.light.input.contrast-subtle-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.light.input.border-focused}",
-        "type": "color"
-      },
-      "surface-has-input": {
-        "value": "{color.global.light.input.surface-has-input}",
-        "type": "color"
-      },
-      "contrast-has-input": {
-        "value": "{color.global.light.input.contrast-has-input}",
-        "type": "color"
-      },
-      "contrast-subtle-has-input": {
-        "value": "{color.global.light.input.contrast-subtle-has-input}",
-        "type": "color"
-      },
-      "border-has-input": {
-        "value": "{color.global.light.input.border-has-input}",
-        "type": "color"
-      }
-    },
-    "overlay": {
-      "background": {
-        "value": "{color.global.light.overlay.background}",
-        "type": "color"
-      },
-      "surface": {
-        "value": "{color.global.light.overlay.surface}",
-        "type": "color"
-      },
-      "separator": {
-        "value": "{color.global.light.overlay.separator}",
-        "type": "color"
-      },
-      "contrast-strong": {
-        "value": "{color.global.light.overlay.contrast-strong}",
-        "type": "color"
-      },
-      "contrast-subtle": {
-        "value": "{color.global.light.overlay.contrast-subtle}",
-        "type": "color"
-      },
-      "contrast-critical": {
-        "value": "{color.global.light.overlay.contrast-critical}",
-        "type": "color"
-      },
-      "contrast-success": {
-        "value": "{color.global.light.overlay.contrast-success}",
-        "type": "color"
-      },
-      "contrast-link": {
-        "value": "{color.global.light.overlay.contrast-link}",
-        "type": "color"
-      },
-      "button-primary": {
-        "surface": {
-          "value": "{color.global.light.overlay.button-primary.surface}",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "{color.global.light.overlay.button-primary.contrast}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{color.global.light.overlay.button-primary.border}",
-          "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.light.overlay.button-primary.surface-hover}",
-          "type": "color"
-        },
-        "contrast-hover": {
-          "value": "{color.global.light.overlay.button-primary.contrast-hover}",
-          "type": "color"
-        },
-        "border-hover": {
-          "value": "{color.global.light.overlay.button-primary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.light.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.light.overlay.button-primary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.light.overlay.button-primary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.light.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.light.overlay.button-primary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.light.overlay.button-primary.border-focused}",
-          "type": "color"
-        }
-      },
-      "button-secondary": {
-        "surface": {
-          "value": "{color.global.light.overlay.button-secondary.surface}",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "{color.global.light.overlay.button-secondary.contrast}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{color.global.light.overlay.button-secondary.border}",
-          "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.light.overlay.button-secondary.surface-hover}",
-          "type": "color"
-        },
-        "contrast-hover": {
-          "value": "{color.global.light.overlay.button-secondary.contrast-hover}",
-          "type": "color"
-        },
-        "border-hover": {
-          "value": "{color.global.light.overlay.button-secondary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.light.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.light.overlay.button-secondary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.light.overlay.button-secondary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.light.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.light.overlay.button-secondary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.light.overlay.button-secondary.border-focused}",
-          "type": "color"
-        }
-      }
-    }
-  },
   "Dark": {
     "background": {
       "value": "{color.global.dark.background}",
@@ -923,925 +461,463 @@
       }
     }
   },
-  "HC Light": {
+  "Light": {
     "background": {
-      "value": "{color.global.hc-light.background}",
+      "value": "{color.global.light.background}",
       "type": "color"
     },
     "surface": {
-      "value": "{color.global.hc-light.surface}",
+      "value": "{color.global.light.surface}",
       "type": "color"
     },
     "separator": {
-      "value": "{color.global.hc-light.separator}",
+      "value": "{color.global.light.separator}",
       "type": "color"
     },
     "contrast-strong": {
-      "value": "{color.global.hc-light.contrast-strong}",
+      "value": "{color.global.light.contrast-strong}",
       "type": "color"
     },
     "contrast-subtle": {
-      "value": "{color.global.hc-light.contrast-subtle}",
+      "value": "{color.global.light.contrast-subtle}",
       "type": "color"
     },
     "contrast-critical": {
-      "value": "{color.global.hc-light.contrast-critical}",
+      "value": "{color.global.light.contrast-critical}",
       "type": "color"
     },
     "contrast-success": {
-      "value": "{color.global.hc-light.contrast-success}",
+      "value": "{color.global.light.contrast-success}",
       "type": "color"
     },
     "contrast-link": {
-      "value": "{color.global.hc-light.contrast-link}",
+      "value": "{color.global.light.contrast-link}",
       "type": "color"
     },
     "button-primary": {
       "surface": {
-        "value": "{color.global.hc-light.button-primary.surface}",
+        "value": "{color.global.light.button-primary.surface}",
         "type": "color"
       },
       "contrast": {
-        "value": "{color.global.hc-light.button-primary.contrast}",
+        "value": "{color.global.light.button-primary.contrast}",
         "type": "color"
       },
       "border": {
-        "value": "{color.global.hc-light.button-primary.border}",
+        "value": "{color.global.light.button-primary.border}",
         "type": "color"
       },
       "surface-hover": {
-        "value": "{color.global.hc-light.button-primary.surface-hover}",
+        "value": "{color.global.light.button-primary.surface-hover}",
         "type": "color"
       },
       "contrast-hover": {
-        "value": "{color.global.hc-light.button-primary.contrast-hover}",
+        "value": "{color.global.light.button-primary.contrast-hover}",
         "type": "color"
       },
       "border-hover": {
-        "value": "{color.global.hc-light.button-primary.border-hover}",
+        "value": "{color.global.light.button-primary.border-hover}",
         "type": "color"
       },
       "surface-pressed": {
-        "value": "{color.global.hc-light.button-primary.surface-pressed}",
+        "value": "{color.global.light.button-primary.surface-pressed}",
         "type": "color"
       },
       "contrast-pressed": {
-        "value": "{color.global.hc-light.button-primary.contrast-pressed}",
+        "value": "{color.global.light.button-primary.contrast-pressed}",
         "type": "color"
       },
       "border-pressed": {
-        "value": "{color.global.hc-light.button-primary.border-pressed}",
+        "value": "{color.global.light.button-primary.border-pressed}",
         "type": "color"
       },
       "surface-focused": {
-        "value": "{color.global.hc-light.button-primary.surface-pressed}",
+        "value": "{color.global.light.button-primary.surface-pressed}",
         "type": "color"
       },
       "contrast-focused": {
-        "value": "{color.global.hc-light.button-primary.contrast-focused}",
+        "value": "{color.global.light.button-primary.contrast-focused}",
         "type": "color"
       },
       "border-focused": {
-        "value": "{color.global.hc-light.button-primary.border-focused}",
+        "value": "{color.global.light.button-primary.border-focused}",
         "type": "color"
       }
     },
     "button-secondary": {
       "surface": {
-        "value": "{color.global.hc-light.button-secondary.surface}",
+        "value": "{color.global.light.button-secondary.surface}",
         "type": "color"
       },
       "contrast": {
-        "value": "{color.global.hc-light.button-secondary.contrast}",
+        "value": "{color.global.light.button-secondary.contrast}",
         "type": "color"
       },
       "border": {
-        "value": "{color.global.hc-light.button-secondary.border}",
+        "value": "{color.global.light.button-secondary.border}",
         "type": "color"
       },
       "surface-hover": {
-        "value": "{color.global.hc-light.button-secondary.surface-hover}",
+        "value": "{color.global.light.button-secondary.surface-hover}",
         "type": "color"
       },
       "contrast-hover": {
-        "value": "{color.global.hc-light.button-secondary.contrast-hover}",
+        "value": "{color.global.light.button-secondary.contrast-hover}",
         "type": "color"
       },
       "border-hover": {
-        "value": "{color.global.hc-light.button-secondary.border-hover}",
+        "value": "{color.global.light.button-secondary.border-hover}",
         "type": "color"
       },
       "surface-pressed": {
-        "value": "{color.global.hc-light.button-secondary.surface-pressed}",
+        "value": "{color.global.light.button-secondary.surface-pressed}",
         "type": "color"
       },
       "contrast-pressed": {
-        "value": "{color.global.hc-light.button-secondary.contrast-pressed}",
+        "value": "{color.global.light.button-secondary.contrast-pressed}",
         "type": "color"
       },
       "border-pressed": {
-        "value": "{color.global.hc-light.button-secondary.border-pressed}",
+        "value": "{color.global.light.button-secondary.border-pressed}",
         "type": "color"
       },
       "surface-focused": {
-        "value": "{color.global.hc-light.button-secondary.surface-pressed}",
+        "value": "{color.global.light.button-secondary.surface-pressed}",
         "type": "color"
       },
       "contrast-focused": {
-        "value": "{color.global.hc-light.button-secondary.contrast-focused}",
+        "value": "{color.global.light.button-secondary.contrast-focused}",
         "type": "color"
       },
       "border-focused": {
-        "value": "{color.global.hc-light.button-secondary.border-focused}",
+        "value": "{color.global.light.button-secondary.border-focused}",
         "type": "color"
       }
     },
     "button-tertiary": {
       "surface": {
-        "value": "{color.global.hc-light.button-tertiary.surface}",
+        "value": "{color.global.light.button-tertiary.surface}",
         "type": "color"
       },
       "contrast": {
-        "value": "{color.global.hc-light.button-tertiary.contrast}",
+        "value": "{color.global.light.button-tertiary.contrast}",
         "type": "color"
       },
       "border": {
-        "value": "{color.global.hc-light.button-tertiary.border}",
+        "value": "{color.global.light.button-tertiary.border}",
         "type": "color"
       },
       "surface-hover": {
-        "value": "{color.global.hc-light.button-tertiary.surface-hover}",
+        "value": "{color.global.light.button-tertiary.surface-hover}",
         "type": "color"
       },
       "contrast-hover": {
-        "value": "{color.global.hc-light.button-tertiary.contrast-hover}",
+        "value": "{color.global.light.button-tertiary.contrast-hover}",
         "type": "color"
       },
       "border-hover": {
-        "value": "{color.global.hc-light.button-tertiary.border-hover}",
+        "value": "{color.global.light.button-tertiary.border-hover}",
         "type": "color"
       },
       "surface-pressed": {
-        "value": "{color.global.hc-light.button-tertiary.surface-pressed}",
+        "value": "{color.global.light.button-tertiary.surface-pressed}",
         "type": "color"
       },
       "contrast-pressed": {
-        "value": "{color.global.hc-light.button-tertiary.contrast-pressed}",
+        "value": "{color.global.light.button-tertiary.contrast-pressed}",
         "type": "color"
       },
       "border-pressed": {
-        "value": "{color.global.hc-light.button-tertiary.border-pressed}",
+        "value": "{color.global.light.button-tertiary.border-pressed}",
         "type": "color"
       },
       "surface-focused": {
-        "value": "{color.global.hc-light.button-tertiary.surface-pressed}",
+        "value": "{color.global.light.button-tertiary.surface-pressed}",
         "type": "color"
       },
       "contrast-focused": {
-        "value": "{color.global.hc-light.button-tertiary.contrast-focused}",
+        "value": "{color.global.light.button-tertiary.contrast-focused}",
         "type": "color"
       },
       "border-focused": {
-        "value": "{color.global.hc-light.button-tertiary.border-focused}",
+        "value": "{color.global.light.button-tertiary.border-focused}",
         "type": "color"
       }
     },
     "button-select": {
       "surface": {
-        "value": "{color.global.hc-light.button-select.surface}",
+        "value": "{color.global.light.button-select.surface}",
         "type": "color"
       },
       "contrast": {
-        "value": "{color.global.hc-light.button-select.contrast}",
+        "value": "{color.global.light.button-select.contrast}",
         "type": "color"
       },
       "border": {
-        "value": "{color.global.hc-light.button-select.border}",
+        "value": "{color.global.light.button-select.border}",
         "type": "color"
       },
       "surface-hover": {
-        "value": "{color.global.hc-light.button-select.surface-hover}",
+        "value": "{color.global.light.button-select.surface-hover}",
         "type": "color"
       },
       "contrast-hover": {
-        "value": "{color.global.hc-light.button-select.contrast-hover}",
+        "value": "{color.global.light.button-select.contrast-hover}",
         "type": "color"
       },
       "border-hover": {
-        "value": "{color.global.hc-light.button-select.border-hover}",
+        "value": "{color.global.light.button-select.border-hover}",
         "type": "color"
       },
       "surface-pressed": {
-        "value": "{color.global.hc-light.button-select.surface-pressed}",
+        "value": "{color.global.light.button-select.surface-pressed}",
         "type": "color"
       },
       "contrast-pressed": {
-        "value": "{color.global.hc-light.button-select.contrast-pressed}",
+        "value": "{color.global.light.button-select.contrast-pressed}",
         "type": "color"
       },
       "border-pressed": {
-        "value": "{color.global.hc-light.button-select.border-pressed}",
+        "value": "{color.global.light.button-select.border-pressed}",
         "type": "color"
       },
       "surface-focused": {
-        "value": "{color.global.hc-light.button-select.surface-pressed}",
+        "value": "{color.global.light.button-select.surface-pressed}",
         "type": "color"
       },
       "contrast-focused": {
-        "value": "{color.global.hc-light.button-select.contrast-focused}",
+        "value": "{color.global.light.button-select.contrast-focused}",
         "type": "color"
       },
       "border-focused": {
-        "value": "{color.global.hc-light.button-select.border-focused}",
+        "value": "{color.global.light.button-select.border-focused}",
         "type": "color"
       },
       "surface-selected": {
-        "value": "{color.global.hc-light.button-select.surface-selected}",
+        "value": "{color.global.light.button-select.surface-selected}",
         "type": "color"
       },
       "contrast-selected": {
-        "value": "{color.global.hc-light.button-select.contrast-selected}",
+        "value": "{color.global.light.button-select.contrast-selected}",
         "type": "color"
       },
       "border-selected": {
-        "value": "{color.global.hc-light.button-select.border-selected}",
+        "value": "{color.global.light.button-select.border-selected}",
         "type": "color"
       }
     },
     "input": {
       "surface": {
-        "value": "{color.global.hc-light.input.surface}",
+        "value": "{color.global.light.input.surface}",
         "type": "color"
       },
       "contrast": {
-        "value": "{color.global.hc-light.input.contrast}",
+        "value": "{color.global.light.input.contrast}",
         "type": "color"
       },
       "contrast-subtle": {
-        "value": "{color.global.hc-light.input.contrast-subtle}",
+        "value": "{color.global.light.input.contrast-subtle}",
         "type": "color"
       },
       "border": {
-        "value": "{color.global.hc-light.input.border}",
+        "value": "{color.global.light.input.border}",
         "type": "color"
       },
       "surface-hover": {
-        "value": "{color.global.hc-light.input.surface-hover}",
+        "value": "{color.global.light.input.surface-hover}",
         "type": "color"
       },
       "contrast-hover": {
-        "value": "{color.global.hc-light.input.contrast-hover}",
+        "value": "{color.global.light.input.contrast-hover}",
         "type": "color"
       },
       "contrast-subtle-hover": {
-        "value": "{color.global.hc-light.input.contrast-subtle-hover}",
+        "value": "{color.global.light.input.contrast-subtle-hover}",
         "type": "color"
       },
       "border-hover": {
-        "value": "{color.global.hc-light.input.border-hover}",
+        "value": "{color.global.light.input.border-hover}",
         "type": "color"
       },
       "surface-pressed": {
-        "value": "{color.global.hc-light.input.surface-pressed}",
+        "value": "{color.global.light.input.surface-pressed}",
         "type": "color"
       },
       "contrast-pressed": {
-        "value": "{color.global.hc-light.input.contrast-pressed}",
+        "value": "{color.global.light.input.contrast-pressed}",
         "type": "color"
       },
       "contrast-subtle-pressed": {
-        "value": "{color.global.hc-light.input.contrast-subtle-pressed}",
+        "value": "{color.global.light.input.contrast-subtle-pressed}",
         "type": "color"
       },
       "border-pressed": {
-        "value": "{color.global.hc-light.input.border-pressed}",
+        "value": "{color.global.light.input.border-pressed}",
         "type": "color"
       },
       "surface-focused": {
-        "value": "{color.global.hc-light.input.surface-focused}",
+        "value": "{color.global.light.input.surface-focused}",
         "type": "color"
       },
       "contrast-focused": {
-        "value": "{color.global.hc-light.input.contrast-focused}",
+        "value": "{color.global.light.input.contrast-focused}",
         "type": "color"
       },
       "contrast-subtle-focused": {
-        "value": "{color.global.hc-light.input.contrast-subtle-focused}",
+        "value": "{color.global.light.input.contrast-subtle-focused}",
         "type": "color"
       },
       "border-focused": {
-        "value": "{color.global.hc-light.input.border-focused}",
+        "value": "{color.global.light.input.border-focused}",
         "type": "color"
       },
       "surface-has-input": {
-        "value": "{color.global.hc-light.input.surface-has-input}",
+        "value": "{color.global.light.input.surface-has-input}",
         "type": "color"
       },
       "contrast-has-input": {
-        "value": "{color.global.hc-light.input.contrast-has-input}",
+        "value": "{color.global.light.input.contrast-has-input}",
         "type": "color"
       },
       "contrast-subtle-has-input": {
-        "value": "{color.global.hc-light.input.contrast-subtle-has-input}",
+        "value": "{color.global.light.input.contrast-subtle-has-input}",
         "type": "color"
       },
       "border-has-input": {
-        "value": "{color.global.hc-light.input.border-has-input}",
+        "value": "{color.global.light.input.border-has-input}",
         "type": "color"
       }
     },
     "overlay": {
       "background": {
-        "value": "{color.global.hc-light.overlay.background}",
+        "value": "{color.global.light.overlay.background}",
         "type": "color"
       },
       "surface": {
-        "value": "{color.global.hc-light.overlay.surface}",
+        "value": "{color.global.light.overlay.surface}",
         "type": "color"
       },
       "separator": {
-        "value": "{color.global.hc-light.overlay.separator}",
+        "value": "{color.global.light.overlay.separator}",
         "type": "color"
       },
       "contrast-strong": {
-        "value": "{color.global.hc-light.overlay.contrast-strong}",
+        "value": "{color.global.light.overlay.contrast-strong}",
         "type": "color"
       },
       "contrast-subtle": {
-        "value": "{color.global.hc-light.overlay.contrast-subtle}",
+        "value": "{color.global.light.overlay.contrast-subtle}",
         "type": "color"
       },
       "contrast-critical": {
-        "value": "{color.global.hc-light.overlay.contrast-critical}",
+        "value": "{color.global.light.overlay.contrast-critical}",
         "type": "color"
       },
       "contrast-success": {
-        "value": "{color.global.hc-light.overlay.contrast-success}",
+        "value": "{color.global.light.overlay.contrast-success}",
         "type": "color"
       },
       "contrast-link": {
-        "value": "{color.global.hc-light.overlay.contrast-link}",
+        "value": "{color.global.light.overlay.contrast-link}",
         "type": "color"
       },
       "button-primary": {
         "surface": {
-          "value": "{color.global.hc-light.overlay.button-primary.surface}",
+          "value": "{color.global.light.overlay.button-primary.surface}",
           "type": "color"
         },
         "contrast": {
-          "value": "{color.global.hc-light.overlay.button-primary.contrast}",
+          "value": "{color.global.light.overlay.button-primary.contrast}",
           "type": "color"
         },
         "border": {
-          "value": "{color.global.hc-light.overlay.button-primary.border}",
+          "value": "{color.global.light.overlay.button-primary.border}",
           "type": "color"
         },
         "surface-hover": {
-          "value": "{color.global.hc-light.overlay.button-primary.surface-hover}",
+          "value": "{color.global.light.overlay.button-primary.surface-hover}",
           "type": "color"
         },
         "contrast-hover": {
-          "value": "{color.global.hc-light.overlay.button-primary.contrast-hover}",
+          "value": "{color.global.light.overlay.button-primary.contrast-hover}",
           "type": "color"
         },
         "border-hover": {
-          "value": "{color.global.hc-light.overlay.button-primary.border-hover}",
+          "value": "{color.global.light.overlay.button-primary.border-hover}",
           "type": "color"
         },
         "surface-pressed": {
-          "value": "{color.global.hc-light.overlay.button-primary.surface-pressed}",
+          "value": "{color.global.light.overlay.button-primary.surface-pressed}",
           "type": "color"
         },
         "contrast-pressed": {
-          "value": "{color.global.hc-light.overlay.button-primary.contrast-pressed}",
+          "value": "{color.global.light.overlay.button-primary.contrast-pressed}",
           "type": "color"
         },
         "border-pressed": {
-          "value": "{color.global.hc-light.overlay.button-primary.border-pressed}",
+          "value": "{color.global.light.overlay.button-primary.border-pressed}",
           "type": "color"
         },
         "surface-focused": {
-          "value": "{color.global.hc-light.overlay.button-primary.surface-pressed}",
+          "value": "{color.global.light.overlay.button-primary.surface-pressed}",
           "type": "color"
         },
         "contrast-focused": {
-          "value": "{color.global.hc-light.overlay.button-primary.contrast-focused}",
+          "value": "{color.global.light.overlay.button-primary.contrast-focused}",
           "type": "color"
         },
         "border-focused": {
-          "value": "{color.global.hc-light.overlay.button-primary.border-focused}",
+          "value": "{color.global.light.overlay.button-primary.border-focused}",
           "type": "color"
         }
       },
       "button-secondary": {
         "surface": {
-          "value": "{color.global.hc-light.overlay.button-secondary.surface}",
+          "value": "{color.global.light.overlay.button-secondary.surface}",
           "type": "color"
         },
         "contrast": {
-          "value": "{color.global.hc-light.overlay.button-secondary.contrast}",
+          "value": "{color.global.light.overlay.button-secondary.contrast}",
           "type": "color"
         },
         "border": {
-          "value": "{color.global.hc-light.overlay.button-secondary.border}",
+          "value": "{color.global.light.overlay.button-secondary.border}",
           "type": "color"
         },
         "surface-hover": {
-          "value": "{color.global.hc-light.overlay.button-secondary.surface-hover}",
+          "value": "{color.global.light.overlay.button-secondary.surface-hover}",
           "type": "color"
         },
         "contrast-hover": {
-          "value": "{color.global.hc-light.overlay.button-secondary.contrast-hover}",
+          "value": "{color.global.light.overlay.button-secondary.contrast-hover}",
           "type": "color"
         },
         "border-hover": {
-          "value": "{color.global.hc-light.overlay.button-secondary.border-hover}",
+          "value": "{color.global.light.overlay.button-secondary.border-hover}",
           "type": "color"
         },
         "surface-pressed": {
-          "value": "{color.global.hc-light.overlay.button-secondary.surface-pressed}",
+          "value": "{color.global.light.overlay.button-secondary.surface-pressed}",
           "type": "color"
         },
         "contrast-pressed": {
-          "value": "{color.global.hc-light.overlay.button-secondary.contrast-pressed}",
+          "value": "{color.global.light.overlay.button-secondary.contrast-pressed}",
           "type": "color"
         },
         "border-pressed": {
-          "value": "{color.global.hc-light.overlay.button-secondary.border-pressed}",
+          "value": "{color.global.light.overlay.button-secondary.border-pressed}",
           "type": "color"
         },
         "surface-focused": {
-          "value": "{color.global.hc-light.overlay.button-secondary.surface-pressed}",
+          "value": "{color.global.light.overlay.button-secondary.surface-pressed}",
           "type": "color"
         },
         "contrast-focused": {
-          "value": "{color.global.hc-light.overlay.button-secondary.contrast-focused}",
+          "value": "{color.global.light.overlay.button-secondary.contrast-focused}",
           "type": "color"
         },
         "border-focused": {
-          "value": "{color.global.hc-light.overlay.button-secondary.border-focused}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "HC Dark": {
-    "background": {
-      "value": "{color.global.hc-dark.background}",
-      "type": "color"
-    },
-    "surface": {
-      "value": "{color.global.hc-dark.surface}",
-      "type": "color"
-    },
-    "separator": {
-      "value": "{color.global.hc-dark.separator}",
-      "type": "color"
-    },
-    "contrast-strong": {
-      "value": "{color.global.hc-dark.contrast-strong}",
-      "type": "color"
-    },
-    "contrast-subtle": {
-      "value": "{color.global.hc-dark.contrast-subtle}",
-      "type": "color"
-    },
-    "contrast-critical": {
-      "value": "{color.global.hc-dark.contrast-critical}",
-      "type": "color"
-    },
-    "contrast-success": {
-      "value": "{color.global.hc-dark.contrast-success}",
-      "type": "color"
-    },
-    "contrast-link": {
-      "value": "{color.global.hc-dark.contrast-link}",
-      "type": "color"
-    },
-    "button-primary": {
-      "surface": {
-        "value": "{color.global.hc-dark.button-primary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.hc-dark.button-primary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.hc-dark.button-primary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.hc-dark.button-primary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.hc-dark.button-primary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.hc-dark.button-primary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.hc-dark.button-primary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.hc-dark.button-primary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.hc-dark.button-primary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.hc-dark.button-primary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.hc-dark.button-primary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.hc-dark.button-primary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-secondary": {
-      "surface": {
-        "value": "{color.global.hc-dark.button-secondary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.hc-dark.button-secondary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.hc-dark.button-secondary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.hc-dark.button-secondary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.hc-dark.button-secondary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.hc-dark.button-secondary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.hc-dark.button-secondary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.hc-dark.button-secondary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.hc-dark.button-secondary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.hc-dark.button-secondary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.hc-dark.button-secondary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.hc-dark.button-secondary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-tertiary": {
-      "surface": {
-        "value": "{color.global.hc-dark.button-tertiary.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.hc-dark.button-tertiary.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.hc-dark.button-tertiary.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.hc-dark.button-tertiary.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.hc-dark.button-tertiary.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.hc-dark.button-tertiary.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.hc-dark.button-tertiary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.hc-dark.button-tertiary.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.hc-dark.button-tertiary.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.hc-dark.button-tertiary.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.hc-dark.button-tertiary.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.hc-dark.button-tertiary.border-focused}",
-        "type": "color"
-      }
-    },
-    "button-select": {
-      "surface": {
-        "value": "{color.global.hc-dark.button-select.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.hc-dark.button-select.contrast}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.hc-dark.button-select.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.hc-dark.button-select.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.hc-dark.button-select.contrast-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.hc-dark.button-select.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.hc-dark.button-select.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.hc-dark.button-select.contrast-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.hc-dark.button-select.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.hc-dark.button-select.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.hc-dark.button-select.contrast-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.hc-dark.button-select.border-focused}",
-        "type": "color"
-      },
-      "surface-selected": {
-        "value": "{color.global.hc-dark.button-select.surface-selected}",
-        "type": "color"
-      },
-      "contrast-selected": {
-        "value": "{color.global.hc-dark.button-select.contrast-selected}",
-        "type": "color"
-      },
-      "border-selected": {
-        "value": "{color.global.hc-dark.button-select.border-selected}",
-        "type": "color"
-      }
-    },
-    "input": {
-      "surface": {
-        "value": "{color.global.hc-dark.input.surface}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{color.global.hc-dark.input.contrast}",
-        "type": "color"
-      },
-      "contrast-subtle": {
-        "value": "{color.global.hc-dark.input.contrast-subtle}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{color.global.hc-dark.input.border}",
-        "type": "color"
-      },
-      "surface-hover": {
-        "value": "{color.global.hc-dark.input.surface-hover}",
-        "type": "color"
-      },
-      "contrast-hover": {
-        "value": "{color.global.hc-dark.input.contrast-hover}",
-        "type": "color"
-      },
-      "contrast-subtle-hover": {
-        "value": "{color.global.hc-dark.input.contrast-subtle-hover}",
-        "type": "color"
-      },
-      "border-hover": {
-        "value": "{color.global.hc-dark.input.border-hover}",
-        "type": "color"
-      },
-      "surface-pressed": {
-        "value": "{color.global.hc-dark.input.surface-pressed}",
-        "type": "color"
-      },
-      "contrast-pressed": {
-        "value": "{color.global.hc-dark.input.contrast-pressed}",
-        "type": "color"
-      },
-      "contrast-subtle-pressed": {
-        "value": "{color.global.hc-dark.input.contrast-subtle-pressed}",
-        "type": "color"
-      },
-      "border-pressed": {
-        "value": "{color.global.hc-dark.input.border-pressed}",
-        "type": "color"
-      },
-      "surface-focused": {
-        "value": "{color.global.hc-dark.input.surface-focused}",
-        "type": "color"
-      },
-      "contrast-focused": {
-        "value": "{color.global.hc-dark.input.contrast-focused}",
-        "type": "color"
-      },
-      "contrast-subtle-focused": {
-        "value": "{color.global.hc-dark.input.contrast-subtle-focused}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{color.global.hc-dark.input.border-focused}",
-        "type": "color"
-      },
-      "surface-has-input": {
-        "value": "{color.global.hc-dark.input.surface-has-input}",
-        "type": "color"
-      },
-      "contrast-has-input": {
-        "value": "{color.global.hc-dark.input.contrast-has-input}",
-        "type": "color"
-      },
-      "contrast-subtle-has-input": {
-        "value": "{color.global.hc-dark.input.contrast-subtle-has-input}",
-        "type": "color"
-      },
-      "border-has-input": {
-        "value": "{color.global.hc-dark.input.border-has-input}",
-        "type": "color"
-      }
-    },
-    "overlay": {
-      "background": {
-        "value": "{color.global.hc-dark.overlay.background}",
-        "type": "color"
-      },
-      "surface": {
-        "value": "{color.global.hc-dark.overlay.surface}",
-        "type": "color"
-      },
-      "separator": {
-        "value": "{color.global.hc-dark.overlay.separator}",
-        "type": "color"
-      },
-      "contrast-strong": {
-        "value": "{color.global.hc-dark.overlay.contrast-strong}",
-        "type": "color"
-      },
-      "contrast-subtle": {
-        "value": "{color.global.hc-dark.overlay.contrast-subtle}",
-        "type": "color"
-      },
-      "contrast-critical": {
-        "value": "{color.global.hc-dark.overlay.contrast-critical}",
-        "type": "color"
-      },
-      "contrast-success": {
-        "value": "{color.global.hc-dark.overlay.contrast-success}",
-        "type": "color"
-      },
-      "contrast-link": {
-        "value": "{color.global.hc-dark.overlay.contrast-link}",
-        "type": "color"
-      },
-      "button-primary": {
-        "surface": {
-          "value": "{color.global.hc-dark.overlay.button-primary.surface}",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "{color.global.hc-dark.overlay.button-primary.contrast}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{color.global.hc-dark.overlay.button-primary.border}",
-          "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.hc-dark.overlay.button-primary.surface-hover}",
-          "type": "color"
-        },
-        "contrast-hover": {
-          "value": "{color.global.hc-dark.overlay.button-primary.contrast-hover}",
-          "type": "color"
-        },
-        "border-hover": {
-          "value": "{color.global.hc-dark.overlay.button-primary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-primary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-primary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.hc-dark.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.hc-dark.overlay.button-primary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.hc-dark.overlay.button-primary.border-focused}",
-          "type": "color"
-        }
-      },
-      "button-secondary": {
-        "surface": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.surface}",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.contrast}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.border}",
-          "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.surface-hover}",
-          "type": "color"
-        },
-        "contrast-hover": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.contrast-hover}",
-          "type": "color"
-        },
-        "border-hover": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.hc-dark.overlay.button-secondary.border-focused}",
+          "value": "{color.global.light.overlay.button-secondary.border-focused}",
           "type": "color"
         }
       }
@@ -1850,181 +926,181 @@
   "Breakpoint Small": {
     "headline-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.headline-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.headline-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.headline-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.headline-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.headline-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.headline-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.headline-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-large.textCase}"
       },
       "type": "typography"
     },
     "headline-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.headline-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.headline-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.headline-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.headline-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.headline-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.headline-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.headline-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-medium.textCase}"
       },
       "type": "typography"
     },
     "headline-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.headline-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.headline-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.headline-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.headline-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.headline-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.headline-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.headline-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-small.textCase}"
       },
       "type": "typography"
     },
     "title-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.title-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.title-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.title-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.title-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.title-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.title-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.title-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.title-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-large.textCase}"
       },
       "type": "typography"
     },
     "title-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.title-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.title-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.title-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.title-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.title-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.title-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.title-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.title-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-medium.textCase}"
       },
       "type": "typography"
     },
     "title-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.title-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.title-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.title-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.title-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.title-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.title-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.title-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.title-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-small.textCase}"
       },
       "type": "typography"
     },
     "detail-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.detail-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.detail-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.detail-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.detail-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.detail-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.detail-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.detail-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-large.textCase}"
       },
       "type": "typography"
     },
     "detail-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.detail-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.detail-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.detail-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.detail-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.detail-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.detail-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.detail-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-medium.textCase}"
       },
       "type": "typography"
     },
     "detail-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.detail-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.detail-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.detail-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.detail-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.detail-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.detail-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.detail-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-small.textCase}"
       },
       "type": "typography"
     },
     "paragraph-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.paragraph-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.paragraph-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.paragraph-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.paragraph-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.paragraph-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.paragraph-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.paragraph-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.paragraph-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.paragraph-large.textCase}"
       },
       "type": "typography"
     },
     "paragraph-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.paragraph-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.paragraph-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.paragraph-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.paragraph-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.paragraph-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.paragraph-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.paragraph-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.paragraph-medium.textCase}"
       },
       "type": "typography"
     },
     "paragraph-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.paragraph-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.paragraph-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.paragraph-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.paragraph-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.paragraph-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.paragraph-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.paragraph-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.paragraph-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.paragraph-small.textCase}"
       },
       "type": "typography"
     },
     "label-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.label-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.label-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.label-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.label-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.label-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.label-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.label-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.label-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-large.textCase}"
       },
       "type": "typography"
     },
     "label-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.label-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.label-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.label-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.label-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.label-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.label-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.label-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.label-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-medium.textCase}"
       },
       "type": "typography"
     },
     "label-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-small.label-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-small.label-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-small.label-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-small.label-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-small.label-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-small.label-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-small.label-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-small.label-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-small.textCase}"
       },
       "type": "typography"
     }
@@ -2032,181 +1108,181 @@
   "Breakpoint Medium": {
     "headline-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.headline-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.headline-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.headline-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.headline-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.headline-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.headline-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.headline-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.headline-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.headline-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.headline-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.headline-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.headline-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.headline-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.headline-large.textCase}"
       },
       "type": "typography"
     },
     "headline-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.headline-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.headline-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.headline-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.headline-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.headline-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.headline-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.headline-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.headline-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.headline-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.headline-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.headline-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.headline-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.headline-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.headline-medium.textCase}"
       },
       "type": "typography"
     },
     "headline-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.headline-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.headline-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.headline-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.headline-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.headline-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.headline-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.headline-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.headline-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.headline-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.headline-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.headline-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.headline-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.headline-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.headline-small.textCase}"
       },
       "type": "typography"
     },
     "title-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.title-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.title-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.title-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.title-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.title-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.title-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.title-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.title-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.title-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.title-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.title-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.title-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.title-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.title-large.textCase}"
       },
       "type": "typography"
     },
     "title-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.title-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.title-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.title-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.title-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.title-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.title-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.title-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.title-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.title-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.title-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.title-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.title-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.title-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.title-medium.textCase}"
       },
       "type": "typography"
     },
     "title-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.title-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.title-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.title-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.title-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.title-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.title-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.title-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.title-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.title-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.title-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.title-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.title-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.title-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.title-small.textCase}"
       },
       "type": "typography"
     },
     "detail-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.detail-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.detail-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.detail-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.detail-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.detail-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.detail-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.detail-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.detail-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.detail-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.detail-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.detail-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.detail-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.detail-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.detail-large.textCase}"
       },
       "type": "typography"
     },
     "detail-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.detail-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.detail-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.detail-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.detail-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.detail-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.detail-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.detail-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.detail-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.detail-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.detail-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.detail-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.detail-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.detail-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.detail-medium.textCase}"
       },
       "type": "typography"
     },
     "detail-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.detail-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.detail-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.detail-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.detail-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.detail-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.detail-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.detail-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.detail-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.detail-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.detail-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.detail-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.detail-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.detail-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.detail-small.textCase}"
       },
       "type": "typography"
     },
     "paragraph-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.paragraph-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.paragraph-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.paragraph-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.paragraph-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.paragraph-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.paragraph-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.paragraph-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.paragraph-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.paragraph-large.textCase}"
       },
       "type": "typography"
     },
     "paragraph-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.paragraph-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.paragraph-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.paragraph-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.paragraph-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.paragraph-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.paragraph-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.paragraph-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.paragraph-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.paragraph-medium.textCase}"
       },
       "type": "typography"
     },
     "paragraph-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.paragraph-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.paragraph-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.paragraph-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.paragraph-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.paragraph-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.paragraph-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.paragraph-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.paragraph-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.paragraph-small.textCase}"
       },
       "type": "typography"
     },
     "label-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.label-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.label-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.label-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.label-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.label-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.label-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.label-large.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.label-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.label-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.label-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.label-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.label-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.label-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.label-large.textCase}"
       },
       "type": "typography"
     },
     "label-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.label-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.label-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.label-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.label-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.label-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.label-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.label-medium.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.label-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.label-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.label-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.label-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.label-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.label-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.label-medium.textCase}"
       },
       "type": "typography"
     },
     "label-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-medium.label-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-medium.label-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-medium.label-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-medium.label-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-medium.label-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-medium.label-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-medium.label-small.textCase}"
+        "fontFamily": "{typography.mobile.breakpoint-medium.label-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-medium.label-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-medium.label-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-medium.label-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-medium.label-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-medium.label-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-medium.label-small.textCase}"
       },
       "type": "typography"
     }
@@ -2214,181 +1290,181 @@
   "Breakpoint Large": {
     "headline-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.headline-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.headline-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.headline-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.headline-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.headline-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.headline-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.headline-large.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.headline-large.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.headline-large.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.headline-large.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.headline-large.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.headline-large.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.headline-large.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.headline-large.textCase}"
       },
       "type": "typography"
     },
     "headline-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.headline-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.headline-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.headline-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.headline-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.headline-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.headline-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.headline-medium.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.headline-medium.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.headline-medium.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.headline-medium.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.headline-medium.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.headline-medium.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.headline-medium.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.headline-medium.textCase}"
       },
       "type": "typography"
     },
     "headline-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.headline-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.headline-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.headline-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.headline-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.headline-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.headline-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.headline-small.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.headline-small.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.headline-small.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.headline-small.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.headline-small.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.headline-small.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.headline-small.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.headline-small.textCase}"
       },
       "type": "typography"
     },
     "title-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.title-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.title-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.title-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.title-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.title-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.title-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.title-large.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.title-large.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.title-large.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.title-large.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.title-large.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.title-large.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.title-large.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.title-large.textCase}"
       },
       "type": "typography"
     },
     "title-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.title-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.title-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.title-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.title-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.title-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.title-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.title-medium.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.title-medium.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.title-medium.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.title-medium.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.title-medium.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.title-medium.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.title-medium.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.title-medium.textCase}"
       },
       "type": "typography"
     },
     "title-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.title-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.title-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.title-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.title-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.title-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.title-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.title-small.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.title-small.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.title-small.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.title-small.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.title-small.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.title-small.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.title-small.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.title-small.textCase}"
       },
       "type": "typography"
     },
     "detail-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.detail-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.detail-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.detail-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.detail-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.detail-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.detail-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.detail-large.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.detail-large.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.detail-large.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.detail-large.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.detail-large.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.detail-large.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.detail-large.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.detail-large.textCase}"
       },
       "type": "typography"
     },
     "detail-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.detail-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.detail-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.detail-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.detail-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.detail-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.detail-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.detail-medium.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.detail-medium.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.detail-medium.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.detail-medium.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.detail-medium.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.detail-medium.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.detail-medium.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.detail-medium.textCase}"
       },
       "type": "typography"
     },
     "detail-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.detail-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.detail-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.detail-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.detail-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.detail-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.detail-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.detail-small.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.detail-small.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.detail-small.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.detail-small.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.detail-small.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.detail-small.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.detail-small.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.detail-small.textCase}"
       },
       "type": "typography"
     },
     "paragraph-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.paragraph-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.paragraph-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.paragraph-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.paragraph-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.paragraph-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.paragraph-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.paragraph-large.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.paragraph-large.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.paragraph-large.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.paragraph-large.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.paragraph-large.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.paragraph-large.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.paragraph-large.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.paragraph-large.textCase}"
       },
       "type": "typography"
     },
     "paragraph-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.paragraph-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.paragraph-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.paragraph-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.paragraph-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.paragraph-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.paragraph-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.paragraph-medium.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.paragraph-medium.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.paragraph-medium.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.paragraph-medium.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.paragraph-medium.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.paragraph-medium.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.paragraph-medium.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.paragraph-medium.textCase}"
       },
       "type": "typography"
     },
     "paragraph-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.paragraph-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.paragraph-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.paragraph-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.paragraph-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.paragraph-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.paragraph-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.paragraph-small.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.paragraph-small.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.paragraph-small.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.paragraph-small.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.paragraph-small.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.paragraph-small.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.paragraph-small.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.paragraph-small.textCase}"
       },
       "type": "typography"
     },
     "label-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.label-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.label-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.label-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.label-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.label-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.label-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.label-large.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.label-large.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.label-large.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.label-large.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.label-large.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.label-large.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.label-large.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.label-large.textCase}"
       },
       "type": "typography"
     },
     "label-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.label-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.label-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.label-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.label-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.label-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.label-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.label-medium.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.label-medium.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.label-medium.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.label-medium.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.label-medium.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.label-medium.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.label-medium.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.label-medium.textCase}"
       },
       "type": "typography"
     },
     "label-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-large.label-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-large.label-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-large.label-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-large.label-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-large.label-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-large.label-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-large.label-small.textCase}"
+        "fontFamily": "{typography.web.breakpoint-large.label-small.fontFamily}",
+        "fontWeight": "{typography.web.breakpoint-large.label-small.fontWeight}",
+        "lineHeight": "{typography.web.breakpoint-large.label-small.lineHeight}",
+        "fontSize": "{typography.web.breakpoint-large.label-small.fontSize}",
+        "letterSpacing": "{typography.web.breakpoint-large.label-small.letterSpacing}",
+        "textDecoration": "{typography.web.breakpoint-large.label-small.textDecoration}",
+        "textCase": "{typography.web.breakpoint-large.label-small.textCase}"
       },
       "type": "typography"
     }
@@ -2396,177 +1472,135 @@
   "TV": {
     "headline-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.headline-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.headline-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.headline-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.headline-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.headline-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.headline-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.headline-large.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.headline-large.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.headline-large.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.headline-large.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.headline-large.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.headline-large.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}"
       },
       "type": "typography"
     },
     "headline-medium": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.headline-medium.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.headline-medium.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.headline-medium.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.headline-medium.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.headline-medium.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.headline-medium.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.headline-medium.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.headline-medium.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.headline-medium.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.headline-medium.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.headline-medium.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.headline-medium.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.headline-medium.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.headline-medium.textCase}"
       },
       "type": "typography"
     },
     "headline-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.headline-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.headline-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.headline-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.headline-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.headline-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.headline-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.headline-small.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.headline-small.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.headline-small.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.headline-small.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.headline-small.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.headline-small.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.headline-small.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.headline-small.textCase}"
       },
       "type": "typography"
     },
     "title-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.title-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.title-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.title-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.title-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.title-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.title-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.title-large.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.title-large.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.title-large.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.title-large.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.title-large.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.title-large.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.title-large.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.title-large.textCase}"
       },
       "type": "typography"
     },
     "title-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.title-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.title-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.title-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.title-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.title-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.title-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.title-small.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.title-small.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.title-small.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.title-small.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.title-small.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.title-small.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.title-small.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.title-small.textCase}"
       },
       "type": "typography"
     },
     "detail-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.detail-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.detail-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.detail-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.detail-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.detail-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.detail-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.detail-large.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.detail-large.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.detail-large.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.detail-large.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.detail-large.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.detail-large.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.detail-large.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.detail-large.textCase}"
       },
       "type": "typography"
     },
     "detail-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.detail-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.detail-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.detail-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.detail-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.detail-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.detail-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.detail-small.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.detail-small.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.detail-small.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.detail-small.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.detail-small.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.detail-small.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.detail-small.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.detail-small.textCase}"
       },
       "type": "typography"
     },
     "paragraph-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.paragraph-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.paragraph-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.paragraph-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.paragraph-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.paragraph-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.paragraph-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.paragraph-large.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.paragraph-large.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.paragraph-large.textCase}"
       },
       "type": "typography"
     },
     "paragraph-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.paragraph-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.paragraph-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.paragraph-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.paragraph-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.paragraph-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.paragraph-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.paragraph-small.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.paragraph-small.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.paragraph-small.textCase}"
       },
       "type": "typography"
     },
     "label-large": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.label-large.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.label-large.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.label-large.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.label-large.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.label-large.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.label-large.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.label-large.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.label-large.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.label-large.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.label-large.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.label-large.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.label-large.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.label-large.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.label-large.textCase}"
       },
       "type": "typography"
     },
     "label-small": {
       "value": {
-        "fontFamily": "{typography.global.breakpoint-tv.label-small.fontFamily}",
-        "fontWeight": "{typography.global.breakpoint-tv.label-small.fontWeight}",
-        "lineHeight": "{typography.global.breakpoint-tv.label-small.lineHeight}",
-        "fontSize": "{typography.global.breakpoint-tv.label-small.fontSize}",
-        "letterSpacing": "{typography.global.breakpoint-tv.label-small.letterSpacing}",
-        "textDecoration": "{typography.global.breakpoint-tv.label-small.textDecoration}",
-        "textCase": "{typography.global.breakpoint-tv.label-small.textCase}"
+        "fontFamily": "{typography.tv.breakpoint-tv.label-small.fontFamily}",
+        "fontWeight": "{typography.tv.breakpoint-tv.label-small.fontWeight}",
+        "lineHeight": "{typography.tv.breakpoint-tv.label-small.lineHeight}",
+        "fontSize": "{typography.tv.breakpoint-tv.label-small.fontSize}",
+        "letterSpacing": "{typography.tv.breakpoint-tv.label-small.letterSpacing}",
+        "textDecoration": "{typography.tv.breakpoint-tv.label-small.textDecoration}",
+        "textCase": "{typography.tv.breakpoint-tv.label-small.textCase}"
       },
       "type": "typography"
-    }
-  },
-  "utility": {
-    "global": {
-      "headline-large": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-small-pb.headline-large.paddingBottom}",
-          "type": "dimension"
-        }
-      },
-      "headline-medium": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-small-pb.headline-medium.paddingBottom}",
-          "type": "dimension"
-        }
-      },
-      "headline-small": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-small-pb.headline-small.paddingBottom}",
-          "type": "dimension"
-        }
-      }
-    },
-    "tv": {
-      "headline-large": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv-pb.headline-large.paddingBottom}",
-          "type": "dimension"
-        }
-      },
-      "headline-medium": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv-pb.headline-medium.paddingBottom}",
-          "type": "dimension"
-        }
-      },
-      "headline-small": {
-        "paddingBottom": {
-          "value": "{typography.global.breakpoint-tv-pb.headline-small.paddingBottom}",
-          "type": "dimension"
-        }
-      }
     }
   }
 }

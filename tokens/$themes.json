@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "a4f054c89e93071a072209bbe8fc35aa23d5a9a4",
+    "name": "sxm-atlas",
+    "selectedTokenSets": {
+      "brand": "source",
+      "system/global": "source",
+      "system/mobile": "source",
+      "system/tv": "source",
+      "system/web": "source",
+      "figma": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
