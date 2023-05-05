@@ -562,8 +562,12 @@
       "value": "none",
       "type": "textCase"
     },
-    "aspect-ratio-1": {
+    "aspect-ratio-square": {
       "value": "1.0",
+      "type": "sizing"
+    },
+    "aspect-ratio-logo": {
+      "value": "1.25",
       "type": "sizing"
     }
   }

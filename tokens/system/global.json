@@ -1981,7 +1981,7 @@
           "type": "dimension"
         },
         "aspectRatio": {
-          "value": "{brand.aspect-ratio-1}",
+          "value": "{brand.aspect-ratio-square}",
           "type": "dimension"
         }
       },
@@ -2000,6 +2000,16 @@
       "item": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
+          "type": "dimension"
+        }
+      },
+      "logo": {
+        "shapeType": {
+          "value": "{shape.global.image-standard.shapeType}",
+          "type": "dimension"
+        },
+        "aspectRatio": {
+          "value": "{brand.aspect-ratio-logo}",
           "type": "dimension"
         }
       }
