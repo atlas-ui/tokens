@@ -1922,7 +1922,7 @@
         "type": "borderRadius"
       },
       "item-rounding-large": {
-        "value": "{brand.border-radius-32}",
+        "value": "{brand.border-radius-24}",
         "type": "borderRadius"
       },
       "item-rounding-xlarge": {
