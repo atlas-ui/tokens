@@ -3907,35 +3907,45 @@
         "image-standard": {
           "shapeType": {
             "value": "{shape.global.image-standard.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           },
           "aspectRatio": {
             "value": "{shape.global.image-standard.aspectRatio}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "image-persona": {
           "shapeType": {
             "value": "{shape.global.image-persona.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-composite": {
           "shapeType": {
             "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-icon": {
           "shapeType": {
             "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "item": {
           "shapeType": {
             "value": "{shape.global.item.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
+          }
+        },
+        "logo": {
+          "shapeType": {
+            "value": "{shape.global.logo.shapeType}",
+            "type": "dimension"
+          },
+          "aspectRatio": {
+            "value": "{shape.global.logo.aspectRatio}",
+            "type": "dimension"
           }
         }
       },
@@ -3943,35 +3953,45 @@
         "image-standard": {
           "shapeType": {
             "value": "{shape.global.image-standard.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           },
           "aspectRatio": {
             "value": "{shape.global.image-standard.aspectRatio}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "image-persona": {
           "shapeType": {
             "value": "{shape.global.image-persona.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-composite": {
           "shapeType": {
             "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-icon": {
           "shapeType": {
             "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "item": {
           "shapeType": {
             "value": "{shape.global.item.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
+          }
+        },
+        "logo": {
+          "shapeType": {
+            "value": "{shape.global.logo.shapeType}",
+            "type": "dimension"
+          },
+          "aspectRatio": {
+            "value": "{shape.global.logo.aspectRatio}",
+            "type": "dimension"
           }
         }
       }

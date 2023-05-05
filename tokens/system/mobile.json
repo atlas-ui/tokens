@@ -2468,31 +2468,31 @@
         },
         "image-rounding-small": {
           "value": "{size.global.image-rounding-small}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "image-rounding-medium": {
           "value": "{size.global.image-rounding-medium}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "image-rounding-large": {
           "value": "{size.global.image-rounding-large}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-small": {
           "value": "{size.global.item-rounding-small}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-medium": {
           "value": "{size.global.item-rounding-medium}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-large": {
           "value": "{size.global.item-rounding-large}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-xlarge": {
           "value": "{size.global.item-rounding-xlarge}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
       "breakpoint-medium": {
@@ -2546,31 +2546,31 @@
         },
         "image-rounding-small": {
           "value": "{size.global.image-rounding-small}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "image-rounding-medium": {
           "value": "{size.global.image-rounding-medium}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "image-rounding-large": {
           "value": "{size.global.image-rounding-large}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-small": {
           "value": "{size.global.item-rounding-small}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-medium": {
           "value": "{size.global.item-rounding-medium}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-large": {
           "value": "{size.global.item-rounding-large}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "item-rounding-xlarge": {
           "value": "{size.global.item-rounding-xlarge}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       }
     }
@@ -2653,35 +2653,45 @@
         "image-standard": {
           "shapeType": {
             "value": "{shape.global.image-standard.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           },
           "aspectRatio": {
             "value": "{shape.global.image-standard.aspectRatio}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "image-persona": {
           "shapeType": {
             "value": "{shape.global.image-persona.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-composite": {
           "shapeType": {
             "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-icon": {
           "shapeType": {
             "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "item": {
           "shapeType": {
             "value": "{shape.global.item.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
+          }
+        },
+        "logo": {
+          "shapeType": {
+            "value": "{shape.global.logo.shapeType}",
+            "type": "dimension"
+          },
+          "aspectRatio": {
+            "value": "{shape.global.logo.aspectRatio}",
+            "type": "dimension"
           }
         }
       },
@@ -2689,35 +2699,45 @@
         "image-standard": {
           "shapeType": {
             "value": "{shape.global.image-standard.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           },
           "aspectRatio": {
             "value": "{shape.global.image-standard.aspectRatio}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "image-persona": {
           "shapeType": {
             "value": "{shape.global.image-persona.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-composite": {
           "shapeType": {
             "value": "{shape.global.button-composite.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "button-icon": {
           "shapeType": {
             "value": "{shape.global.button-icon.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
           }
         },
         "item": {
           "shapeType": {
             "value": "{shape.global.item.shapeType}",
-            "type": "borderRadius"
+            "type": "dimension"
+          }
+        },
+        "logo": {
+          "shapeType": {
+            "value": "{shape.global.logo.shapeType}",
+            "type": "dimension"
+          },
+          "aspectRatio": {
+            "value": "{shape.global.logo.aspectRatio}",
+            "type": "dimension"
           }
         }
       }

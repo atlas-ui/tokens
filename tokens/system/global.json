@@ -2005,7 +2005,7 @@
       },
       "logo": {
         "shapeType": {
-          "value": "{shape.global.image-standard.shapeType}",
+          "value": "{brand.shape-rectangle}",
           "type": "dimension"
         },
         "aspectRatio": {
