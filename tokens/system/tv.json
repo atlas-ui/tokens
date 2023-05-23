@@ -7,11 +7,11 @@
           "type": "color"
         },
         "surface": {
-          "value": "{color.global.dark.surface}",
+          "value": "{color.global.dark.surface-subtle}",
           "type": "color"
         },
         "separator": {
-          "value": "{color.global.dark.separator}",
+          "value": "{color.global.dark.border}",
           "type": "color"
         },
         "contrast-strong": {

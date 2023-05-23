@@ -4,12 +4,20 @@
       "value": "{color.global.dark.background}",
       "type": "color"
     },
-    "surface": {
-      "value": "{color.global.dark.surface}",
+    "surface-subtle": {
+      "value": "{color.global.dark.surface-subtle}",
       "type": "color"
     },
-    "separator": {
-      "value": "{color.global.dark.separator}",
+    "surface-moderate": {
+      "value": "{color.global.dark.surface-moderate}",
+      "type": "color"
+    },
+    "surface-strong": {
+      "value": "{color.global.dark.surface-strong}",
+      "type": "color"
+    },
+    "border": {
+      "value": "{color.global.dark.border}",
       "type": "color"
     },
     "contrast-strong": {
