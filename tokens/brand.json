@@ -385,6 +385,14 @@
     "aspect-ratio-logo": {
       "value": "1.25",
       "type": "sizing"
+    },
+    "aspect-ratio-landscape": {
+      "value": "1.78",
+      "type": "sizing"
+    },
+    "aspect-ratio-category": {
+      "value": "2.59",
+      "type": "sizing"
     }
   }
 }
