@@ -4,8 +4,8 @@
       "value": "#111314",
       "type": "color"
     },
-    "surface-subtle": {
-      "value": "{color.global.dark.surface-subtle}",
+    "surface": {
+      "value": "{color.global.dark.surface}",
       "type": "color"
     },
     "surface-strong": {
@@ -16,8 +16,8 @@
       "value": "{color.global.dark.border}",
       "type": "color"
     },
-    "contrast-strong": {
-      "value": "{color.global.dark.contrast-strong}",
+    "contrast": {
+      "value": "{color.global.dark.contrast}",
       "type": "color"
     },
     "contrast-subtle": {
@@ -161,8 +161,8 @@
         "value": "{color.global.dark.input.surface}",
         "type": "color"
       },
-      "contrast-strong": {
-        "value": "{color.global.dark.input.contrast-strong}",
+      "contrast": {
+        "value": "{color.global.dark.input.contrast}",
         "type": "color"
       },
       "contrast-subtle": {
@@ -177,8 +177,8 @@
         "value": "{color.global.dark.input.surface-has-input}",
         "type": "color"
       },
-      "contrast-strong-has-input": {
-        "value": "{color.global.dark.input.contrast-strong-has-input}",
+      "contrast-has-input": {
+        "value": "{color.global.dark.input.contrast-has-input}",
         "type": "color"
       },
       "contrast-subtle-has-input": {
@@ -193,8 +193,8 @@
         "value": "{color.global.dark.input.surface-focused}",
         "type": "color"
       },
-      "contrast-strong-focused": {
-        "value": "{color.global.dark.input.contrast-strong-focused}",
+      "contrast-focused": {
+        "value": "{color.global.dark.input.contrast-focused}",
         "type": "color"
       },
       "contrast-subtle-focused": {
@@ -209,8 +209,8 @@
         "value": "{color.global.dark.input.surface-critical}",
         "type": "color"
       },
-      "contrast-strong-critical": {
-        "value": "{color.global.dark.input.contrast-strong-critical}",
+      "contrast-critical": {
+        "value": "{color.global.dark.input.contrast-critical}",
         "type": "color"
       },
       "contrast-subtle-critical": {
@@ -226,7 +226,7 @@
           "value": "{color.global.dark.input-on-surface.surface}",
           "type": "color"
         },
-        "contrast-strong": {
+        "contrast": {
           "value": "{color.global.dark.input-on-surface.contrast}",
           "type": "color"
         },
@@ -242,8 +242,8 @@
           "value": "{color.global.dark.input-on-surface.surface-has-input}",
           "type": "color"
         },
-        "contrast-strong-has-input": {
-          "value": "{color.global.dark.input-on-surface.contrast-has-input}",
+        "contrast-has-input": {
+          "value": "{color.global.dark.input-on-surface.contrast}",
           "type": "color"
         },
         "contrast-subtle-has-input": {
@@ -254,12 +254,24 @@
           "value": "{color.global.dark.input-on-surface.border-has-input}",
           "type": "color"
         },
+        "surface-focused": {
+          "value": "{color.global.dark.input-on-surface.surface-focused}",
+          "type": "color"
+        },
+        "contrast-focused": {
+          "value": "{color.global.dark.input-on-surface.contrast-focused}",
+          "type": "color"
+        },
+        "contrast-subtle-focused": {
+          "value": "{color.global.dark.input-on-surface.contrast-subtle-focused}",
+          "type": "color"
+        },
         "surface-critical": {
           "value": "{color.global.dark.input-on-surface.surface-critical}",
           "type": "color"
         },
-        "contrast-strong-critical": {
-          "value": "{color.global.dark.input-on-surface.contrast-critical}",
+        "contrast-critical": {
+          "value": "{color.global.dark.input-on-surface.contrast}",
           "type": "color"
         },
         "contrast-subtle-critical": {
@@ -267,7 +279,7 @@
           "type": "color"
         },
         "border-critical": {
-          "value": "{brand.red.60}",
+          "value": "{color.global.dark.input-on-surface.border-critical}",
           "type": "color"
         }
       }
@@ -277,8 +289,8 @@
         "value": "{color.global.dark.message.surface}",
         "type": "color"
       },
-      "contrast-strong": {
-        "value": "{color.global.dark.message.contrast-strong}",
+      "contrast": {
+        "value": "{color.global.dark.message.contrast}",
         "type": "color"
       },
       "contrast-subtle": {
@@ -287,28 +299,32 @@
       }
     },
     "selection-control": {
-      "surface-subtle": {
-        "value": "{color.global.dark.selection-control.surface-subtle}",
+      "surface": {
+        "value": "{color.global.dark.selection-control.surface}",
         "type": "color"
       },
-      "surface-strong": {
-        "value": "{color.global.dark.selection-control.surface-strong}",
+      "surface-subtle": {
+        "value": "{color.global.dark.selection-control.surface-subtle}",
         "type": "color"
       },
       "contrast": {
         "value": "{color.global.dark.selection-control.contrast}",
         "type": "color"
       },
+      "border": {
+        "value": "{color.global.dark.selection-control.border}",
+        "type": "color"
+      },
       "border-subtle": {
         "value": "{color.global.dark.selection-control.border-subtle}",
         "type": "color"
       },
-      "border-strong": {
-        "value": "{color.global.dark.selection-control.border-strong}",
+      "surface-selected": {
+        "value": "{color.global.dark.selection-control.surface-selected}",
         "type": "color"
       },
-      "surface-selected": {
-        "value": "{color.global.dark.selection-control.surface-strong-selected}",
+      "surface-subtle-selected": {
+        "value": "{color.global.dark.selection-control.surface-subtle-selected}",
         "type": "color"
       },
       "contrast-selected": {
@@ -329,12 +345,12 @@
         "value": "{color.global.dark.overlay.surface}",
         "type": "color"
       },
-      "separator": {
-        "value": "{color.global.dark.overlay.separator}",
+      "border": {
+        "value": "{color.global.dark.overlay.border}",
         "type": "color"
       },
-      "contrast-strong": {
-        "value": "{color.global.dark.overlay.contrast-strong}",
+      "contrast": {
+        "value": "{color.global.dark.overlay.contrast}",
         "type": "color"
       },
       "contrast-subtle": {
@@ -365,42 +381,6 @@
         "border": {
           "value": "{color.global.dark.overlay.button-primary.border}",
           "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.dark.overlay.button-primary.surface-hover}",
-          "type": "color"
-        },
-        "contrast-hover": {
-          "value": "{color.global.dark.overlay.button-primary.contrast-hover}",
-          "type": "color"
-        },
-        "border-hover": {
-          "value": "{color.global.dark.overlay.button-primary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.dark.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.dark.overlay.button-primary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.dark.overlay.button-primary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.dark.overlay.button-primary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.dark.overlay.button-primary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.dark.overlay.button-primary.border-focused}",
-          "type": "color"
         }
       },
       "button-secondary": {
@@ -415,1049 +395,487 @@
         "border": {
           "value": "{color.global.dark.overlay.button-secondary.border}",
           "type": "color"
-        },
-        "surface-hover": {
-          "value": "{color.global.dark.overlay.button-secondary.surface-hover}",
+        }
+      },
+      "badge": {
+        "surface": {
+          "value": "{color.global.dark.overlay.badge.surface}",
           "type": "color"
         },
-        "contrast-hover": {
-          "value": "{color.global.dark.overlay.button-secondary.contrast-hover}",
+        "contrast": {
+          "value": "{color.global.dark.overlay.badge.contrast}",
           "type": "color"
         },
-        "border-hover": {
-          "value": "{color.global.dark.overlay.button-secondary.border-hover}",
-          "type": "color"
-        },
-        "surface-pressed": {
-          "value": "{color.global.dark.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-pressed": {
-          "value": "{color.global.dark.overlay.button-secondary.contrast-pressed}",
-          "type": "color"
-        },
-        "border-pressed": {
-          "value": "{color.global.dark.overlay.button-secondary.border-pressed}",
-          "type": "color"
-        },
-        "surface-focused": {
-          "value": "{color.global.dark.overlay.button-secondary.surface-pressed}",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "{color.global.dark.overlay.button-secondary.contrast-focused}",
-          "type": "color"
-        },
-        "border-focused": {
-          "value": "{color.global.dark.overlay.button-secondary.border-focused}",
+        "border": {
+          "value": "{color.global.dark.overlay.badge.border}",
           "type": "color"
         }
       }
     }
   },
-  "mobile": {
-    "headline": {
-      "large": {
+  "headline": {
+    "large": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-large.textCase}"
+      },
+      "type": "typography"
+    },
+    "medium": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-medium.textCase}"
+      },
+      "type": "typography"
+    },
+    "small": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.headline-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.headline-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.headline-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.headline-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.headline-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.headline-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.headline-small.textCase}"
+      },
+      "type": "typography"
+    }
+  },
+  "title": {
+    "large": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.title-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-large.textCase}"
+      },
+      "type": "typography"
+    },
+    "medium": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.title-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-medium.textCase}"
+      },
+      "type": "typography"
+    },
+    "small": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.title-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.title-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.title-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.title-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.title-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.title-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.title-small.textCase}"
+      },
+      "type": "typography"
+    }
+  },
+  "detail": {
+    "large": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-large.textCase}"
+      },
+      "type": "typography"
+    },
+    "medium": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-medium.textCase}"
+      },
+      "type": "typography"
+    },
+    "small": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.detail-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.detail-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.detail-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.detail-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.detail-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.detail-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.detail-small.textCase}"
+      },
+      "type": "typography"
+    }
+  },
+  "paragraph": {
+    "large": {
+      "plain-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.headline-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.headline-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.headline-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.headline-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.headline-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.headline-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.headline-large.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-large.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-large.textCase}"
         },
         "type": "typography"
       },
-      "medium": {
+      "strong-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.headline-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.headline-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.headline-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.headline-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.headline-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.headline-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.headline-medium.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large-strong.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large-strong.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large-strong.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-large-strong.textCase}"
         },
         "type": "typography"
       },
-      "small": {
+      "underlined-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.headline-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.headline-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.headline-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.headline-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.headline-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.headline-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.headline-small.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large-underlined.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large-underlined.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large-underlined.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-large-underlined.textCase}"
         },
         "type": "typography"
       }
     },
-    "title": {
-      "large": {
+    "medium": {
+      "plain-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.title-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.title-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.title-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.title-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.title-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.title-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.title-large.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-medium.textCase}"
         },
         "type": "typography"
       },
-      "medium": {
+      "strong-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.title-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.title-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.title-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.title-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.title-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.title-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.title-medium.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium-strong.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium-strong.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium-strong.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-medium-strong.textCase}"
         },
         "type": "typography"
       },
-      "small": {
+      "underlined-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.title-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.title-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.title-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.title-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.title-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.title-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.title-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "detail": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.detail-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.detail-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.detail-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.detail-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.detail-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.detail-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.detail-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.detail-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.detail-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.detail-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.detail-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.detail-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.detail-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.detail-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.detail-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.detail-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.detail-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.detail-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.detail-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.detail-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.detail-small.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.textCase}"
         },
         "type": "typography"
       }
     },
-    "paragraph": {
-      "large": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-large.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-large.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-large-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-large-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-large-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-large-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-large-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-large-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-large-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      },
-      "medium": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-medium.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-medium-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-medium-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      },
-      "small": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-small.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-small.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-small-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-small.paragraph-small-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "label": {
-      "large": {
+    "small": {
+      "plain-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.label-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.label-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.label-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.label-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.label-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.label-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.label-large.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-small.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-small.textCase}"
         },
         "type": "typography"
       },
-      "medium": {
+      "strong-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.label-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.label-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.label-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.label-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.label-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.label-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.label-medium.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small-strong.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-small-strong.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small-strong.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small-strong.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-small-strong.textCase}"
         },
         "type": "typography"
       },
-      "small": {
+      "underlined-text": {
         "value": {
-          "fontFamily": "{typography.mobile.breakpoint-small.label-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-small.label-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-small.label-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-small.label-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-small.label-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-small.label-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-small.label-small.textCase}"
+          "fontFamily": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontFamily}",
+          "fontWeight": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontWeight}",
+          "lineHeight": "{typography.mobile.breakpoint-small.paragraph-small-underlined.lineHeight}",
+          "fontSize": "{typography.mobile.breakpoint-small.paragraph-small-underlined.fontSize}",
+          "letterSpacing": "{typography.mobile.breakpoint-small.paragraph-small-underlined.letterSpacing}",
+          "textDecoration": "{typography.mobile.breakpoint-small.paragraph-small-underlined.textDecoration}",
+          "textCase": "{typography.mobile.breakpoint-small.paragraph-small-underlined.textCase}"
         },
         "type": "typography"
       }
     }
   },
-  "tablet": {
-    "headline": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.headline-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.headline-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.headline-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.headline-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.headline-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.headline-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.headline-large.textCase}"
-        },
-        "type": "typography"
+  "label": {
+    "large": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.label-large.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-large.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-large.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-large.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-large.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-large.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-large.textCase}"
       },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.headline-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.headline-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.headline-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.headline-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.headline-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.headline-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.headline-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.headline-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.headline-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.headline-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.headline-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.headline-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.headline-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.headline-small.textCase}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
     },
-    "title": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.title-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.title-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.title-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.title-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.title-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.title-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.title-large.textCase}"
-        },
-        "type": "typography"
+    "medium": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.label-medium.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-medium.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-medium.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-medium.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-medium.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-medium.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-medium.textCase}"
       },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.title-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.title-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.title-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.title-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.title-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.title-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.title-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.title-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.title-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.title-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.title-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.title-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.title-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.title-small.textCase}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
     },
-    "detail": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.detail-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.detail-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.detail-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.detail-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.detail-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.detail-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.detail-large.textCase}"
-        },
-        "type": "typography"
+    "small": {
+      "value": {
+        "fontFamily": "{typography.mobile.breakpoint-small.label-small.fontFamily}",
+        "fontWeight": "{typography.mobile.breakpoint-small.label-small.fontWeight}",
+        "lineHeight": "{typography.mobile.breakpoint-small.label-small.lineHeight}",
+        "fontSize": "{typography.mobile.breakpoint-small.label-small.fontSize}",
+        "letterSpacing": "{typography.mobile.breakpoint-small.label-small.letterSpacing}",
+        "textDecoration": "{typography.mobile.breakpoint-small.label-small.textDecoration}",
+        "textCase": "{typography.mobile.breakpoint-small.label-small.textCase}"
       },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.detail-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.detail-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.detail-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.detail-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.detail-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.detail-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.detail-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.detail-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.detail-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.detail-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.detail-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.detail-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.detail-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.detail-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "paragraph": {
-      "large": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-large.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-large.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-large.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-large.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-large.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-large.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-large.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-large-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-large-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-large-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-large-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-large-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-large-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-large-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-large-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      },
-      "medium": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-medium.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-medium.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-medium.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-medium.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-medium.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-medium.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-medium.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-medium-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-medium-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      },
-      "small": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-small.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-small.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-small.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-small.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-small.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-small.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-small.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-small-strong.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-small-strong.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-small-strong.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-small-strong.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-small-strong.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-small-strong.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-small-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.fontFamily}",
-            "fontWeight": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.fontWeight}",
-            "lineHeight": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.lineHeight}",
-            "fontSize": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.fontSize}",
-            "letterSpacing": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.letterSpacing}",
-            "textDecoration": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.textDecoration}",
-            "textCase": "{typography.mobile.breakpoint-medium.paragraph-small-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "label": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.label-large.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.label-large.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.label-large.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.label-large.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.label-large.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.label-large.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.label-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.label-medium.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.label-medium.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.label-medium.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.label-medium.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.label-medium.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.label-medium.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.label-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.mobile.breakpoint-medium.label-small.fontFamily}",
-          "fontWeight": "{typography.mobile.breakpoint-medium.label-small.fontWeight}",
-          "lineHeight": "{typography.mobile.breakpoint-medium.label-small.lineHeight}",
-          "fontSize": "{typography.mobile.breakpoint-medium.label-small.fontSize}",
-          "letterSpacing": "{typography.mobile.breakpoint-medium.label-small.letterSpacing}",
-          "textDecoration": "{typography.mobile.breakpoint-medium.label-small.textDecoration}",
-          "textCase": "{typography.mobile.breakpoint-medium.label-small.textCase}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
     }
   },
-  "desktop": {
-    "headline": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.headline-large.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.headline-large.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.headline-large.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.headline-large.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.headline-large.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.headline-large.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.headline-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.headline-medium.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.headline-medium.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.headline-medium.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.headline-medium.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.headline-medium.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.headline-medium.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.headline-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.headline-small.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.headline-small.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.headline-small.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.headline-small.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.headline-small.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.headline-small.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.headline-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "title": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.title-large.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.title-large.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.title-large.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.title-large.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.title-large.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.title-large.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.title-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.title-medium.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.title-medium.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.title-medium.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.title-medium.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.title-medium.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.title-medium.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.title-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.title-small.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.title-small.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.title-small.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.title-small.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.title-small.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.title-small.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.title-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "detail": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.detail-large.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.detail-large.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.detail-large.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.detail-large.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.detail-large.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.detail-large.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.detail-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.detail-medium.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.detail-medium.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.detail-medium.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.detail-medium.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.detail-medium.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.detail-medium.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.detail-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.detail-small.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.detail-small.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.detail-small.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.detail-small.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.detail-small.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.detail-small.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.detail-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "paragraph": {
-      "large": {
-        "plain-text": {
+  "overrides": {
+    "tv": {
+      "headline": {
+        "large": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-large.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-large.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-large.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-large.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-large.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-large.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-large.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.headline-large.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.headline-large.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.headline-large.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.headline-large.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.headline-large.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}"
           },
           "type": "typography"
         },
-        "strong-text": {
+        "medium": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-large-strong.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-large-strong.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-large-strong.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-large-strong.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-large-strong.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-large-strong.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-large-strong.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.headline-medium.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.headline-medium.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.headline-medium.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.headline-medium.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.headline-medium.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.headline-medium.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.headline-medium.textCase}"
           },
           "type": "typography"
         },
-        "underlined-text": {
+        "small": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-large-underlined.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-large-underlined.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-large-underlined.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-large-underlined.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-large-underlined.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-large-underlined.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-large-underlined.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.headline-small.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.headline-small.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.headline-small.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.headline-small.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.headline-small.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.headline-small.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.headline-small.textCase}"
           },
           "type": "typography"
         }
       },
-      "medium": {
-        "plain-text": {
+      "title": {
+        "large": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-medium.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-medium.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-medium.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-medium.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-medium.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-medium.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-medium.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.title-large.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.title-large.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.title-large.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.title-large.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.title-large.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.title-large.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.title-large.textCase}"
           },
           "type": "typography"
         },
-        "strong-text": {
+        "small": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-medium-strong.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-medium-strong.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-medium-strong.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-medium-strong.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-medium-strong.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-medium-strong.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-medium-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-medium-underlined.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-medium-underlined.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-medium-underlined.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-medium-underlined.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-medium-underlined.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-medium-underlined.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-medium-underlined.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.title-small.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.title-small.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.title-small.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.title-small.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.title-small.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.title-small.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.title-small.textCase}"
           },
           "type": "typography"
         }
       },
-      "small": {
-        "plain-text": {
+      "detail": {
+        "large": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-small.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-small.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-small.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-small.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-small.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-small.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-small.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.detail-large.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.detail-large.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.detail-large.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.detail-large.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.detail-large.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.detail-large.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.detail-large.textCase}"
           },
           "type": "typography"
         },
-        "strong-text": {
+        "small": {
           "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-small-strong.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-small-strong.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-small-strong.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-small-strong.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-small-strong.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-small-strong.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-small-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.web.breakpoint-large.paragraph-small-underlined.fontFamily}",
-            "fontWeight": "{typography.web.breakpoint-large.paragraph-small-underlined.fontWeight}",
-            "lineHeight": "{typography.web.breakpoint-large.paragraph-small-underlined.lineHeight}",
-            "fontSize": "{typography.web.breakpoint-large.paragraph-small-underlined.fontSize}",
-            "letterSpacing": "{typography.web.breakpoint-large.paragraph-small-underlined.letterSpacing}",
-            "textDecoration": "{typography.web.breakpoint-large.paragraph-small-underlined.textDecoration}",
-            "textCase": "{typography.web.breakpoint-large.paragraph-small-underlined.textCase}"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "label": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.label-large.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.label-large.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.label-large.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.label-large.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.label-large.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.label-large.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.label-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.label-medium.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.label-medium.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.label-medium.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.label-medium.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.label-medium.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.label-medium.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.label-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.web.breakpoint-large.label-small.fontFamily}",
-          "fontWeight": "{typography.web.breakpoint-large.label-small.fontWeight}",
-          "lineHeight": "{typography.web.breakpoint-large.label-small.lineHeight}",
-          "fontSize": "{typography.web.breakpoint-large.label-small.fontSize}",
-          "letterSpacing": "{typography.web.breakpoint-large.label-small.letterSpacing}",
-          "textDecoration": "{typography.web.breakpoint-large.label-small.textDecoration}",
-          "textCase": "{typography.web.breakpoint-large.label-small.textCase}"
-        },
-        "type": "typography"
-      }
-    }
-  },
-  "tv": {
-    "headline": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.headline-large.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.headline-large.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.headline-large.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.headline-large.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.headline-large.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.headline-medium.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.headline-medium.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.headline-medium.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.headline-medium.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.headline-medium.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.headline-medium.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.headline-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.headline-small.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.headline-small.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.headline-small.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.headline-small.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.headline-small.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.headline-small.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.headline-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "title": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.title-large.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.title-large.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.title-large.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.title-large.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.title-large.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.title-large.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.title-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.title-small.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.title-small.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.title-small.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.title-small.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.title-small.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.title-small.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.title-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "detail": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.detail-large.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.detail-large.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.detail-large.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.detail-large.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.detail-large.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.detail-large.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.detail-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.detail-small.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.detail-small.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.detail-small.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.detail-small.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.detail-small.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.detail-small.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.detail-small.textCase}"
-        },
-        "type": "typography"
-      }
-    },
-    "paragraph": {
-      "large": {
-        "plain-text": {
-          "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-large.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-large.textCase}"
-          },
-          "type": "typography"
-        },
-        "strong-text": {
-          "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-strong.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-strong.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-large-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-underlined.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.detail-small.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.detail-small.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.detail-small.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.detail-small.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.detail-small.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.detail-small.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.detail-small.textCase}"
           },
           "type": "typography"
         }
       },
-      "small": {
-        "plain-text": {
+      "paragraph": {
+        "large": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-large.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-strong.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-strong.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-large-strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        },
+        "small": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-small.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-strong.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-strong.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-small-strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontFamily}",
+              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontWeight}",
+              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.lineHeight}",
+              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontSize}",
+              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textDecoration}",
+              "textCase": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "label": {
+        "large": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-small.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-small.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.label-large.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.label-large.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.label-large.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.label-large.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.label-large.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.label-large.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.label-large.textCase}"
           },
           "type": "typography"
         },
-        "strong-text": {
+        "small": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-strong.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-strong.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-small-strong.textCase}"
-          },
-          "type": "typography"
-        },
-        "underlined-text": {
-          "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-underlined.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textCase}"
+            "fontFamily": "{typography.tv.breakpoint-tv.label-small.fontFamily}",
+            "fontWeight": "{typography.tv.breakpoint-tv.label-small.fontWeight}",
+            "lineHeight": "{typography.tv.breakpoint-tv.label-small.lineHeight}",
+            "fontSize": "{typography.tv.breakpoint-tv.label-small.fontSize}",
+            "letterSpacing": "{typography.tv.breakpoint-tv.label-small.letterSpacing}",
+            "textDecoration": "{typography.tv.breakpoint-tv.label-small.textDecoration}",
+            "textCase": "{typography.tv.breakpoint-tv.label-small.textCase}"
           },
           "type": "typography"
         }
-      }
-    },
-    "label": {
-      "large": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.label-large.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.label-large.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.label-large.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.label-large.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.label-large.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.label-large.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.label-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{typography.tv.breakpoint-tv.label-small.fontFamily}",
-          "fontWeight": "{typography.tv.breakpoint-tv.label-small.fontWeight}",
-          "lineHeight": "{typography.tv.breakpoint-tv.label-small.lineHeight}",
-          "fontSize": "{typography.tv.breakpoint-tv.label-small.fontSize}",
-          "letterSpacing": "{typography.tv.breakpoint-tv.label-small.letterSpacing}",
-          "textDecoration": "{typography.tv.breakpoint-tv.label-small.textDecoration}",
-          "textCase": "{typography.tv.breakpoint-tv.label-small.textCase}"
-        },
-        "type": "typography"
       }
     }
   }
