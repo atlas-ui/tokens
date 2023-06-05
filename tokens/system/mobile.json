@@ -414,7 +414,7 @@
             "type": "color"
           },
           "surface-selected": {
-            "value": "{color.global.dark.selection-control.surface-selected}",
+            "value": "{color.global.dark.selection-control.surface-strong-selected}",
             "type": "color"
           },
           "contrast-selected": {

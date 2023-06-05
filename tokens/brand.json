@@ -155,6 +155,10 @@
       }
     },
     "accent1": {
+      "30": {
+        "value": "#387094",
+        "type": "color"
+      },
       "40": {
         "value": "#3485BA",
         "type": "color"

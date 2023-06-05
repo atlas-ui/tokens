@@ -157,10 +157,10 @@
       "dark.input.contrast-pressed": "S:a283adc6769daf55ac05d016bc1119525a731432,",
       "dark.input.contrast-subtle-pressed": "S:d7122737fe6819c7d35651f8bd83a7f66824b13e,",
       "dark.input.border-pressed": "S:0df3c5d6ee192b1f4eac0c9ae992a3dacbfdce46,",
-      "dark.input.surface-focused": "S:a86cc4707338323bb0ac5ccf60daefbadce7192e,",
+      "dark.input.surface-focused": "S:c95c3cf0dbdbc708c6fa91edca09c0b3a904f9ab,",
       "dark.input.contrast-focused": "S:b385a7b1f7de8f182e674a9e562fca0e7100e6b2,",
-      "dark.input.contrast-subtle-focused": "S:974e1991ffd25e609b7ecaaea05fe5c0c3f9227b,",
-      "dark.input.border-focused": "S:a04797979f1ed82aefe5b65bf18f7f9ce3c9edbe,",
+      "dark.input.contrast-subtle-focused": "S:854f4c03e054ec4328f95228edf6b2e0410f1759,",
+      "dark.input.border-focused": "S:c84959c088c6de3c2083601494e942628ce374f2,",
       "dark.input.surface-has-input": "S:90cf1b1c623a01a3f2287dbc79cf86b61248225e,",
       "dark.input.contrast-subtle-has-input": "S:725e6abcc568c5f56b907ec0550d63e483f73dc2,",
       "dark.input.border-has-input": "S:957fa0e75a3c57f362c1e921ef55c344da9ad376,",
@@ -352,11 +352,12 @@
       "dark.selection-control.surface-selected": "S:4e08c69f74131c650deeb0be6f21b65b5b790a38,",
       "dark.selection-control.contrast-selected": "S:7b9ed551ef65e1fba7b4fec96176fcf48fcfe267,",
       "dark.selection-control.border-selected": "S:6be503f6dd072d5ebb40bb0b714870885b97de7e,",
-      "dark.input.contrast-strong": "S:6287d2f5e14f55b19ff9ecbeac01e945076b70c1,",
+      "dark.input.contrast-strong": "S:6eb4ba5153f3021d066a930f56dd238ca43a0909,",
       "dark.input.on-surface.contrast-strong": "S:5fb17c3076940e5e2de75b5cab94567b3e2abd7d,",
       "dark.input.contrast-strong-has-input": "S:d1b02de8938eba7f982c21e10de148158a647894,",
       "dark.input.on-surface.contrast-strong-has-input": "S:865ba8437f5570eaca349a110fe31e7eba04b786,",
-      "dark.message.contrast-strong": "S:998db60d9dd108bb1973c3d846e469eb5886a328,"
+      "dark.message.contrast-strong": "S:998db60d9dd108bb1973c3d846e469eb5886a328,",
+      "dark.input.contrast-strong-focused": "S:42346d2ab022768f0b5b911d221aee8cf8909c85,"
     }
   }
 ]

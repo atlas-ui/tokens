@@ -190,7 +190,7 @@
         },
         "button-selectable": {
           "surface": {
-            "value": "{brand.neutral.10}",
+            "value": "{brand.neutral.20}",
             "type": "color"
           },
           "contrast": {
@@ -340,11 +340,11 @@
             "type": "color"
           },
           "contrast-subtle-critical": {
-            "value": "{color.mobile.dark.input.contrast-subtle}",
+            "value": "{brand.red.60}",
             "type": "color"
           },
           "border-critical": {
-            "value": "{color.global.dark.input.border}",
+            "value": "{brand.red.60}",
             "type": "color"
           }
         },
@@ -400,7 +400,7 @@
         },
         "button-selectable-on-surface": {
           "surface": {
-            "value": "{brand.neutral.5}",
+            "value": "{brand.neutral.10}",
             "type": "color"
           },
           "contrast": {
@@ -462,7 +462,7 @@
         },
         "button-selectable-brand": {
           "surface": {
-            "value": "{brand.neutral.5}",
+            "value": "{brand.neutral.10}",
             "type": "color"
           },
           "contrast": {
@@ -612,11 +612,11 @@
             "type": "color"
           },
           "contrast-subtle-critical": {
-            "value": "{color.mobile.dark.input-on-surface.contrast-subtle}",
+            "value": "{brand.red.60}",
             "type": "color"
           },
           "border-critical": {
-            "value": "{color.global.dark.input-on-surface.border}",
+            "value": "{brand.red.60}",
             "type": "color"
           }
         },
@@ -679,8 +679,12 @@
             "value": "{color.global.dark.button-selectable-brand.border}",
             "type": "color"
           },
-          "surface-selected": {
+          "surface-strong-selected": {
             "value": "{brand.accent1.50}",
+            "type": "color"
+          },
+          "surface-subtle-selected": {
+            "value": "{brand.accent1.30}",
             "type": "color"
           },
           "contrast-selected": {
