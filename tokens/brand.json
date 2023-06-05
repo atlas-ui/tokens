@@ -141,6 +141,10 @@
         "value": "#2D3C45",
         "type": "color"
       },
+      "40": {
+        "value": "#4D565B",
+        "type": "color"
+      },
       "60": {
         "value": "#7F898D",
         "type": "color"
