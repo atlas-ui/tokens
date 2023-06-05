@@ -258,15 +258,15 @@
     },
     "message": {
       "surface": {
-        "value": "#f5f5f5",
+        "value": "{color.global.dark.message.surface}",
         "type": "color"
       },
-      "contrast": {
-        "value": "#4d565b",
+      "contrast-strong": {
+        "value": "{color.global.dark.message.contrast-strong}",
         "type": "color"
       },
       "contrast-subtle": {
-        "value": "#4d565b",
+        "value": "{color.global.dark.message.contrast-subtle}",
         "type": "color"
       }
     },

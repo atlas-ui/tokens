@@ -625,7 +625,7 @@
             "value": "{brand.neutral.95}",
             "type": "color"
           },
-          "contrast": {
+          "contrast-strong": {
             "value": "{brand.neutral.5}",
             "type": "color"
           },
