@@ -436,7 +436,7 @@
             "type": "color"
           },
           "surface-selected": {
-            "value": "{brand.neutral.95}",
+            "value": "{brand.neutral.30}",
             "type": "color"
           },
           "contrast-selected": {
