@@ -266,6 +266,10 @@
           "value": "{color.global.dark.input-on-surface.contrast-subtle-focused}",
           "type": "color"
         },
+        "border-focused": {
+          "value": "{color.global.dark.input-on-surface.border-focused}",
+          "type": "color"
+        },
         "surface-critical": {
           "value": "{color.global.dark.input-on-surface.surface-critical}",
           "type": "color"

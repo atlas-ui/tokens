@@ -413,7 +413,8 @@
       "overrides.tv.paragraph.small.strong-text": "S:82501f4ec0ef942b6d489e748f398ce62c3ca90c,",
       "overrides.tv.paragraph.small.underlined-text": "S:1f2d26470339d9c177c8e0ea558abbdb7749f468,",
       "overrides.tv.label.large": "S:c7178c170b0ea178a90b93d66a99352ab6e7a241,",
-      "overrides.tv.label.small": "S:66ba7cb7d6e318ed37c51ac6face554eeffcf270,"
+      "overrides.tv.label.small": "S:66ba7cb7d6e318ed37c51ac6face554eeffcf270,",
+      "dark.input.on-surface.border-focused": "S:82030b2552d36019b0a3acc756f657bc5aacd51b,"
     }
   }
 ]
