@@ -1823,11 +1823,11 @@
           "type": "sizing"
         },
         "text-field-small": {
-          "value": "{size.global.text-field-small}",
+          "value": "{size.global.input-small}",
           "type": "sizing"
         },
         "text-field-large": {
-          "value": "{size.global.text-field-large}",
+          "value": "{size.global.input-large}",
           "type": "sizing"
         },
         "touch-target-min": {
@@ -1901,11 +1901,11 @@
           "type": "sizing"
         },
         "text-field-small": {
-          "value": "{size.global.text-field-small}",
+          "value": "{size.global.input-small}",
           "type": "sizing"
         },
         "text-field-large": {
-          "value": "{size.global.text-field-large}",
+          "value": "{size.global.input-large}",
           "type": "sizing"
         },
         "touch-target-min": {

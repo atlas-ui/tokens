@@ -414,7 +414,10 @@
       "overrides.tv.paragraph.small.underlined-text": "S:1f2d26470339d9c177c8e0ea558abbdb7749f468,",
       "overrides.tv.label.large": "S:c7178c170b0ea178a90b93d66a99352ab6e7a241,",
       "overrides.tv.label.small": "S:66ba7cb7d6e318ed37c51ac6face554eeffcf270,",
-      "dark.input.on-surface.border-focused": "S:82030b2552d36019b0a3acc756f657bc5aacd51b,"
+      "dark.input.on-surface.border-focused": "S:82030b2552d36019b0a3acc756f657bc5aacd51b,",
+      "dark.button-critical.surface": "S:1df7c3b03445385f893274f2cc3b3dae95ea6d1a,",
+      "dark.button-critical.contrast": "S:2666d76f27a244592f53056b0e563a75aaf73337,",
+      "dark.button-critical.border": "S:d0b29b3f0d283e6dc6dc04bdee61239a45169756,"
     }
   }
 ]

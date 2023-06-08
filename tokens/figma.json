@@ -415,6 +415,20 @@
           "type": "color"
         }
       }
+    },
+    "button-critical": {
+      "surface": {
+        "value": "{color.global.dark.button-critical.surface}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{color.global.dark.button-critical.contrast}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{color.global.dark.button-critical.border}",
+        "type": "color"
+      }
     }
   },
   "headline": {

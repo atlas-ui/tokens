@@ -104,6 +104,10 @@
       "value": "24",
       "type": "borderRadius"
     },
+    "border-radius-20": {
+      "value": "20",
+      "type": "borderRadius"
+    },
     "border-radius-32": {
       "value": "32",
       "type": "borderRadius"

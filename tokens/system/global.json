@@ -897,11 +897,11 @@
         "value": "{brand.sizing-56}",
         "type": "sizing"
       },
-      "text-field-small": {
+      "input-small": {
         "value": "{brand.sizing-48}",
         "type": "sizing"
       },
-      "text-field-large": {
+      "input-large": {
         "value": "{brand.sizing-60}",
         "type": "sizing"
       },
@@ -921,6 +921,10 @@
         "value": "{brand.border-radius-24}",
         "type": "borderRadius"
       },
+      "item-rounding-xsmall": {
+        "value": "{brand.border-radius-4}",
+        "type": "borderRadius"
+      },
       "item-rounding-small": {
         "value": "{brand.border-radius-8}",
         "type": "borderRadius"
@@ -935,6 +939,10 @@
       },
       "item-rounding-xlarge": {
         "value": "{brand.border-radius-40}",
+        "type": "borderRadius"
+      },
+      "input-field-rounding": {
+        "value": "{brand.border-radius-20}",
         "type": "borderRadius"
       }
     }
@@ -1038,6 +1046,12 @@
         },
         "aspectRatio": {
           "value": "{brand.aspect-ratio-logo}",
+          "type": "dimension"
+        }
+      },
+      "input": {
+        "shapeType": {
+          "value": "{brand.shape-capsule}",
           "type": "dimension"
         }
       }
