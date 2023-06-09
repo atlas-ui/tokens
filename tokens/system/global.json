@@ -897,11 +897,11 @@
         "value": "{brand.sizing-56}",
         "type": "sizing"
       },
-      "input-small": {
+      "input-field-small": {
         "value": "{brand.sizing-48}",
         "type": "sizing"
       },
-      "input-large": {
+      "input-field-large": {
         "value": "{brand.sizing-60}",
         "type": "sizing"
       },
