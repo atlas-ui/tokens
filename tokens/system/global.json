@@ -850,10 +850,32 @@
               "value": "{color.global.dark.overlay.contrast}",
               "type": "color"
             },
+            "contrast-accent": {
+              "value": "{brand.accent1.50}",
+              "type": "color"
+            },
             "border": {
               "value": "none",
               "type": "color"
             }
+          }
+        },
+        "badge": {
+          "surface": {
+            "value": "{brand.neutral.10}",
+            "type": "color"
+          },
+          "contrast": {
+            "value": "{brand.neutral.95}",
+            "type": "color"
+          },
+          "contrast-accent": {
+            "value": "{brand.accent1.50}",
+            "type": "color"
+          },
+          "border": {
+            "value": "none",
+            "type": "color"
           }
         }
       }
@@ -1049,7 +1071,7 @@
           "type": "dimension"
         }
       },
-      "input": {
+      "input-field": {
         "shapeType": {
           "value": "{brand.shape-capsule}",
           "type": "dimension"
