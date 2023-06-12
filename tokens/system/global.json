@@ -644,7 +644,7 @@
             "type": "color"
           },
           "surface-subtle": {
-            "value": "{brand.neutral.5}",
+            "value": "none",
             "type": "color"
           },
           "contrast": {
@@ -663,6 +663,10 @@
             "value": "{color.global.dark.selection-control.surface}",
             "type": "color"
           },
+          "surface-subtle-hover": {
+            "value": "{color.global.dark.selection-control.surface-subtle}",
+            "type": "color"
+          },
           "contrast-hover": {
             "value": "{color.global.dark.selection-control.contrast}",
             "type": "color"
@@ -671,8 +675,16 @@
             "value": "{color.global.dark.selection-control.border}",
             "type": "color"
           },
+          "border-subtle-hover": {
+            "value": "{color.global.dark.selection-control.border-subtle}",
+            "type": "color"
+          },
           "surface-pressed": {
             "value": "{color.global.dark.selection-control.surface}",
+            "type": "color"
+          },
+          "surface-subtle-pressed": {
+            "value": "{color.global.dark.selection-control.surface-subtle}",
             "type": "color"
           },
           "contrast-pressed": {
@@ -681,6 +693,10 @@
           },
           "border-pressed": {
             "value": "{color.global.dark.selection-control.border}",
+            "type": "color"
+          },
+          "border-subtle-pressed": {
+            "value": "{color.global.dark.selection-control.border-subtle}",
             "type": "color"
           },
           "surface-selected": {
@@ -699,8 +715,16 @@
             "value": "{color.global.dark.selection-control.border}",
             "type": "color"
           },
+          "border-subtle-selected": {
+            "value": "{color.global.dark.selection-control.border-subtle}",
+            "type": "color"
+          },
           "surface-focused": {
             "value": "{color.global.dark.selection-control.surface}",
+            "type": "color"
+          },
+          "surface-subtle-focused": {
+            "value": "{color.global.dark.selection-control.surface-subtle}",
             "type": "color"
           },
           "contrast-focused": {
@@ -709,6 +733,30 @@
           },
           "border-focused": {
             "value": "{color.global.dark.selection-control.border}",
+            "type": "color"
+          },
+          "border-subtle-focused": {
+            "value": "{color.global.dark.selection-control.border-subtle}",
+            "type": "color"
+          },
+          "surface-critical": {
+            "value": "{color.global.dark.selection-control.surface}",
+            "type": "color"
+          },
+          "surface-subtle-critical": {
+            "value": "{color.global.dark.selection-control.surface-subtle}",
+            "type": "color"
+          },
+          "contrast-critical": {
+            "value": "{color.global.dark.selection-control.contrast}",
+            "type": "color"
+          },
+          "border-critical": {
+            "value": "{color.global.dark.selection-control.border}",
+            "type": "color"
+          },
+          "border-subtle-critical": {
+            "value": "{color.global.dark.selection-control.border-subtle}",
             "type": "color"
           }
         },
