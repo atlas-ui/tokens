@@ -352,6 +352,30 @@
       "border-selected": {
         "value": "{color.global.dark.selection-control.border-selected}",
         "type": "color"
+      },
+      "border-subtle-selected": {
+        "value": "{color.global.dark.selection-control.border-subtle-selected}",
+        "type": "color"
+      },
+      "surface-critical": {
+        "value": "{color.global.dark.selection-control.surface-critical}",
+        "type": "color"
+      },
+      "surface-subtle-critical": {
+        "value": "{color.global.dark.selection-control.surface-subtle-critical}",
+        "type": "color"
+      },
+      "contrast-critical": {
+        "value": "{color.global.dark.selection-control.contrast-critical}",
+        "type": "color"
+      },
+      "border-critical": {
+        "value": "{color.global.dark.selection-control.border-critical}",
+        "type": "color"
+      },
+      "border-subtle-critical": {
+        "value": "{color.global.dark.selection-control.border-subtle-critical}",
+        "type": "color"
       }
     },
     "badge": {
@@ -364,7 +388,7 @@
         "type": "color"
       },
       "contrast-accent": {
-        "value": "{color.global.dark.badge.contrast-accent}",
+        "value": "{color.global.dark.badge.contrast}",
         "type": "color"
       },
       "border": {
@@ -443,7 +467,7 @@
           "type": "color"
         },
         "contrast-accent": {
-          "value": "{color.global.dark.overlay.badge.contrast-accent}",
+          "value": "{color.global.dark.overlay.badge.contrast}",
           "type": "color"
         },
         "border": {
