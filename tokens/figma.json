@@ -443,7 +443,7 @@
           "type": "color"
         },
         "contrast-accent": {
-          "value": "{color.global.dark.overlay.badge.contrast}",
+          "value": "{color.global.dark.overlay.badge.contrast-accent}",
           "type": "color"
         },
         "border": {
