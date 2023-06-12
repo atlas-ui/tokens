@@ -343,7 +343,6 @@
       "dark.input.on-surface.border-critical": "S:f952bc0415b6914aa4b39e5b7c4788fd4c3b2e8e,",
       "dark.message.surface": "S:feaa5ec5781701e5cfd13aa2a8e11b4bfac75796,",
       "dark.message.contrast-subtle": "S:7da6ef0fb9647f867d2866a78173cde6a58c3e93,",
-      "dark.selection-control.surface-subtle": "S:f482b9b1ab6957ac1ff856037eb2bda2eff8303f,",
       "dark.selection-control.surface-strong": "S:3b419259589b7c4e179ce1772127dd8244a0a2cb,",
       "dark.selection-control.contrast": "S:3f120e021e324436d1d822f4409e0007efc7d5fd,",
       "dark.selection-control.border-subtle": "S:4413920699a23a2ab55365bf8b79ead527fa1dc9,",
@@ -422,7 +421,14 @@
       "dark.badge.contrast": "S:337e3b75f43f5fd16cebcf2c8a1b6b7f5394d0e0,",
       "dark.badge.contrast-accent": "S:04b223e4a77e49ac3f6e9bd085a41d3fca06235e,",
       "dark.badge.border": "S:d927f6f9e76aca05e557d2ee626b29da2e4b1a60,",
-      "dark.overlay.badge.contrast-accent": "S:ecba468012184564fd4deb278039ae82752aacf7,"
+      "dark.overlay.badge.contrast-accent": "S:ecba468012184564fd4deb278039ae82752aacf7,",
+      "dark.selection-control.border-subtle-selected": "S:c5c11b1139799a7dfcb8fe2ade7c3d0b34194cf9,",
+      "dark.selection-control.surface-critical": "S:528f9361870681a00c98d94b876e812ff5c4db07,",
+      "dark.selection-control.surface-subtle-critical": "S:9c4186ebe5759b2a421ee9e0ac1175af5d572697,",
+      "dark.selection-control.contrast-critical": "S:01b3f1f641b6e64c0bca945a9d0a039b54e1a3a3,",
+      "dark.selection-control.border-critical": "S:5aa2e90e31ec223b59dcd8cb53de1fc2d08c6cfb,",
+      "dark.selection-control.border-subtle-critical": "S:4920d97ad60c9e760705228ddfda12965fafdd20,",
+      "dark.selection-control.surface-subtle": "S:d5e70c374624141078dcb83310b84c90a94738b9,"
     }
   }
 ]
