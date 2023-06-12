@@ -436,7 +436,7 @@
             "type": "color"
           },
           "contrast-accent": {
-            "value": "{color.global.dark.badge.contrast}",
+            "value": "{color.global.dark.badge.contrast-accent}",
             "type": "color"
           },
           "border": {
