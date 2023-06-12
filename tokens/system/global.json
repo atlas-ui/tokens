@@ -752,7 +752,7 @@
             "type": "color"
           },
           "border-critical": {
-            "value": "{color.global.dark.selection-control.border}",
+            "value": "{brand.red.60}",
             "type": "color"
           },
           "border-subtle-critical": {
