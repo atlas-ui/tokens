@@ -970,6 +970,14 @@
       "input-field-rounding": {
         "value": "{brand.border-radius-20}",
         "type": "borderRadius"
+      },
+      "badge-small": {
+        "value": "{brand.sizing-16}",
+        "type": "sizing"
+      },
+      "badge-large": {
+        "value": "{brand.sizing-20}",
+        "type": "sizing"
       }
     }
   },

@@ -417,7 +417,12 @@
       "dark.input.on-surface.border-focused": "S:82030b2552d36019b0a3acc756f657bc5aacd51b,",
       "dark.button-critical.surface": "S:1df7c3b03445385f893274f2cc3b3dae95ea6d1a,",
       "dark.button-critical.contrast": "S:2666d76f27a244592f53056b0e563a75aaf73337,",
-      "dark.button-critical.border": "S:d0b29b3f0d283e6dc6dc04bdee61239a45169756,"
+      "dark.button-critical.border": "S:d0b29b3f0d283e6dc6dc04bdee61239a45169756,",
+      "dark.badge.surface": "S:200ca98038437f202b34213734fda0abde5cee22,",
+      "dark.badge.contrast": "S:337e3b75f43f5fd16cebcf2c8a1b6b7f5394d0e0,",
+      "dark.badge.contrast-accent": "S:04b223e4a77e49ac3f6e9bd085a41d3fca06235e,",
+      "dark.badge.border": "S:d927f6f9e76aca05e557d2ee626b29da2e4b1a60,",
+      "dark.overlay.badge.contrast-accent": "S:ecba468012184564fd4deb278039ae82752aacf7,"
     }
   }
 ]

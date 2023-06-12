@@ -1870,6 +1870,14 @@
           "value": "{size.global.touch-target-min}",
           "type": "sizing"
         },
+        "badge-small": {
+          "value": "{size.global.badge-small}",
+          "type": "sizing"
+        },
+        "badge-large": {
+          "value": "{size.global.badge-large}",
+          "type": "sizing"
+        },
         "image-rounding-small": {
           "value": "{size.global.image-rounding-small}",
           "type": "borderRadius"
@@ -1950,6 +1958,14 @@
         },
         "touch-target-min": {
           "value": "{size.global.touch-target-min}",
+          "type": "sizing"
+        },
+        "badge-small": {
+          "value": "{size.global.badge-small}",
+          "type": "sizing"
+        },
+        "badge-large": {
+          "value": "{size.global.badge-large}",
           "type": "sizing"
         },
         "image-rounding-small": {
