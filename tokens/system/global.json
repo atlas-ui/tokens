@@ -38,6 +38,10 @@
           "value": "{brand.neutral.10}",
           "type": "color"
         },
+        "border-strong": {
+          "value": "{brand.neutral.30}",
+          "type": "color"
+        },
         "button-primary": {
           "surface": {
             "value": "{brand.neutral.95}",
@@ -240,7 +244,7 @@
         },
         "button-selectable": {
           "surface": {
-            "value": "{brand.neutral.20}",
+            "value": "{brand.neutral.10}",
             "type": "color"
           },
           "contrast": {
@@ -788,7 +792,11 @@
             "type": "color"
           },
           "border": {
-            "value": "none",
+            "value": "{brand.alpha.white-10}",
+            "type": "color"
+          },
+          "border-strong": {
+            "value": "{brand.alpha.white-20}",
             "type": "color"
           },
           "contrast": {

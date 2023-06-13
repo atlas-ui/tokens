@@ -203,6 +203,10 @@
         "value": "rgba(255,255,255,0.1)",
         "type": "color"
       },
+      "white-20": {
+        "value": "rgba(255,255,255,0.2)",
+        "type": "color"
+      },
       "white-30": {
         "value": "rgba(255,255,255,0.3)",
         "type": "color"
