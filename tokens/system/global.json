@@ -788,7 +788,7 @@
             "type": "color"
           },
           "surface": {
-            "value": "none",
+            "value": "{brand.alpha.neutral-69}",
             "type": "color"
           },
           "border": {
@@ -1121,7 +1121,7 @@
           "type": "dimension"
         },
         "aspectRatio": {
-          "value": "{brand.aspect-ratio-landscape}",
+          "value": "{brand.aspect-ratio-category}",
           "type": "dimension"
         }
       },

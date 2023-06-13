@@ -16,6 +16,10 @@
       "value": "{color.global.dark.border}",
       "type": "color"
     },
+    "border-strong": {
+      "value": "{color.global.dark.border-strong}",
+      "type": "color"
+    },
     "contrast": {
       "value": "{color.global.dark.contrast}",
       "type": "color"
@@ -407,6 +411,10 @@
       },
       "border": {
         "value": "{color.global.dark.overlay.border}",
+        "type": "color"
+      },
+      "border-strong": {
+        "value": "{color.global.dark.overlay.border-strong}",
         "type": "color"
       },
       "contrast": {

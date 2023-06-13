@@ -428,7 +428,9 @@
       "dark.selection-control.contrast-critical": "S:01b3f1f641b6e64c0bca945a9d0a039b54e1a3a3,",
       "dark.selection-control.border-critical": "S:5aa2e90e31ec223b59dcd8cb53de1fc2d08c6cfb,",
       "dark.selection-control.border-subtle-critical": "S:4920d97ad60c9e760705228ddfda12965fafdd20,",
-      "dark.selection-control.surface-subtle": "S:d5e70c374624141078dcb83310b84c90a94738b9,"
+      "dark.selection-control.surface-subtle": "S:d5e70c374624141078dcb83310b84c90a94738b9,",
+      "dark.border-strong": "S:ed9a24da8616f393fc1c045894c457b8e682b059,",
+      "dark.overlay.border-strong": "S:e9186c437aae49851941b64f03176ee34a558503,"
     }
   }
 ]

@@ -227,12 +227,16 @@
         "value": "rgba(0,0,0,0.3)",
         "type": "color"
       },
-      "black-80": {
-        "value": "rgba(0,0,0,0.8)",
-        "type": "color"
-      },
       "black-69": {
         "value": "rgba(0,0,0,0.69)",
+        "type": "color"
+      },
+      "neutral-69": {
+        "value": "rgba(25,33,38,0.69)",
+        "type": "color"
+      },
+      "black-80": {
+        "value": "rgba(0,0,0,0.8)",
         "type": "color"
       }
     },
@@ -411,7 +415,7 @@
       "type": "sizing"
     },
     "aspect-ratio-category": {
-      "value": "2.59",
+      "value": "2.33",
       "type": "sizing"
     }
   }
