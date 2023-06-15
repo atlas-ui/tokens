@@ -1137,7 +1137,7 @@
       },
       "input-field": {
         "shapeType": {
-          "value": "{brand.shape-capsule}",
+          "value": "{brand.shape-rectangle}",
           "type": "dimension"
         }
       }
