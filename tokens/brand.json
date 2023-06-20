@@ -40,6 +40,10 @@
       "value": "68",
       "type": "sizing"
     },
+    "sizing-72": {
+      "value": "72",
+      "type": "sizing"
+    },
     "sizing-80": {
       "value": "80",
       "type": "sizing"
@@ -196,6 +200,10 @@
       "black": {
         "value": "rgba(0,0,0,1)",
         "type": "color"
+      },
+      "none": {
+        "value": "none",
+        "type": "color"
       }
     },
     "alpha": {
@@ -240,7 +248,7 @@
         "type": "color"
       }
     },
-    "typescale-small": {
+    "typescale-global": {
       "headline-large": {
         "value": "48",
         "type": "fontSizes"
@@ -276,43 +284,9 @@
       "detail-small": {
         "value": "12",
         "type": "fontSizes"
-      }
-    },
-    "typescale-large": {
-      "headline-large": {
-        "value": "48",
-        "type": "fontSizes"
       },
-      "headline-medium": {
-        "value": "40",
-        "type": "fontSizes"
-      },
-      "headline-small": {
-        "value": "20",
-        "type": "fontSizes"
-      },
-      "title-large": {
-        "value": "24",
-        "type": "fontSizes"
-      },
-      "title-medium": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "title-small": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "detail-large": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "detail-medium": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "detail-small": {
-        "value": "12",
+      "badge-small": {
+        "value": "10",
         "type": "fontSizes"
       }
     },
@@ -384,6 +358,10 @@
     },
     "line-height-paragraph": {
       "value": "150%",
+      "type": "lineHeights"
+    },
+    "line-height-badge": {
+      "value": "100%",
       "type": "lineHeights"
     },
     "text-decoration-none": {

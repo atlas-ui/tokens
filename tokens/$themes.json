@@ -430,7 +430,10 @@
       "dark.selection-control.border-subtle-critical": "S:4920d97ad60c9e760705228ddfda12965fafdd20,",
       "dark.selection-control.surface-subtle": "S:d5e70c374624141078dcb83310b84c90a94738b9,",
       "dark.border-strong": "S:ed9a24da8616f393fc1c045894c457b8e682b059,",
-      "dark.overlay.border-strong": "S:e9186c437aae49851941b64f03176ee34a558503,"
+      "dark.overlay.border-strong": "S:e9186c437aae49851941b64f03176ee34a558503,",
+      "badge.large": "S:2d4da1300dcb80d44049a68a0add5dbc9641a5bc,",
+      "badge.medium": "S:884bb59ef65182f076133056033f249603006814,",
+      "badge.small": "S:70c76947656d325ddc712d557e1bb14f74dd64ed,"
     }
   }
 ]
