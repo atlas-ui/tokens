@@ -292,6 +292,14 @@
       "badge-small": {
         "value": "10",
         "type": "fontSizes"
+      },
+      "badge-medium": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "badge-large": {
+        "value": "14",
+        "type": "fontSizes"
       }
     },
     "typescale-tv": {
