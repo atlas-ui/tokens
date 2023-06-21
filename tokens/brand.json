@@ -48,6 +48,10 @@
       "value": "80",
       "type": "sizing"
     },
+    "sizing-140": {
+      "value": "140",
+      "type": "sizing"
+    },
     "spacing-0": {
       "value": "0",
       "type": "spacing"
