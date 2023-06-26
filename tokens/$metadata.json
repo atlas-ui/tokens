@@ -5,6 +5,7 @@
     "system/mobile",
     "system/tv",
     "system/web",
-    "figma"
+    "figma/styles",
+    "figma/color/dark"
   ]
 }
