@@ -310,13 +310,13 @@
       "headline": {
         "large": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}",
             "fontWeight": "{typography.tv.breakpoint-tv.headline-large.fontWeight}",
             "lineHeight": "{typography.tv.breakpoint-tv.headline-large.lineHeight}",
             "fontSize": "{typography.tv.breakpoint-tv.headline-large.fontSize}",
             "letterSpacing": "{typography.tv.breakpoint-tv.headline-large.letterSpacing}",
             "textDecoration": "{typography.tv.breakpoint-tv.headline-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}"
+            "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}",
+            "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}"
           },
           "type": "typography"
         },
