@@ -1,0 +1,98 @@
+{
+  "icon-small": {
+    "value": "{brand.sizing-16}",
+    "type": "sizing"
+  },
+  "icon-medium": {
+    "value": "{brand.sizing-24}",
+    "type": "sizing"
+  },
+  "icon-large": {
+    "value": "{brand.sizing-32}",
+    "type": "sizing"
+  },
+  "image-list-small": {
+    "value": "{brand.sizing-40}",
+    "type": "sizing"
+  },
+  "image-list-medium": {
+    "value": "{brand.sizing-60}",
+    "type": "sizing"
+  },
+  "image-list-large": {
+    "value": "{brand.sizing-72}",
+    "type": "sizing"
+  },
+  "image-list-xlarge": {
+    "value": "{brand.sizing-140}",
+    "type": "sizing"
+  },
+  "button-surface-small": {
+    "value": "{brand.sizing-32}",
+    "type": "sizing"
+  },
+  "button-surface-medium": {
+    "value": "{brand.sizing-40}",
+    "type": "sizing"
+  },
+  "button-surface-large": {
+    "value": "{brand.sizing-56}",
+    "type": "sizing"
+  },
+  "input-field-small": {
+    "value": "{brand.sizing-48}",
+    "type": "sizing"
+  },
+  "input-field-large": {
+    "value": "{brand.sizing-60}",
+    "type": "sizing"
+  },
+  "touch-target-min": {
+    "value": "{brand.sizing-40}",
+    "type": "sizing"
+  },
+  "image-rounding-small": {
+    "value": "{brand.border-radius-4}",
+    "type": "borderRadius"
+  },
+  "image-rounding-medium": {
+    "value": "{brand.border-radius-8}",
+    "type": "borderRadius"
+  },
+  "image-rounding-large": {
+    "value": "{brand.border-radius-24}",
+    "type": "borderRadius"
+  },
+  "item-rounding-xsmall": {
+    "value": "{brand.border-radius-4}",
+    "type": "borderRadius"
+  },
+  "item-rounding-small": {
+    "value": "{brand.border-radius-8}",
+    "type": "borderRadius"
+  },
+  "item-rounding-medium": {
+    "value": "{brand.border-radius-16}",
+    "type": "borderRadius"
+  },
+  "item-rounding-large": {
+    "value": "{brand.border-radius-24}",
+    "type": "borderRadius"
+  },
+  "item-rounding-xlarge": {
+    "value": "{brand.border-radius-40}",
+    "type": "borderRadius"
+  },
+  "input-field-rounding": {
+    "value": "{brand.border-radius-20}",
+    "type": "borderRadius"
+  },
+  "badge-small": {
+    "value": "{brand.sizing-16}",
+    "type": "sizing"
+  },
+  "badge-large": {
+    "value": "{brand.sizing-20}",
+    "type": "sizing"
+  }
+}

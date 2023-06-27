@@ -1,0 +1,30 @@
+{
+  "page-horizontal": {
+    "value": "{brand.spacing-32}",
+    "type": "spacing"
+  },
+  "page-top": {
+    "value": "{brand.spacing-24}",
+    "type": "spacing"
+  },
+  "page-bottom": {
+    "value": "{brand.spacing-24}",
+    "type": "spacing"
+  },
+  "inter-set-horizontal": {
+    "value": "{brand.spacing-32}",
+    "type": "spacing"
+  },
+  "inter-set-vertical": {
+    "value": "{brand.spacing-32}",
+    "type": "spacing"
+  },
+  "inter-item-horizontal": {
+    "value": "{brand.spacing-16}",
+    "type": "spacing"
+  },
+  "inter-item-vertical": {
+    "value": "{brand.spacing-16}",
+    "type": "spacing"
+  }
+}

@@ -5,7 +5,14 @@
     "system/mobile",
     "system/tv",
     "system/web",
-    "figma/styles",
-    "figma/color/dark"
+    "figma/typography/styles",
+    "figma/typography/global",
+    "figma/typography/tv",
+    "figma/color/dark",
+    "figma/size/global",
+    "figma/space/small",
+    "figma/space/medium",
+    "figma/space/large",
+    "figma/space/tv"
   ]
 }

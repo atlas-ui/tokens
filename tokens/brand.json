@@ -100,6 +100,10 @@
       "value": "64",
       "type": "spacing"
     },
+    "spacing-204": {
+      "value": "204",
+      "type": "spacing"
+    },
     "border-radius-4": {
       "value": "4",
       "type": "borderRadius"
