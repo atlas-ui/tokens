@@ -58,18 +58,6 @@
           "border": {
             "value": "{color.global.dark.button-primary.border}",
             "type": "color"
-          },
-          "surface-hover": {
-            "value": "{color.global.dark.button-primary.surface-hover}",
-            "type": "color"
-          },
-          "contrast-hover": {
-            "value": "{color.global.dark.button-primary.contrast-hover}",
-            "type": "color"
-          },
-          "border-hover": {
-            "value": "{color.global.dark.button-primary.border-hover}",
-            "type": "color"
           }
         },
         "button-secondary": {

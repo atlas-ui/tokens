@@ -119,8 +119,7 @@
       "border-focused": "S:25d26aac9e26c533b746abaf5b98b741ce9564cf,"
     },
     "selectedTokenSets": {
-      "figma/color/dark": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/color/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6477:190128",
     "$figmaModeId": "6477:1",
@@ -189,8 +188,7 @@
     "name": "Atlas",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand": "enabled",
-      "figma/size/tv": "disabled"
+      "brand": "enabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7005:194983",
@@ -275,8 +273,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma/space/small": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/space/small": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7042:195091",
     "$figmaModeId": "7042:3",
@@ -296,8 +293,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma/space/medium": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/space/medium": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7042:195091",
     "$figmaModeId": "7042:4",
@@ -317,8 +313,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma/space/large": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/space/large": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7042:195091",
     "$figmaModeId": "7042:5",
@@ -338,8 +333,7 @@
     "name": "TV",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma/space/tv": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/space/tv": "enabled"
     },
     "group": "Space",
     "$figmaCollectionId": "VariableCollectionId:7042:195091",
@@ -359,8 +353,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma/size/global": "enabled",
-      "figma/size/tv": "disabled"
+      "figma/size/global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7005:195132",
     "$figmaModeId": "7005:2",
@@ -440,8 +433,7 @@
       "brand": "source",
       "system/global": "source",
       "figma/typography/styles": "enabled",
-      "system/tv": "source",
-      "figma/size/tv": "disabled"
+      "system/tv": "source"
     },
     "group": "Typography",
     "$figmaCollectionId": "VariableCollectionId:7083:195064",

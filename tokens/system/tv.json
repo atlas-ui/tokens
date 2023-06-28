@@ -970,8 +970,16 @@
           "value": "{brand.sizing-48}",
           "type": "sizing"
         },
-        "button-surface-large": {
+        "button-surface-small": {
           "value": "{brand.sizing-48}",
+          "type": "sizing"
+        },
+        "button-surface-medium": {
+          "value": "{brand.sizing-56}",
+          "type": "sizing"
+        },
+        "button-surface-large": {
+          "value": "{brand.sizing-80}",
           "type": "sizing"
         },
         "image-rounding-small": {
