@@ -59,7 +59,7 @@
   },
   "button-secondary": {
     "surface": {
-      "value": "{brand.neutral.20}",
+      "value": "{brand.base.none}",
       "type": "color"
     },
     "contrast": {
@@ -67,7 +67,7 @@
       "type": "color"
     },
     "border": {
-      "value": "{brand.base.none}",
+      "value": "{brand.neutral.95}",
       "type": "color"
     }
   },

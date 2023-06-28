@@ -48,15 +48,15 @@
         },
         "button-primary": {
           "surface": {
-            "value": "{brand.neutral.95}",
+            "value": "{button-primary.surface}",
             "type": "color"
           },
           "contrast": {
-            "value": "{brand.base.black}",
+            "value": "{button-primary.contrast}",
             "type": "color"
           },
           "border": {
-            "value": "{brand.base.none}",
+            "value": "{button-primary.border}",
             "type": "color"
           },
           "surface-hover": {
@@ -1403,39 +1403,27 @@
         "value": "{brand.sizing-40}",
         "type": "sizing"
       },
-      "image-rounding-small": {
+      "rounding-xsmall": {
         "value": "{brand.border-radius-4}",
         "type": "borderRadius"
       },
-      "image-rounding-medium": {
+      "rounding-small": {
         "value": "{brand.border-radius-8}",
         "type": "borderRadius"
       },
-      "image-rounding-large": {
-        "value": "{brand.border-radius-24}",
-        "type": "borderRadius"
-      },
-      "item-rounding-xsmall": {
-        "value": "{brand.border-radius-4}",
-        "type": "borderRadius"
-      },
-      "item-rounding-small": {
-        "value": "{brand.border-radius-8}",
-        "type": "borderRadius"
-      },
-      "item-rounding-medium": {
+      "rounding-medium": {
         "value": "{brand.border-radius-16}",
         "type": "borderRadius"
       },
-      "item-rounding-large": {
+      "rounding-large": {
         "value": "{brand.border-radius-24}",
         "type": "borderRadius"
       },
-      "item-rounding-xlarge": {
+      "rounding-xlarge": {
         "value": "{brand.border-radius-40}",
         "type": "borderRadius"
       },
-      "input-field-rounding": {
+      "rounding-input-field": {
         "value": "{brand.border-radius-20}",
         "type": "borderRadius"
       },
@@ -1446,6 +1434,18 @@
       "badge-large": {
         "value": "{brand.sizing-20}",
         "type": "sizing"
+      },
+      "line-width-small": {
+        "value": "{brand.border-width-1}",
+        "type": "borderWidth"
+      },
+      "line-width-medium": {
+        "value": "{brand.border-width-2}",
+        "type": "borderWidth"
+      },
+      "line-width-large": {
+        "value": "{brand.border-width-4}",
+        "type": "borderWidth"
       }
     }
   },

@@ -28,15 +28,15 @@
     "type": "sizing"
   },
   "button-surface-small": {
-    "value": "{brand.sizing-32}",
+    "value": "{brand.sizing-48}",
     "type": "sizing"
   },
   "button-surface-medium": {
-    "value": "{brand.sizing-40}",
+    "value": "{brand.sizing-56}",
     "type": "sizing"
   },
   "button-surface-large": {
-    "value": "{brand.sizing-56}",
+    "value": "{brand.sizing-80}",
     "type": "sizing"
   },
   "input-field-small": {

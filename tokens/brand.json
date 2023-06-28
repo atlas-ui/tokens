@@ -88,6 +88,10 @@
       "value": "32",
       "type": "spacing"
     },
+    "spacing-38": {
+      "value": "38",
+      "type": "spacing"
+    },
     "spacing-40": {
       "value": "40",
       "type": "spacing"
@@ -98,6 +102,14 @@
     },
     "spacing-64": {
       "value": "64",
+      "type": "spacing"
+    },
+    "spacing-84": {
+      "value": "84",
+      "type": "spacing"
+    },
+    "spacing-120": {
+      "value": "120",
       "type": "spacing"
     },
     "spacing-204": {
@@ -411,6 +423,22 @@
     "aspect-ratio-category": {
       "value": "2.33",
       "type": "sizing"
+    },
+    "border-width-1": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "border-width-2": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "border-width-3": {
+      "value": "3",
+      "type": "borderWidth"
+    },
+    "border-width-4": {
+      "value": "4",
+      "type": "borderWidth"
     }
   }
 }
