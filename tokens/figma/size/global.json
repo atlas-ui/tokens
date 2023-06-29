@@ -1,14 +1,14 @@
 {
   "icon-small": {
-    "value": "{brand.sizing-16}",
+    "value": "{brand.sizing-18}",
     "type": "sizing"
   },
   "icon-medium": {
-    "value": "{brand.sizing-24}",
+    "value": "{brand.sizing-20}",
     "type": "sizing"
   },
   "icon-large": {
-    "value": "{brand.sizing-32}",
+    "value": "{brand.sizing-22}",
     "type": "sizing"
   },
   "image-list-small": {
@@ -32,11 +32,11 @@
     "type": "sizing"
   },
   "button-surface-medium": {
-    "value": "{brand.sizing-40}",
+    "value": "{brand.sizing-38}",
     "type": "sizing"
   },
   "button-surface-large": {
-    "value": "{brand.sizing-56}",
+    "value": "{brand.sizing-44}",
     "type": "sizing"
   },
   "input-field-small": {

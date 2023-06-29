@@ -112,6 +112,20 @@
             "type": "color"
           }
         },
+        "button-tertiary-brand": {
+          "surface": {
+            "value": "{brand.base.none}",
+            "type": "color"
+          },
+          "contrast": {
+            "value": "{brand.accent1.50}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{brand.base.none}",
+            "type": "color"
+          }
+        },
         "button-critical": {
           "surface": {
             "value": "{brand.red.60}",

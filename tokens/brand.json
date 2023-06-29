@@ -20,8 +20,16 @@
       "value": "32",
       "type": "sizing"
     },
+    "sizing-38": {
+      "value": "38",
+      "type": "sizing"
+    },
     "sizing-40": {
       "value": "40",
+      "type": "sizing"
+    },
+    "sizing-44": {
+      "value": "44",
       "type": "sizing"
     },
     "sizing-48": {
@@ -201,6 +209,10 @@
       }
     },
     "red": {
+      "50": {
+        "value": "#d92665",
+        "type": "color"
+      },
       "60": {
         "value": "#FF337C",
         "type": "color"
