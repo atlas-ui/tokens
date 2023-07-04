@@ -192,6 +192,10 @@
       "95": {
         "value": "#f5f5f5",
         "type": "color"
+      },
+      "20-copy": {
+        "value": "#232729",
+        "type": "color"
       }
     },
     "accent1": {

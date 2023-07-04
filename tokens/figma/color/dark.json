@@ -355,7 +355,7 @@
   },
   "badge": {
     "surface": {
-      "value": "{brand.neutral.30}",
+      "value": "{brand.neutral.20}",
       "type": "color"
     },
     "contrast": {
