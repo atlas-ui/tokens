@@ -195,16 +195,16 @@
       }
     },
     "accent1": {
-      "30": {
-        "value": "#387094",
-        "type": "color"
-      },
       "40": {
-        "value": "#3485BA",
+        "value": "#05c",
         "type": "color"
       },
       "50": {
-        "value": "#3194D7",
+        "value": "#006AFF",
+        "type": "color"
+      },
+      "60": {
+        "value": "#208AFF",
         "type": "color"
       }
     },
@@ -249,6 +249,10 @@
       },
       "white-30": {
         "value": "rgba(255,255,255,0.3)",
+        "type": "color"
+      },
+      "white-50": {
+        "value": "rgba(255,255,255,0.5)",
         "type": "color"
       },
       "white-70": {

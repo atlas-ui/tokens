@@ -1,6 +1,6 @@
 {
   "icon-small": {
-    "value": "{brand.sizing-18}",
+    "value": "{brand.sizing-16}",
     "type": "sizing"
   },
   "icon-medium": {
@@ -8,7 +8,7 @@
     "type": "sizing"
   },
   "icon-large": {
-    "value": "{brand.sizing-22}",
+    "value": "{brand.sizing-24}",
     "type": "sizing"
   },
   "image-list-small": {
