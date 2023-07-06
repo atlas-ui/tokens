@@ -177,6 +177,10 @@
         "value": "#192126",
         "type": "color"
       },
+      "25": {
+        "value": "#222d34",
+        "type": "color"
+      },
       "30": {
         "value": "#2D3C45",
         "type": "color"
@@ -191,10 +195,6 @@
       },
       "95": {
         "value": "#f5f5f5",
-        "type": "color"
-      },
-      "20-copy": {
-        "value": "#232729",
         "type": "color"
       }
     },
