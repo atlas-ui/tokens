@@ -465,6 +465,28 @@
         "value": "{brand.base.none}",
         "type": "color"
       }
+    },
+    "progress-bar": {
+      "surface": {
+        "value": "{brand.base.white}",
+        "type": "color"
+      },
+      "surface-subtle": {
+        "value": "{brand.alpha.white-20}",
+        "type": "color"
+      },
+      "surface-accent": {
+        "value": "{brand.accent1.50}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{brand.base.black}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{brand.base.none}",
+        "type": "color"
+      }
     }
   }
 }

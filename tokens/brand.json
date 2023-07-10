@@ -289,81 +289,57 @@
       }
     },
     "typescale-global": {
-      "headline-large": {
+      "h1": {
         "value": "48",
         "type": "fontSizes"
       },
-      "headline-medium": {
+      "h2": {
         "value": "32",
         "type": "fontSizes"
       },
-      "headline-small": {
-        "value": "20",
-        "type": "fontSizes"
-      },
-      "title-large": {
+      "h3": {
         "value": "24",
         "type": "fontSizes"
       },
-      "title-medium": {
+      "h4": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "h5": {
         "value": "16",
         "type": "fontSizes"
       },
-      "title-small": {
+      "h6": {
         "value": "14",
         "type": "fontSizes"
       },
-      "detail-large": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "detail-medium": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "detail-small": {
+      "h7": {
         "value": "12",
         "type": "fontSizes"
       },
-      "badge-small": {
+      "h8": {
         "value": "10",
-        "type": "fontSizes"
-      },
-      "badge-medium": {
-        "value": "12",
-        "type": "fontSizes"
-      },
-      "badge-large": {
-        "value": "14",
         "type": "fontSizes"
       }
     },
     "typescale-tv": {
-      "headline-large": {
+      "h1": {
         "value": "68",
         "type": "fontSizes"
       },
-      "headline-medium": {
+      "h2": {
         "value": "60",
         "type": "fontSizes"
       },
-      "headline-small": {
+      "h3": {
         "value": "32",
         "type": "fontSizes"
       },
-      "title-large": {
-        "value": "32",
-        "type": "fontSizes"
-      },
-      "title-small": {
+      "h4": {
         "value": "24",
         "type": "fontSizes"
       },
-      "detail-large": {
-        "value": "24",
-        "type": "fontSizes"
-      },
-      "detail-small": {
+      "h5": {
         "value": "16",
         "type": "fontSizes"
       }

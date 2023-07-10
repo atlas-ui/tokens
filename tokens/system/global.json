@@ -477,7 +477,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.headline-large}",
+          "value": "{brand.typescale-global.h1}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -507,7 +507,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.headline-medium}",
+          "value": "{brand.typescale-global.h2}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -537,7 +537,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.headline-small}",
+          "value": "{brand.typescale-global.h4}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -567,7 +567,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.title-large}",
+          "value": "{brand.typescale-global.h3}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -597,7 +597,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.title-medium}",
+          "value": "{brand.typescale-global.h5}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -627,7 +627,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.title-small}",
+          "value": "{brand.typescale-global.h6}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -657,7 +657,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-large}",
+          "value": "{brand.typescale-global.h5}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -687,7 +687,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-medium}",
+          "value": "{brand.typescale-global.h6}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -717,7 +717,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-small}",
+          "value": "{brand.typescale-global.h7}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -747,7 +747,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-large}",
+          "value": "{brand.typescale-global.h5}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -777,7 +777,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-medium}",
+          "value": "{brand.typescale-global.h6}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -807,7 +807,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-small}",
+          "value": "{brand.typescale-global.h7}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -837,7 +837,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-large}",
+          "value": "{typography.global.paragraph-large.fontSize}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -867,7 +867,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-medium}",
+          "value": "{typography.global.paragraph-medium.fontSize}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -897,7 +897,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-small}",
+          "value": "{typography.global.paragraph-small.fontSize}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -927,7 +927,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-large}",
+          "value": "{typography.global.paragraph-large.fontSize}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -957,7 +957,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-medium}",
+          "value": "{typography.global.paragraph-medium.fontSize}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -987,7 +987,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-small}",
+          "value": "{brand.typescale-global.h7}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1017,7 +1017,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-large}",
+          "value": "{brand.typescale-global.h5}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1047,7 +1047,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-medium}",
+          "value": "{brand.typescale-global.h6}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1077,7 +1077,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.detail-small}",
+          "value": "{brand.typescale-global.h7}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1107,7 +1107,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.badge-large}",
+          "value": "{brand.typescale-global.h6}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1137,7 +1137,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.badge-medium}",
+          "value": "{brand.typescale-global.h7}",
           "type": "fontSizes"
         },
         "letterSpacing": {
@@ -1167,7 +1167,7 @@
           "type": "lineHeights"
         },
         "fontSize": {
-          "value": "{brand.typescale-global.badge-small}",
+          "value": "{brand.typescale-global.h8}",
           "type": "fontSizes"
         },
         "letterSpacing": {

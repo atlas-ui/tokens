@@ -306,6 +306,162 @@
     }
   },
   "overrides": {
+    "web": {
+      "paragraph": {
+        "large": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-large.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-large.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-large.lineHeight}",
+              "fontSize": "{brand.typescale-global.h4}",
+              "letterSpacing": "{typography.global.paragraph-large.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-large.textDecoration}",
+              "textCase": "{typography.global.paragraph-large.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-large-strong.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-large-strong.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-large-strong.lineHeight}",
+              "fontSize": "{brand.typescale-global.h4}",
+              "letterSpacing": "{typography.global.paragraph-large-strong.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-large-strong.textDecoration}",
+              "textCase": "{typography.global.paragraph-large-strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-large-underlined.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-large-underlined.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-large-underlined.lineHeight}",
+              "fontSize": "{brand.typescale-global.h4}",
+              "letterSpacing": "{typography.global.paragraph-large-underlined.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-large-underlined.textDecoration}",
+              "textCase": "{typography.global.paragraph-large-underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        },
+        "medium": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-medium.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-medium.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-medium.lineHeight}",
+              "fontSize": "{brand.typescale-global.h5}",
+              "letterSpacing": "{typography.global.paragraph-medium.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-medium.textDecoration}",
+              "textCase": "{typography.global.paragraph-medium.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-medium-strong.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-medium-strong.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-medium-strong.lineHeight}",
+              "fontSize": "{brand.typescale-global.h5}",
+              "letterSpacing": "{typography.global.paragraph-medium-strong.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-medium-strong.textDecoration}",
+              "textCase": "{typography.global.paragraph-medium-strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-medium-underlined.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-medium-underlined.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-medium-underlined.lineHeight}",
+              "fontSize": "{brand.typescale-global.h5}",
+              "letterSpacing": "{typography.global.paragraph-medium-underlined.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-medium-underlined.textDecoration}",
+              "textCase": "{typography.global.paragraph-medium-underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        },
+        "small": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-small.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-small.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-small.lineHeight}",
+              "fontSize": "{typography.global.paragraph-small.fontSize}",
+              "letterSpacing": "{typography.global.paragraph-small.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-small.textDecoration}",
+              "textCase": "{typography.global.paragraph-small.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-small-strong.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-small-strong.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-small-strong.lineHeight}",
+              "fontSize": "{typography.global.paragraph-small-strong.fontSize}",
+              "letterSpacing": "{typography.global.paragraph-small-strong.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-small-strong.textDecoration}",
+              "textCase": "{typography.global.paragraph-small-strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.global.paragraph-small-underlined.fontFamily}",
+              "fontWeight": "{typography.global.paragraph-small-underlined.fontWeight}",
+              "lineHeight": "{typography.global.paragraph-small-underlined.lineHeight}",
+              "fontSize": "{typography.global.paragraph-small-underlined.fontSize}",
+              "letterSpacing": "{typography.global.paragraph-small-underlined.letterSpacing}",
+              "textDecoration": "{typography.global.paragraph-small-underlined.textDecoration}",
+              "textCase": "{typography.global.paragraph-small-underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "detail": {
+        "large": {
+          "value": {
+            "fontFamily": "{typography.global.detail-large.fontFamily}",
+            "fontWeight": "{typography.global.detail-large.fontWeight}",
+            "lineHeight": "{typography.global.detail-large.lineHeight}",
+            "fontSize": "{typography.global.detail-large.fontSize}",
+            "letterSpacing": "{typography.global.detail-large.letterSpacing}",
+            "textDecoration": "{typography.global.detail-large.textDecoration}",
+            "textCase": "{typography.global.detail-large.textCase}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{typography.global.detail-medium.fontFamily}",
+            "fontWeight": "{typography.global.detail-medium.fontWeight}",
+            "lineHeight": "{typography.global.detail-medium.lineHeight}",
+            "fontSize": "{typography.global.detail-medium.fontSize}",
+            "letterSpacing": "{typography.global.detail-medium.letterSpacing}",
+            "textDecoration": "{typography.global.detail-medium.textDecoration}",
+            "textCase": "{typography.global.detail-medium.textCase}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{typography.global.detail-small.fontFamily}",
+            "fontWeight": "{typography.global.detail-small.fontWeight}",
+            "lineHeight": "{typography.global.detail-small.lineHeight}",
+            "fontSize": "{typography.global.detail-small.fontSize}",
+            "letterSpacing": "{typography.global.detail-small.letterSpacing}",
+            "textDecoration": "{typography.global.detail-small.textDecoration}",
+            "textCase": "{typography.global.detail-small.textCase}"
+          },
+          "type": "typography"
+        }
+      }
+    },
     "tv": {
       "headline": {
         "large": {
@@ -497,6 +653,44 @@
             "letterSpacing": "{typography.tv.breakpoint-tv.label-small.letterSpacing}",
             "textDecoration": "{typography.tv.breakpoint-tv.label-small.textDecoration}",
             "textCase": "{typography.tv.breakpoint-tv.label-small.textCase}"
+          },
+          "type": "typography"
+        }
+      },
+      "badge": {
+        "large": {
+          "value": {
+            "fontFamily": "{typography.global.badge-large.fontFamily}",
+            "fontWeight": "{typography.global.badge-large.fontWeight}",
+            "lineHeight": "{typography.global.badge-large.lineHeight}",
+            "fontSize": "{typography.global.badge-large.fontSize}",
+            "letterSpacing": "{typography.global.badge-large.letterSpacing}",
+            "textDecoration": "{typography.global.badge-large.textDecoration}",
+            "textCase": "{typography.global.badge-large.textCase}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{typography.global.badge-medium.fontFamily}",
+            "fontWeight": "{typography.global.badge-medium.fontWeight}",
+            "lineHeight": "{typography.global.badge-medium.lineHeight}",
+            "fontSize": "{typography.global.badge-medium.fontSize}",
+            "letterSpacing": "{typography.global.badge-medium.letterSpacing}",
+            "textDecoration": "{typography.global.badge-medium.textDecoration}",
+            "textCase": "{typography.global.badge-medium.textCase}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{typography.global.badge-small.fontFamily}",
+            "fontWeight": "{typography.global.badge-small.fontWeight}",
+            "lineHeight": "{typography.global.badge-small.lineHeight}",
+            "fontSize": "{typography.global.badge-small.fontSize}",
+            "letterSpacing": "{typography.global.badge-small.letterSpacing}",
+            "textDecoration": "{typography.global.badge-small.textDecoration}",
+            "textCase": "{typography.global.badge-small.textCase}"
           },
           "type": "typography"
         }

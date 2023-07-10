@@ -120,7 +120,12 @@
       "overlay.surface-strong": "S:6a1800c50388fd8a051f9252beac66bd71416902,",
       "overlay.surface-accent": "S:3e3c4d3a352db1d88bfe021bf0be69dd61ef132f,",
       "overlay.border-focused": "S:a9ec8482eac96a77901b8bbbc180f00eda10cc45,",
-      "overlay.background-alt": "S:12b6145125f3d0b5c02da96192bfb41cc46b2948,"
+      "overlay.background-alt": "S:12b6145125f3d0b5c02da96192bfb41cc46b2948,",
+      "overlay.progress-bar.surface": "S:f217326602d7b52e503e0a09d9cd3e6df2ac2769,",
+      "overlay.progress-bar.surface-subtle": "S:672da9c68c9634e8b200215eda4c01f29be4065a,",
+      "overlay.progress-bar.surface-accent": "S:bd9789d8e399e49d928c122f3c735318411702fd,",
+      "overlay.progress-bar.contrast": "S:ad3e11db1447012f79340e77d76cac3a77a69f49,",
+      "overlay.progress-bar.border": "S:b36df868d034d7797b680c2f6800b9cb670898f0,"
     },
     "selectedTokenSets": {
       "figma/color/dark": "enabled"
@@ -236,7 +241,12 @@
       "overlay.badge.surface": "0ff3e920ba7c9a3cc57b8115e6f3ec8c95ff0034",
       "overlay.badge.contrast": "d5a6eaf67e1c22206fd0eca70067d1b6e5ed56a1",
       "overlay.badge.contrast-accent": "1e14c1955dc61921d74332dca50ba0b3db38c3a8",
-      "overlay.badge.border": "84b430702178b3f38a53e416529fadfa545792d2"
+      "overlay.badge.border": "84b430702178b3f38a53e416529fadfa545792d2",
+      "overlay.progress-bar.surface": "f09e4b2881f5bb6d79ced94d868ca249fe8c6fc6",
+      "overlay.progress-bar.surface-subtle": "d59d80e526c90529931fedeecc5914d062ddfdaa",
+      "overlay.progress-bar.surface-accent": "bc79a45d0270c71e6369b88d01528c41f25d6e67",
+      "overlay.progress-bar.contrast": "8ea02380fe3905f3dd30638feeaece9bb1ec5a4d",
+      "overlay.progress-bar.border": "d6b4234f2e8e2801b073f61d5b32cfeaec2acbf0"
     },
     "group": "Color"
   },
@@ -254,8 +264,8 @@
       "brand.neutral.5": "d9afa1adf95bf1631cb9ac870162f67a29638f63",
       "brand.neutral.10": "52072f0b5da4cbdc56c85f018fa6d61615aa3f81",
       "brand.neutral.20": "0aa1440d4f1189923ebde6c74eea6a64fcc12ba1",
-      "brand.neutral.30": "91ea273688db2b6f719c959acbf4ceed3b2b1a69",
       "brand.neutral.25": "2e3a57f54ddad9176f3a8ad22b9820c929c94863",
+      "brand.neutral.30": "91ea273688db2b6f719c959acbf4ceed3b2b1a69",
       "brand.neutral.40": "d1b6cb91ed6571831f104aa6f713d8d996846930",
       "brand.neutral.60": "9d4504bf840f2cafb59d06124cca17e9cbb4837f",
       "brand.neutral.95": "2359bf901da09738d68920a430cd6570ef33b1f8",
@@ -489,7 +499,19 @@
       "overrides.tv.paragraph.small.strong-text": "S:82501f4ec0ef942b6d489e748f398ce62c3ca90c,",
       "overrides.tv.paragraph.small.underlined-text": "S:1f2d26470339d9c177c8e0ea558abbdb7749f468,",
       "overrides.tv.label.large": "S:c7178c170b0ea178a90b93d66a99352ab6e7a241,",
-      "overrides.tv.label.small": "S:66ba7cb7d6e318ed37c51ac6face554eeffcf270,"
+      "overrides.tv.label.small": "S:66ba7cb7d6e318ed37c51ac6face554eeffcf270,",
+      "overrides.web.paragraph.large.plain-text": "S:dc6ce13f7aafb575ae683fd679fe1f4f69211c6c,",
+      "overrides.web.paragraph.large.strong-text": "S:6762a7b7f1602d06ade6c1a741980a274d7a61c4,",
+      "overrides.web.paragraph.large.underlined-text": "S:1f951d16029de5621f1ffc6ffef0b6b6bd120d89,",
+      "overrides.web.paragraph.medium.plain-text": "S:0febd867abf1f9fead43ff7fc2381df740e8c559,",
+      "overrides.web.paragraph.medium.strong-text": "S:c1815fc0a3d9af0de6857ad625da590d484d8b86,",
+      "overrides.web.paragraph.medium.underlined-text": "S:870a2ca187596d9429c3e35cdfc4ce1fe8948f14,",
+      "overrides.web.paragraph.small.plain-text": "S:691065823979fd27376815f6036754a8ab9a5581,",
+      "overrides.web.paragraph.small.strong-text": "S:2834d8edb4cf8da1cdf6418187bdd79deaa26dd5,",
+      "overrides.web.paragraph.small.underlined-text": "S:1c3d7661d712c82047e18b05a4836469ec2b818d,",
+      "overrides.tv.badge.large": "S:98a6f9d3bcc3233dbc0d88460ed4e66a968090c9,",
+      "overrides.tv.badge.medium": "S:2f472235f4e6e9b5e40da6be02cb576c74c3e8bf,",
+      "overrides.tv.badge.small": "S:9ea4335f93fae550de71d2074ef698cc0b332d3d,"
     },
     "selectedTokenSets": {
       "brand": "source",
