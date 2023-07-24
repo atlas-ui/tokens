@@ -228,7 +228,7 @@
     },
     "on-surface": {
       "surface": {
-        "value": "{brand.neutral.10}",
+        "value": "{brand.neutral.5}",
         "type": "color"
       },
       "contrast": {
@@ -241,6 +241,10 @@
       },
       "border": {
         "value": "{brand.base.none}",
+        "type": "color"
+      },
+      "surface-has-input": {
+        "value": "{brand.neutral.10}",
         "type": "color"
       },
       "contrast-has-input": {
