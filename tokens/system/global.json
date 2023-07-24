@@ -3,47 +3,43 @@
     "global": {
       "dark": {
         "background": {
-          "value": "{brand.neutral.5}",
+          "value": "{background}",
           "type": "color"
         },
         "surface": {
-          "value": "{brand.neutral.10}",
+          "value": "{surface}",
           "type": "color"
         },
         "surface-strong": {
-          "value": "{brand.neutral.20}",
+          "value": "{surface-strong}",
           "type": "color"
         },
         "contrast": {
-          "value": "{brand.neutral.95}",
+          "value": "{contrast}",
           "type": "color"
         },
         "contrast-subtle": {
-          "value": "{brand.neutral.60}",
+          "value": "{contrast-subtle}",
           "type": "color"
         },
         "contrast-critical": {
-          "value": "{brand.red.60}",
-          "type": "color"
-        },
-        "contrast-success": {
-          "value": "{brand.green.50}",
+          "value": "{contrast-critical}",
           "type": "color"
         },
         "contrast-link": {
-          "value": "{brand.accent1.60}",
+          "value": "{contrast-accent}",
           "type": "color"
         },
         "border": {
-          "value": "{brand.neutral.10}",
+          "value": "{border}",
           "type": "color"
         },
         "border-strong": {
-          "value": "{brand.neutral.30}",
+          "value": "{border-strong}",
           "type": "color"
         },
         "border-focused": {
-          "value": "{brand.accent1.50}",
+          "value": "{border-focused}",
           "type": "color"
         },
         "button-primary": {
@@ -1288,31 +1284,31 @@
   "space": {
     "global": {
       "page-horizontal": {
-        "value": "{brand.spacing-24}",
+        "value": "{page-horizontal}",
         "type": "spacing"
       },
       "page-top": {
-        "value": "{brand.spacing-24}",
+        "value": "{page-top}",
         "type": "spacing"
       },
       "page-bottom": {
-        "value": "{brand.spacing-24}",
+        "value": "{page-bottom}",
         "type": "spacing"
       },
       "inter-set-horizontal": {
-        "value": "{brand.spacing-16}",
+        "value": "{inter-set-horizontal}",
         "type": "spacing"
       },
       "inter-set-vertical": {
-        "value": "{brand.spacing-32}",
+        "value": "{inter-item-vertical}",
         "type": "spacing"
       },
       "inter-item-horizontal": {
-        "value": "{brand.spacing-8}",
+        "value": "{inter-item-horizontal}",
         "type": "spacing"
       },
       "inter-item-vertical": {
-        "value": "{brand.spacing-16}",
+        "value": "{inter-item-vertical}",
         "type": "spacing"
       }
     }
