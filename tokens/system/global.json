@@ -1188,55 +1188,55 @@
   "size": {
     "global": {
       "icon-small": {
-        "value": "{brand.sizing-16}",
+        "value": "{icon-small}",
         "type": "sizing"
       },
       "icon-medium": {
-        "value": "{brand.sizing-24}",
+        "value": "{icon-medium}",
         "type": "sizing"
       },
       "icon-large": {
-        "value": "{brand.sizing-32}",
+        "value": "{icon-large}",
         "type": "sizing"
       },
       "image-list-small": {
-        "value": "{brand.sizing-40}",
+        "value": "{image-list-small}",
         "type": "sizing"
       },
       "image-list-medium": {
-        "value": "{brand.sizing-60}",
+        "value": "{image-list-medium}",
         "type": "sizing"
       },
       "image-list-large": {
-        "value": "{brand.sizing-72}",
+        "value": "{image-list-large}",
         "type": "sizing"
       },
       "image-list-xlarge": {
-        "value": "{brand.sizing-140}",
+        "value": "{image-list-xlarge}",
         "type": "sizing"
       },
       "button-surface-small": {
-        "value": "{brand.sizing-32}",
+        "value": "{button-surface-small}",
         "type": "sizing"
       },
       "button-surface-medium": {
-        "value": "{brand.sizing-40}",
+        "value": "{button-surface-medium}",
         "type": "sizing"
       },
       "button-surface-large": {
-        "value": "{brand.sizing-56}",
+        "value": "{button-surface-large}",
         "type": "sizing"
       },
       "input-field-small": {
-        "value": "{brand.sizing-48}",
+        "value": "{input-field-small}",
         "type": "sizing"
       },
       "input-field-large": {
-        "value": "{brand.sizing-60}",
+        "value": "{input-field-large}",
         "type": "sizing"
       },
       "touch-target-min": {
-        "value": "{brand.sizing-40}",
+        "value": "{touch-target-min}",
         "type": "sizing"
       },
       "rounding-xsmall": {
@@ -1264,11 +1264,11 @@
         "type": "borderRadius"
       },
       "badge-small": {
-        "value": "{brand.sizing-16}",
+        "value": "{badge-small}",
         "type": "sizing"
       },
       "badge-large": {
-        "value": "{brand.sizing-20}",
+        "value": "{badge-large}",
         "type": "sizing"
       },
       "line-width-small": {
