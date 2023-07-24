@@ -142,7 +142,7 @@
         "type": "color"
       },
       "contrast-selected": {
-        "value": "{brand.base.black}",
+        "value": "{brand.neutral.95}",
         "type": "color"
       },
       "border-selected": {
