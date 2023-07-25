@@ -199,27 +199,27 @@
       "type": "color"
     },
     "contrast-has-input": {
-      "value": "{color.global.dark.input.contrast}",
+      "value": "{brand.neutral.95}",
       "type": "color"
     },
     "contrast-subtle-has-input": {
-      "value": "{color.global.dark.input.contrast-subtle}",
+      "value": "{brand.neutral.60}",
       "type": "color"
     },
     "border-has-input": {
-      "value": "{color.global.dark.input.border}",
+      "value": "{brand.base.none}",
       "type": "color"
     },
     "surface-critical": {
-      "value": "{color.global.dark.input.surface}",
+      "value": "{brand.neutral.10}",
       "type": "color"
     },
     "contrast-critical": {
-      "value": "{color.global.dark.input.contrast}",
+      "value": "{brand.neutral.95}",
       "type": "color"
     },
     "contrast-subtle-critical": {
-      "value": "{color.global.dark.input.contrast-subtle}",
+      "value": "{brand.neutral.60}",
       "type": "color"
     },
     "border-critical": {
@@ -248,27 +248,27 @@
         "type": "color"
       },
       "contrast-has-input": {
-        "value": "{color.global.dark.input-on-surface.contrast}",
+        "value": "{brand.neutral.95}",
         "type": "color"
       },
       "contrast-subtle-has-input": {
-        "value": "{color.global.dark.input-on-surface.contrast-subtle}",
+        "value": "{brand.neutral.60}",
         "type": "color"
       },
       "border-has-input": {
-        "value": "{color.global.dark.input-on-surface.border}",
+        "value": "{brand.base.none}",
         "type": "color"
       },
       "surface-critical": {
-        "value": "{color.global.dark.input-on-surface.surface}",
+        "value": "{brand.neutral.5}",
         "type": "color"
       },
       "contrast-critical": {
-        "value": "{color.global.dark.input-on-surface.contrast}",
+        "value": "{brand.neutral.95}",
         "type": "color"
       },
       "contrast-subtle-critical": {
-        "value": "{color.global.dark.input-on-surface.contrast-subtle}",
+        "value": "{brand.neutral.60}",
         "type": "color"
       },
       "border-critical": {
