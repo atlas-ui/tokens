@@ -228,19 +228,19 @@
         },
         "input-on-surface": {
           "surface": {
-            "value": "{brand.neutral.10}",
+            "value": "{input.on-surface.surface}",
             "type": "color"
           },
           "contrast": {
-            "value": "{brand.neutral.95}",
+            "value": "{input.on-surface.contrast}",
             "type": "color"
           },
           "contrast-subtle": {
-            "value": "{brand.neutral.60}",
+            "value": "{input.on-surface.contrast-subtle}",
             "type": "color"
           },
           "border": {
-            "value": "{brand.base.none}",
+            "value": "{input.on-surface.border}",
             "type": "color"
           },
           "surface-has-input": {
@@ -248,67 +248,67 @@
             "type": "color"
           },
           "contrast-has-input": {
-            "value": "{color.global.dark.input-on-surface.contrast}",
+            "value": "{input.on-surface.contrast-has-input}",
             "type": "color"
           },
           "contrast-subtle-has-input": {
-            "value": "{color.global.dark.input-on-surface.contrast-subtle}",
+            "value": "{input.on-surface.contrast-subtle-has-input}",
             "type": "color"
           },
           "border-has-input": {
-            "value": "{color.global.dark.input-on-surface.border}",
+            "value": "{input.on-surface.border-has-input}",
             "type": "color"
           },
           "surface-critical": {
-            "value": "{color.global.dark.input-on-surface.surface}",
+            "value": "{input.on-surface.surface-critical}",
             "type": "color"
           },
           "contrast-critical": {
-            "value": "{color.global.dark.input-on-surface.contrast}",
+            "value": "{input.on-surface.contrast-critical}",
             "type": "color"
           },
           "contrast-subtle-critical": {
-            "value": "{color.global.dark.input-on-surface.contrast-subtle}",
+            "value": "{input.on-surface.contrast-subtle-critical}",
             "type": "color"
           },
           "border-critical": {
-            "value": "{brand.red.60}",
+            "value": "{input.on-surface.border-critical}",
             "type": "color"
           }
         },
         "message": {
           "surface": {
-            "value": "{brand.neutral.95}",
+            "value": "{message.surface}",
             "type": "color"
           },
           "contrast": {
-            "value": "{brand.neutral.5}",
+            "value": "{message.contrast}",
             "type": "color"
           },
           "contrast-subtle": {
-            "value": "{brand.neutral.40}",
+            "value": "{message.contrast-subtle}",
             "type": "color"
           },
           "border": {
-            "value": "{brand.base.none}",
+            "value": "{message.border}",
             "type": "color"
           }
         },
         "selection-control": {
           "surface": {
-            "value": "{brand.neutral.20}",
+            "value": "{selection-control.surface}",
             "type": "color"
           },
           "surface-subtle": {
-            "value": "{brand.base.none}",
+            "value": "{selection-control.surface-subtle}",
             "type": "color"
           },
           "contrast": {
-            "value": "{brand.neutral.95}",
+            "value": "{selection-control.contrast}",
             "type": "color"
           },
           "border": {
-            "value": "{brand.accent1.60}",
+            "value": "{selection-control.border}",
             "type": "color"
           },
           "border-subtle": {
@@ -358,19 +358,19 @@
         },
         "badge": {
           "surface": {
-            "value": "{brand.neutral.30}",
+            "value": "{badge.surface}",
             "type": "color"
           },
           "contrast": {
-            "value": "{brand.neutral.95}",
+            "value": "{badge.contrast}",
             "type": "color"
           },
           "contrast-accent": {
-            "value": "{brand.accent1.60}",
+            "value": "{badge.contrast-accent}",
             "type": "color"
           },
           "border": {
-            "value": "{brand.base.none}",
+            "value": "{badge.border}",
             "type": "color"
           }
         },
