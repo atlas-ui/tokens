@@ -329,23 +329,23 @@
       "type": "color"
     },
     "border-selected": {
-      "value": "{color.global.dark.selection-control.border}",
+      "value": "{brand.accent1.50}",
       "type": "color"
     },
     "border-subtle-selected": {
-      "value": "{color.global.dark.selection-control.border-subtle}",
+      "value": "{brand.base.none}",
       "type": "color"
     },
     "surface-critical": {
-      "value": "{color.global.dark.selection-control.surface}",
+      "value": "{brand.neutral.20}",
       "type": "color"
     },
     "surface-subtle-critical": {
-      "value": "{color.global.dark.selection-control.surface-subtle}",
+      "value": "{brand.base.none}",
       "type": "color"
     },
     "contrast-critical": {
-      "value": "{color.global.dark.selection-control.contrast}",
+      "value": "{brand.neutral.95}",
       "type": "color"
     },
     "border-critical": {
@@ -353,7 +353,7 @@
       "type": "color"
     },
     "border-subtle-critical": {
-      "value": "{color.global.dark.selection-control.border-subtle}",
+      "value": "{brand.base.none}",
       "type": "color"
     }
   },
