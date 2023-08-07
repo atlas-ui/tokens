@@ -518,7 +518,7 @@
       "brand": "source",
       "system/global": "source",
       "system/tv": "source",
-      "figma/typography/temp": "enabled"
+      "figma/typography/figma": "enabled"
     },
     "group": "Typography",
     "$figmaCollectionId": "VariableCollectionId:7083:195064",
