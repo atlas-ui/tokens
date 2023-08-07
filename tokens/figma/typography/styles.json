@@ -2,37 +2,37 @@
   "headline": {
     "large": {
       "value": {
-        "fontFamily": "{typography.global.headline-large.fontFamily}",
-        "fontWeight": "{typography.global.headline-large.fontWeight}",
-        "lineHeight": "{typography.global.headline-large.lineHeight}",
-        "fontSize": "{typography.global.headline-large.fontSize}",
-        "letterSpacing": "{typography.global.headline-large.letterSpacing}",
-        "textDecoration": "{typography.global.headline-large.textDecoration}",
-        "textCase": "{typography.global.headline-large.textCase}"
+        "fontFamily": "{typography.global.headline.large.fontFamily}",
+        "fontWeight": "{typography.global.headline.large.fontWeight}",
+        "lineHeight": "{typography.global.headline.large.lineHeight}",
+        "fontSize": "{typography.global.headline.large.fontSize}",
+        "letterSpacing": "{typography.global.headline.large.letterSpacing}",
+        "textDecoration": "{typography.global.headline.large.textDecoration}",
+        "textCase": "{typography.global.headline.large.textCase}"
       },
       "type": "typography"
     },
     "medium": {
       "value": {
-        "fontFamily": "{typography.global.headline-medium.fontFamily}",
-        "fontWeight": "{typography.global.headline-medium.fontWeight}",
-        "lineHeight": "{typography.global.headline-medium.lineHeight}",
-        "fontSize": "{typography.global.headline-medium.fontSize}",
-        "letterSpacing": "{typography.global.headline-medium.letterSpacing}",
-        "textDecoration": "{typography.global.headline-medium.textDecoration}",
-        "textCase": "{typography.global.headline-medium.textCase}"
+        "fontFamily": "{typography.global.headline.medium.fontFamily}",
+        "fontWeight": "{typography.global.headline.medium.fontWeight}",
+        "lineHeight": "{typography.global.headline.medium.lineHeight}",
+        "fontSize": "{typography.global.headline.medium.fontSize}",
+        "letterSpacing": "{typography.global.headline.medium.letterSpacing}",
+        "textDecoration": "{typography.global.headline.medium.textDecoration}",
+        "textCase": "{typography.global.headline.medium.textCase}"
       },
       "type": "typography"
     },
     "small": {
       "value": {
-        "fontFamily": "{typography.global.headline-small.fontFamily}",
-        "fontWeight": "{typography.global.headline-small.fontWeight}",
-        "lineHeight": "{typography.global.headline-small.lineHeight}",
-        "fontSize": "{typography.global.headline-small.fontSize}",
-        "letterSpacing": "{typography.global.headline-small.letterSpacing}",
-        "textDecoration": "{typography.global.headline-small.textDecoration}",
-        "textCase": "{typography.global.headline-small.textCase}"
+        "fontFamily": "{typography.global.headline.small.fontFamily}",
+        "fontWeight": "{typography.global.headline.small.fontWeight}",
+        "lineHeight": "{typography.global.headline.small.lineHeight}",
+        "fontSize": "{typography.global.headline.small.fontSize}",
+        "letterSpacing": "{typography.global.headline.small.letterSpacing}",
+        "textDecoration": "{typography.global.headline.small.textDecoration}",
+        "textCase": "{typography.global.headline.small.textCase}"
       },
       "type": "typography"
     }
@@ -40,37 +40,37 @@
   "title": {
     "large": {
       "value": {
-        "fontFamily": "{typography.global.title-large.fontFamily}",
-        "fontWeight": "{typography.global.title-large.fontWeight}",
-        "lineHeight": "{typography.global.title-large.lineHeight}",
-        "fontSize": "{typography.global.title-large.fontSize}",
-        "letterSpacing": "{typography.global.title-large.letterSpacing}",
-        "textDecoration": "{typography.global.title-large.textDecoration}",
-        "textCase": "{typography.global.title-large.textCase}"
+        "fontFamily": "{typography.global.title.large.fontFamily}",
+        "fontWeight": "{typography.global.title.large.fontWeight}",
+        "lineHeight": "{typography.global.title.large.lineHeight}",
+        "fontSize": "{typography.global.title.large.fontSize}",
+        "letterSpacing": "{typography.global.title.large.letterSpacing}",
+        "textDecoration": "{typography.global.title.large.textDecoration}",
+        "textCase": "{typography.global.title.large.textCase}"
       },
       "type": "typography"
     },
     "medium": {
       "value": {
-        "fontFamily": "{typography.global.title-medium.fontFamily}",
-        "fontWeight": "{typography.global.title-medium.fontWeight}",
-        "lineHeight": "{typography.global.title-medium.lineHeight}",
-        "fontSize": "{typography.global.title-medium.fontSize}",
-        "letterSpacing": "{typography.global.title-medium.letterSpacing}",
-        "textDecoration": "{typography.global.title-medium.textDecoration}",
-        "textCase": "{typography.global.title-medium.textCase}"
+        "fontFamily": "{typography.global.title.medium.fontFamily}",
+        "fontWeight": "{typography.global.title.medium.fontWeight}",
+        "lineHeight": "{typography.global.title.medium.lineHeight}",
+        "fontSize": "{typography.global.title.medium.fontSize}",
+        "letterSpacing": "{typography.global.title.medium.letterSpacing}",
+        "textDecoration": "{typography.global.title.medium.textDecoration}",
+        "textCase": "{typography.global.title.medium.textCase}"
       },
       "type": "typography"
     },
     "small": {
       "value": {
-        "fontFamily": "{typography.global.title-small.fontFamily}",
-        "fontWeight": "{typography.global.title-small.fontWeight}",
-        "lineHeight": "{typography.global.title-small.lineHeight}",
-        "fontSize": "{typography.global.title-small.fontSize}",
-        "letterSpacing": "{typography.global.title-small.letterSpacing}",
-        "textDecoration": "{typography.global.title-small.textDecoration}",
-        "textCase": "{typography.global.title-small.textCase}"
+        "fontFamily": "{typography.global.title.small.fontFamily}",
+        "fontWeight": "{typography.global.title.small.fontWeight}",
+        "lineHeight": "{typography.global.title.small.lineHeight}",
+        "fontSize": "{typography.global.title.small.fontSize}",
+        "letterSpacing": "{typography.global.title.small.letterSpacing}",
+        "textDecoration": "{typography.global.title.small.textDecoration}",
+        "textCase": "{typography.global.title.small.textCase}"
       },
       "type": "typography"
     }
@@ -78,37 +78,37 @@
   "detail": {
     "large": {
       "value": {
-        "fontFamily": "{typography.global.detail-large.fontFamily}",
-        "fontWeight": "{typography.global.detail-large.fontWeight}",
-        "lineHeight": "{typography.global.detail-large.lineHeight}",
-        "fontSize": "{typography.global.detail-large.fontSize}",
-        "letterSpacing": "{typography.global.detail-large.letterSpacing}",
-        "textDecoration": "{typography.global.detail-large.textDecoration}",
-        "textCase": "{typography.global.detail-large.textCase}"
+        "fontFamily": "{typography.global.detail.large.fontFamily}",
+        "fontWeight": "{typography.global.detail.large.fontWeight}",
+        "lineHeight": "{typography.global.detail.large.lineHeight}",
+        "fontSize": "{typography.global.detail.large.fontSize}",
+        "letterSpacing": "{typography.global.detail.large.letterSpacing}",
+        "textDecoration": "{typography.global.detail.large.textDecoration}",
+        "textCase": "{typography.global.detail.large.textCase}"
       },
       "type": "typography"
     },
     "medium": {
       "value": {
-        "fontFamily": "{typography.global.detail-medium.fontFamily}",
-        "fontWeight": "{typography.global.detail-medium.fontWeight}",
-        "lineHeight": "{typography.global.detail-medium.lineHeight}",
-        "fontSize": "{typography.global.detail-medium.fontSize}",
-        "letterSpacing": "{typography.global.detail-medium.letterSpacing}",
-        "textDecoration": "{typography.global.detail-medium.textDecoration}",
-        "textCase": "{typography.global.detail-medium.textCase}"
+        "fontFamily": "{typography.global.detail.medium.fontFamily}",
+        "fontWeight": "{typography.global.detail.medium.fontWeight}",
+        "lineHeight": "{typography.global.detail.medium.lineHeight}",
+        "fontSize": "{typography.global.detail.medium.fontSize}",
+        "letterSpacing": "{typography.global.detail.medium.letterSpacing}",
+        "textDecoration": "{typography.global.detail.medium.textDecoration}",
+        "textCase": "{typography.global.detail.medium.textCase}"
       },
       "type": "typography"
     },
     "small": {
       "value": {
-        "fontFamily": "{typography.global.detail-small.fontFamily}",
-        "fontWeight": "{typography.global.detail-small.fontWeight}",
-        "lineHeight": "{typography.global.detail-small.lineHeight}",
-        "fontSize": "{typography.global.detail-small.fontSize}",
-        "letterSpacing": "{typography.global.detail-small.letterSpacing}",
-        "textDecoration": "{typography.global.detail-small.textDecoration}",
-        "textCase": "{typography.global.detail-small.textCase}"
+        "fontFamily": "{typography.global.detail.small.fontFamily}",
+        "fontWeight": "{typography.global.detail.small.fontWeight}",
+        "lineHeight": "{typography.global.detail.small.lineHeight}",
+        "fontSize": "{typography.global.detail.small.fontSize}",
+        "letterSpacing": "{typography.global.detail.small.letterSpacing}",
+        "textDecoration": "{typography.global.detail.small.textDecoration}",
+        "textCase": "{typography.global.detail.small.textCase}"
       },
       "type": "typography"
     }
@@ -117,37 +117,25 @@
     "large": {
       "plain-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-large.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-large.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-large.lineHeight}",
-          "fontSize": "{typography.global.paragraph-large.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-large.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-large.textDecoration}",
-          "textCase": "{typography.global.paragraph-large.textCase}"
-        },
-        "type": "typography"
-      },
-      "strong-text": {
-        "value": {
-          "fontFamily": "{typography.global.paragraph-large-strong.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-large-strong.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-large-strong.lineHeight}",
-          "fontSize": "{typography.global.paragraph-large-strong.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-large-strong.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-large-strong.textDecoration}",
-          "textCase": "{typography.global.paragraph-large-strong.textCase}"
+          "fontFamily": "{typography.global.paragraph.large.plain.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.large.plain.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.large.plain.lineHeight}",
+          "fontSize": "{typography.global.paragraph.large.plain.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.large.plain.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.large.plain.textDecoration}",
+          "textCase": "{typography.global.paragraph.large.plain.textCase}"
         },
         "type": "typography"
       },
       "underlined-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-large-underlined.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-large-underlined.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-large-underlined.lineHeight}",
-          "fontSize": "{typography.global.paragraph-large-underlined.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-large-underlined.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-large-underlined.textDecoration}",
-          "textCase": "{typography.global.paragraph-large-underlined.textCase}"
+          "fontFamily": "{typography.global.paragraph.large.underlined.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.large.underlined.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.large.underlined.lineHeight}",
+          "fontSize": "{typography.global.paragraph.large.underlined.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.large.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.large.underlined.textDecoration}",
+          "textCase": "{typography.global.paragraph.large.underlined.textCase}"
         },
         "type": "typography"
       }
@@ -155,37 +143,25 @@
     "medium": {
       "plain-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-medium.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-medium.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-medium.lineHeight}",
-          "fontSize": "{typography.global.paragraph-medium.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-medium.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-medium.textDecoration}",
-          "textCase": "{typography.global.paragraph-medium.textCase}"
-        },
-        "type": "typography"
-      },
-      "strong-text": {
-        "value": {
-          "fontFamily": "{typography.global.paragraph-medium-strong.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-medium-strong.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-medium-strong.lineHeight}",
-          "fontSize": "{typography.global.paragraph-medium-strong.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-medium-strong.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-medium-strong.textDecoration}",
-          "textCase": "{typography.global.paragraph-medium-strong.textCase}"
+          "fontFamily": "{typography.global.paragraph.medium.plain.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.medium.plain.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.medium.plain.lineHeight}",
+          "fontSize": "{typography.global.paragraph.medium.plain.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.medium.plain.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.medium.plain.textDecoration}",
+          "textCase": "{typography.global.paragraph.medium.plain.textCase}"
         },
         "type": "typography"
       },
       "underlined-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-medium-underlined.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-medium-underlined.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-medium-underlined.lineHeight}",
-          "fontSize": "{typography.global.paragraph-medium-underlined.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-medium-underlined.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-medium-underlined.textDecoration}",
-          "textCase": "{typography.global.paragraph-medium-underlined.textCase}"
+          "fontFamily": "{typography.global.paragraph.medium.underlined.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.medium.underlined.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.medium.underlined.lineHeight}",
+          "fontSize": "{typography.global.paragraph.medium.underlined.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.medium.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.medium.underlined.textDecoration}",
+          "textCase": "{typography.global.paragraph.medium.underlined.textCase}"
         },
         "type": "typography"
       }
@@ -193,37 +169,25 @@
     "small": {
       "plain-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-small.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-small.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-small.lineHeight}",
-          "fontSize": "{typography.global.paragraph-small.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-small.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-small.textDecoration}",
-          "textCase": "{typography.global.paragraph-small.textCase}"
-        },
-        "type": "typography"
-      },
-      "strong-text": {
-        "value": {
-          "fontFamily": "{typography.global.paragraph-small-strong.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-small-strong.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-small-strong.lineHeight}",
-          "fontSize": "{typography.global.paragraph-small-strong.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-small-strong.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-small-strong.textDecoration}",
-          "textCase": "{typography.global.paragraph-small-strong.textCase}"
+          "fontFamily": "{typography.global.paragraph.small.plain.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.small.plain.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.small.plain.lineHeight}",
+          "fontSize": "{typography.global.paragraph.small.plain.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.small.plain.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.small.plain.textDecoration}",
+          "textCase": "{typography.global.paragraph.small.plain.textCase}"
         },
         "type": "typography"
       },
       "underlined-text": {
         "value": {
-          "fontFamily": "{typography.global.paragraph-small-underlined.fontFamily}",
-          "fontWeight": "{typography.global.paragraph-small-underlined.fontWeight}",
-          "lineHeight": "{typography.global.paragraph-small-underlined.lineHeight}",
-          "fontSize": "{typography.global.paragraph-small-underlined.fontSize}",
-          "letterSpacing": "{typography.global.paragraph-small-underlined.letterSpacing}",
-          "textDecoration": "{typography.global.paragraph-small-underlined.textDecoration}",
-          "textCase": "{typography.global.paragraph-small-underlined.textCase}"
+          "fontFamily": "{typography.global.paragraph.small.underlined.fontFamily}",
+          "fontWeight": "{typography.global.paragraph.small.underlined.fontWeight}",
+          "lineHeight": "{typography.global.paragraph.small.underlined.lineHeight}",
+          "fontSize": "{typography.global.paragraph.small.underlined.fontSize}",
+          "letterSpacing": "{typography.global.paragraph.small.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.paragraph.small.underlined.textDecoration}",
+          "textCase": "{typography.global.paragraph.small.underlined.textCase}"
         },
         "type": "typography"
       }
@@ -232,37 +196,37 @@
   "label": {
     "large": {
       "value": {
-        "fontFamily": "{typography.global.label-large.fontFamily}",
-        "fontWeight": "{typography.global.label-large.fontWeight}",
-        "lineHeight": "{typography.global.label-large.lineHeight}",
-        "fontSize": "{typography.global.label-large.fontSize}",
-        "letterSpacing": "{typography.global.label-large.letterSpacing}",
-        "textDecoration": "{typography.global.label-large.textDecoration}",
-        "textCase": "{typography.global.label-large.textCase}"
+        "fontFamily": "{typography.global.label.large.fontFamily}",
+        "fontWeight": "{typography.global.label.large.fontWeight}",
+        "lineHeight": "{typography.global.label.large.lineHeight}",
+        "fontSize": "{typography.global.label.large.fontSize}",
+        "letterSpacing": "{typography.global.label.large.letterSpacing}",
+        "textDecoration": "{typography.global.label.large.textDecoration}",
+        "textCase": "{typography.global.label.large.textCase}"
       },
       "type": "typography"
     },
     "medium": {
       "value": {
-        "fontFamily": "{typography.global.label-medium.fontFamily}",
-        "fontWeight": "{typography.global.label-medium.fontWeight}",
-        "lineHeight": "{typography.global.label-medium.lineHeight}",
-        "fontSize": "{typography.global.label-medium.fontSize}",
-        "letterSpacing": "{typography.global.label-medium.letterSpacing}",
-        "textDecoration": "{typography.global.label-medium.textDecoration}",
-        "textCase": "{typography.global.label-medium.textCase}"
+        "fontFamily": "{typography.global.label.medium.fontFamily}",
+        "fontWeight": "{typography.global.label.medium.fontWeight}",
+        "lineHeight": "{typography.global.label.medium.lineHeight}",
+        "fontSize": "{typography.global.label.medium.fontSize}",
+        "letterSpacing": "{typography.global.label.medium.letterSpacing}",
+        "textDecoration": "{typography.global.label.medium.textDecoration}",
+        "textCase": "{typography.global.label.medium.textCase}"
       },
       "type": "typography"
     },
     "small": {
       "value": {
-        "fontFamily": "{typography.global.label-small.fontFamily}",
-        "fontWeight": "{typography.global.label-small.fontWeight}",
-        "lineHeight": "{typography.global.label-small.lineHeight}",
-        "fontSize": "{typography.global.label-small.fontSize}",
-        "letterSpacing": "{typography.global.label-small.letterSpacing}",
-        "textDecoration": "{typography.global.label-small.textDecoration}",
-        "textCase": "{typography.global.label-small.textCase}"
+        "fontFamily": "{typography.global.label.small.fontFamily}",
+        "fontWeight": "{typography.global.label.small.fontWeight}",
+        "lineHeight": "{typography.global.label.small.lineHeight}",
+        "fontSize": "{typography.global.label.small.fontSize}",
+        "letterSpacing": "{typography.global.label.small.letterSpacing}",
+        "textDecoration": "{typography.global.label.small.textDecoration}",
+        "textCase": "{typography.global.label.small.textCase}"
       },
       "type": "typography"
     }
@@ -270,233 +234,193 @@
   "badge": {
     "large": {
       "value": {
-        "fontFamily": "{typography.global.badge-large.fontFamily}",
-        "fontWeight": "{typography.global.badge-large.fontWeight}",
-        "lineHeight": "{typography.global.badge-large.lineHeight}",
-        "fontSize": "{typography.global.badge-large.fontSize}",
-        "letterSpacing": "{typography.global.badge-large.letterSpacing}",
-        "textDecoration": "{typography.global.badge-large.textDecoration}",
-        "textCase": "{typography.global.badge-large.textCase}"
+        "fontFamily": "{typography.global.badge.large.fontFamily}",
+        "fontWeight": "{typography.global.badge.large.fontWeight}",
+        "lineHeight": "{typography.global.badge.large.lineHeight}",
+        "fontSize": "{typography.global.badge.large.fontSize}",
+        "letterSpacing": "{typography.global.badge.large.letterSpacing}",
+        "textDecoration": "{typography.global.badge.large.textDecoration}",
+        "textCase": "{typography.global.badge.large.textCase}"
       },
       "type": "typography"
     },
     "medium": {
       "value": {
-        "fontFamily": "{typography.global.badge-medium.fontFamily}",
-        "fontWeight": "{typography.global.badge-medium.fontWeight}",
-        "lineHeight": "{typography.global.badge-medium.lineHeight}",
-        "fontSize": "{typography.global.badge-medium.fontSize}",
-        "letterSpacing": "{typography.global.badge-medium.letterSpacing}",
-        "textDecoration": "{typography.global.badge-medium.textDecoration}",
-        "textCase": "{typography.global.badge-medium.textCase}"
+        "fontFamily": "{typography.global.badge.medium.fontFamily}",
+        "fontWeight": "{typography.global.badge.medium.fontWeight}",
+        "lineHeight": "{typography.global.badge.medium.lineHeight}",
+        "fontSize": "{typography.global.badge.medium.fontSize}",
+        "letterSpacing": "{typography.global.badge.medium.letterSpacing}",
+        "textDecoration": "{typography.global.badge.medium.textDecoration}",
+        "textCase": "{typography.global.badge.medium.textCase}"
       },
       "type": "typography"
     },
     "small": {
       "value": {
-        "fontFamily": "{typography.global.badge-small.fontFamily}",
-        "fontWeight": "{typography.global.badge-small.fontWeight}",
-        "lineHeight": "{typography.global.badge-small.lineHeight}",
-        "fontSize": "{typography.global.badge-small.fontSize}",
-        "letterSpacing": "{typography.global.badge-small.letterSpacing}",
-        "textDecoration": "{typography.global.badge-small.textDecoration}",
-        "textCase": "{typography.global.badge-small.textCase}"
+        "fontFamily": "{typography.global.badge.small.fontFamily}",
+        "fontWeight": "{typography.global.badge.small.fontWeight}",
+        "lineHeight": "{typography.global.badge.small.lineHeight}",
+        "fontSize": "{typography.global.badge.small.fontSize}",
+        "letterSpacing": "{typography.global.badge.small.letterSpacing}",
+        "textDecoration": "{typography.global.badge.small.textDecoration}",
+        "textCase": "{typography.global.badge.small.textCase}"
       },
       "type": "typography"
     }
   },
-  "overrides": {
-    "web": {
-      "paragraph": {
-        "large": {
-          "plain-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-large.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-large.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-large.lineHeight}",
-              "fontSize": "{brand.typescale-global.h4}",
-              "letterSpacing": "{typography.global.paragraph-large.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-large.textDecoration}",
-              "textCase": "{typography.global.paragraph-large.textCase}"
-            },
-            "type": "typography"
-          },
-          "strong-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-large-strong.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-large-strong.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-large-strong.lineHeight}",
-              "fontSize": "{brand.typescale-global.h4}",
-              "letterSpacing": "{typography.global.paragraph-large-strong.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-large-strong.textDecoration}",
-              "textCase": "{typography.global.paragraph-large-strong.textCase}"
-            },
-            "type": "typography"
-          },
-          "underlined-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-large-underlined.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-large-underlined.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-large-underlined.lineHeight}",
-              "fontSize": "{brand.typescale-global.h4}",
-              "letterSpacing": "{typography.global.paragraph-large-underlined.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-large-underlined.textDecoration}",
-              "textCase": "{typography.global.paragraph-large-underlined.textCase}"
-            },
-            "type": "typography"
-          }
+  "legal": {
+    "large": {
+      "plain-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.large.plain.fontFamily}",
+          "fontWeight": "{typography.global.legal.large.plain.fontWeight}",
+          "lineHeight": "{typography.global.legal.large.plain.lineHeight}",
+          "fontSize": "{typography.global.legal.large.plain.fontSize}",
+          "letterSpacing": "{typography.global.legal.large.plain.letterSpacing}",
+          "textDecoration": "{typography.global.legal.large.plain.textDecoration}",
+          "textCase": "{typography.global.legal.large.plain.textCase}"
         },
-        "medium": {
-          "plain-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-medium.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-medium.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-medium.lineHeight}",
-              "fontSize": "{brand.typescale-global.h5}",
-              "letterSpacing": "{typography.global.paragraph-medium.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-medium.textDecoration}",
-              "textCase": "{typography.global.paragraph-medium.textCase}"
-            },
-            "type": "typography"
-          },
-          "strong-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-medium-strong.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-medium-strong.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-medium-strong.lineHeight}",
-              "fontSize": "{brand.typescale-global.h5}",
-              "letterSpacing": "{typography.global.paragraph-medium-strong.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-medium-strong.textDecoration}",
-              "textCase": "{typography.global.paragraph-medium-strong.textCase}"
-            },
-            "type": "typography"
-          },
-          "underlined-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-medium-underlined.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-medium-underlined.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-medium-underlined.lineHeight}",
-              "fontSize": "{brand.typescale-global.h5}",
-              "letterSpacing": "{typography.global.paragraph-medium-underlined.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-medium-underlined.textDecoration}",
-              "textCase": "{typography.global.paragraph-medium-underlined.textCase}"
-            },
-            "type": "typography"
-          }
-        },
-        "small": {
-          "plain-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-small.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-small.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-small.lineHeight}",
-              "fontSize": "{typography.global.paragraph-small.fontSize}",
-              "letterSpacing": "{typography.global.paragraph-small.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-small.textDecoration}",
-              "textCase": "{typography.global.paragraph-small.textCase}"
-            },
-            "type": "typography"
-          },
-          "strong-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-small-strong.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-small-strong.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-small-strong.lineHeight}",
-              "fontSize": "{typography.global.paragraph-small-strong.fontSize}",
-              "letterSpacing": "{typography.global.paragraph-small-strong.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-small-strong.textDecoration}",
-              "textCase": "{typography.global.paragraph-small-strong.textCase}"
-            },
-            "type": "typography"
-          },
-          "underlined-text": {
-            "value": {
-              "fontFamily": "{typography.global.paragraph-small-underlined.fontFamily}",
-              "fontWeight": "{typography.global.paragraph-small-underlined.fontWeight}",
-              "lineHeight": "{typography.global.paragraph-small-underlined.lineHeight}",
-              "fontSize": "{typography.global.paragraph-small-underlined.fontSize}",
-              "letterSpacing": "{typography.global.paragraph-small-underlined.letterSpacing}",
-              "textDecoration": "{typography.global.paragraph-small-underlined.textDecoration}",
-              "textCase": "{typography.global.paragraph-small-underlined.textCase}"
-            },
-            "type": "typography"
-          }
-        }
+        "type": "typography"
       },
-      "detail": {
-        "large": {
-          "value": {
-            "fontFamily": "{typography.global.detail-large.fontFamily}",
-            "fontWeight": "{typography.global.detail-large.fontWeight}",
-            "lineHeight": "{typography.global.detail-large.lineHeight}",
-            "fontSize": "{typography.global.detail-large.fontSize}",
-            "letterSpacing": "{typography.global.detail-large.letterSpacing}",
-            "textDecoration": "{typography.global.detail-large.textDecoration}",
-            "textCase": "{typography.global.detail-large.textCase}"
-          },
-          "type": "typography"
+      "strong-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.large.strong.fontFamily}",
+          "fontWeight": "{typography.global.legal.large.strong.fontWeight}",
+          "lineHeight": "{typography.global.legal.large.strong.lineHeight}",
+          "fontSize": "{typography.global.legal.large.strong.fontSize}",
+          "letterSpacing": "{typography.global.legal.large.strong.letterSpacing}",
+          "textDecoration": "{typography.global.legal.large.strong.textDecoration}",
+          "textCase": "{typography.global.legal.large.strong.textCase}"
         },
-        "medium": {
-          "value": {
-            "fontFamily": "{typography.global.detail-medium.fontFamily}",
-            "fontWeight": "{typography.global.detail-medium.fontWeight}",
-            "lineHeight": "{typography.global.detail-medium.lineHeight}",
-            "fontSize": "{typography.global.detail-medium.fontSize}",
-            "letterSpacing": "{typography.global.detail-medium.letterSpacing}",
-            "textDecoration": "{typography.global.detail-medium.textDecoration}",
-            "textCase": "{typography.global.detail-medium.textCase}"
-          },
-          "type": "typography"
+        "type": "typography"
+      },
+      "underlined-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.large.underlined.fontFamily}",
+          "fontWeight": "{typography.global.legal.large.underlined.fontWeight}",
+          "lineHeight": "{typography.global.legal.large.underlined.lineHeight}",
+          "fontSize": "{typography.global.legal.large.underlined.fontSize}",
+          "letterSpacing": "{typography.global.legal.large.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.legal.large.underlined.textDecoration}",
+          "textCase": "{typography.global.legal.large.underlined.textCase}"
         },
-        "small": {
-          "value": {
-            "fontFamily": "{typography.global.detail-small.fontFamily}",
-            "fontWeight": "{typography.global.detail-small.fontWeight}",
-            "lineHeight": "{typography.global.detail-small.lineHeight}",
-            "fontSize": "{typography.global.detail-small.fontSize}",
-            "letterSpacing": "{typography.global.detail-small.letterSpacing}",
-            "textDecoration": "{typography.global.detail-small.textDecoration}",
-            "textCase": "{typography.global.detail-small.textCase}"
-          },
-          "type": "typography"
-        }
+        "type": "typography"
       }
     },
+    "medium": {
+      "plain-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.medium.plain.fontFamily}",
+          "fontWeight": "{typography.global.legal.medium.plain.fontWeight}",
+          "lineHeight": "{typography.global.legal.medium.plain.lineHeight}",
+          "fontSize": "{typography.global.legal.medium.plain.fontSize}",
+          "letterSpacing": "{typography.global.legal.medium.plain.letterSpacing}",
+          "textDecoration": "{typography.global.legal.medium.plain.textDecoration}",
+          "textCase": "{typography.global.legal.medium.plain.textCase}"
+        },
+        "type": "typography"
+      },
+      "strong-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.medium.strong.fontFamily}",
+          "fontWeight": "{typography.global.legal.medium.strong.fontWeight}",
+          "lineHeight": "{typography.global.legal.medium.strong.lineHeight}",
+          "fontSize": "{typography.global.legal.medium.strong.fontSize}",
+          "letterSpacing": "{typography.global.legal.medium.strong.letterSpacing}",
+          "textDecoration": "{typography.global.legal.medium.strong.textDecoration}",
+          "textCase": "{typography.global.legal.medium.strong.textCase}"
+        },
+        "type": "typography"
+      },
+      "underlined-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.medium.underlined.fontFamily}",
+          "fontWeight": "{typography.global.legal.medium.underlined.fontWeight}",
+          "lineHeight": "{typography.global.legal.medium.underlined.lineHeight}",
+          "fontSize": "{typography.global.legal.medium.underlined.fontSize}",
+          "letterSpacing": "{typography.global.legal.medium.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.legal.medium.underlined.textDecoration}",
+          "textCase": "{typography.global.legal.medium.underlined.textCase}"
+        },
+        "type": "typography"
+      }
+    },
+    "small": {
+      "plain-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.small.plain.fontFamily}",
+          "fontWeight": "{typography.global.legal.small.plain.fontWeight}",
+          "lineHeight": "{typography.global.legal.small.plain.lineHeight}",
+          "fontSize": "{typography.global.legal.small.plain.fontSize}",
+          "letterSpacing": "{typography.global.legal.small.plain.letterSpacing}",
+          "textDecoration": "{typography.global.legal.small.plain.textDecoration}",
+          "textCase": "{typography.global.legal.small.plain.textCase}"
+        },
+        "type": "typography"
+      },
+      "strong-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.small.strong.fontFamily}",
+          "fontWeight": "{typography.global.legal.small.strong.fontWeight}",
+          "lineHeight": "{typography.global.legal.small.strong.lineHeight}",
+          "fontSize": "{typography.global.legal.small.strong.fontSize}",
+          "letterSpacing": "{typography.global.legal.small.strong.letterSpacing}",
+          "textDecoration": "{typography.global.legal.small.strong.textDecoration}",
+          "textCase": "{typography.global.legal.small.strong.textCase}"
+        },
+        "type": "typography"
+      },
+      "underlined-text": {
+        "value": {
+          "fontFamily": "{typography.global.legal.small.underlined.fontFamily}",
+          "fontWeight": "{typography.global.legal.small.underlined.fontWeight}",
+          "lineHeight": "{typography.global.legal.small.underlined.lineHeight}",
+          "fontSize": "{typography.global.legal.small.underlined.fontSize}",
+          "letterSpacing": "{typography.global.legal.small.underlined.letterSpacing}",
+          "textDecoration": "{typography.global.legal.small.underlined.textDecoration}",
+          "textCase": "{typography.global.legal.small.underlined.textCase}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "overrides": {
     "tv": {
       "headline": {
         "large": {
           "value": {
-            "fontWeight": "{typography.tv.breakpoint-tv.headline-large.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.headline-large.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.headline-large.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.headline-large.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.headline-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.headline-large.textCase}",
-            "fontFamily": "{typography.tv.breakpoint-tv.headline-large.fontFamily}"
+            "fontWeight": "{typography.tv.headline.large.fontWeight}",
+            "lineHeight": "{typography.tv.headline.large.lineHeight}",
+            "fontSize": "{typography.tv.headline.large.fontSize}",
+            "letterSpacing": "{typography.tv.headline.large.letterSpacing}",
+            "textDecoration": "{typography.tv.headline.large.textDecoration}",
+            "textCase": "{typography.tv.headline.large.textCase}",
+            "fontFamily": "{typography.tv.headline.large.fontFamily}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.headline-medium.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.headline-medium.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.headline-medium.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.headline-medium.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.headline-medium.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.headline-medium.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.headline-medium.textCase}"
+            "fontFamily": "{typography.tv.headline.medium.fontFamily}",
+            "fontWeight": "{typography.tv.headline.medium.fontWeight}",
+            "lineHeight": "{typography.tv.headline.medium.lineHeight}",
+            "fontSize": "{typography.tv.headline.medium.fontSize}",
+            "letterSpacing": "{typography.tv.headline.medium.letterSpacing}",
+            "textDecoration": "{typography.tv.headline.medium.textDecoration}",
+            "textCase": "{typography.tv.headline.medium.textCase}"
           },
           "type": "typography"
         },
         "small": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.headline-small.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.headline-small.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.headline-small.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.headline-small.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.headline-small.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.headline-small.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.headline-small.textCase}"
+            "fontFamily": "{typography.tv.headline.small.fontFamily}",
+            "fontWeight": "{typography.tv.headline.small.fontWeight}",
+            "lineHeight": "{typography.tv.headline.small.lineHeight}",
+            "fontSize": "{typography.tv.headline.small.fontSize}",
+            "letterSpacing": "{typography.tv.headline.small.letterSpacing}",
+            "textDecoration": "{typography.tv.headline.small.textDecoration}",
+            "textCase": "{typography.tv.headline.small.textCase}"
           },
           "type": "typography"
         }
@@ -504,25 +428,25 @@
       "title": {
         "large": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.title-large.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.title-large.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.title-large.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.title-large.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.title-large.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.title-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.title-large.textCase}"
+            "fontFamily": "{typography.tv.title.large.fontFamily}",
+            "fontWeight": "{typography.tv.title.large.fontWeight}",
+            "lineHeight": "{typography.tv.title.large.lineHeight}",
+            "fontSize": "{typography.tv.title.large.fontSize}",
+            "letterSpacing": "{typography.tv.title.large.letterSpacing}",
+            "textDecoration": "{typography.tv.title.large.textDecoration}",
+            "textCase": "{typography.tv.title.large.textCase}"
           },
           "type": "typography"
         },
         "small": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.title-small.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.title-small.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.title-small.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.title-small.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.title-small.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.title-small.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.title-small.textCase}"
+            "fontFamily": "{typography.tv.title.small.fontFamily}",
+            "fontWeight": "{typography.tv.title.small.fontWeight}",
+            "lineHeight": "{typography.tv.title.small.lineHeight}",
+            "fontSize": "{typography.tv.title.small.fontSize}",
+            "letterSpacing": "{typography.tv.title.small.letterSpacing}",
+            "textDecoration": "{typography.tv.title.small.textDecoration}",
+            "textCase": "{typography.tv.title.small.textCase}"
           },
           "type": "typography"
         }
@@ -530,25 +454,25 @@
       "detail": {
         "large": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.detail-large.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.detail-large.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.detail-large.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.detail-large.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.detail-large.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.detail-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.detail-large.textCase}"
+            "fontFamily": "{typography.tv.detail.large.fontFamily}",
+            "fontWeight": "{typography.tv.detail.large.fontWeight}",
+            "lineHeight": "{typography.tv.detail.large.lineHeight}",
+            "fontSize": "{typography.tv.detail.large.fontSize}",
+            "letterSpacing": "{typography.tv.detail.large.letterSpacing}",
+            "textDecoration": "{typography.tv.detail.large.textDecoration}",
+            "textCase": "{typography.tv.detail.large.textCase}"
           },
           "type": "typography"
         },
         "small": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.detail-small.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.detail-small.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.detail-small.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.detail-small.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.detail-small.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.detail-small.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.detail-small.textCase}"
+            "fontFamily": "{typography.tv.detail.small.fontFamily}",
+            "fontWeight": "{typography.tv.detail.small.fontWeight}",
+            "lineHeight": "{typography.tv.detail.small.lineHeight}",
+            "fontSize": "{typography.tv.detail.small.fontSize}",
+            "letterSpacing": "{typography.tv.detail.small.letterSpacing}",
+            "textDecoration": "{typography.tv.detail.small.textDecoration}",
+            "textCase": "{typography.tv.detail.small.textCase}"
           },
           "type": "typography"
         }
@@ -557,37 +481,25 @@
         "large": {
           "plain-text": {
             "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-large.textCase}"
-            },
-            "type": "typography"
-          },
-          "strong-text": {
-            "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-strong.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-strong.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-strong.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-strong.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-large-strong.textCase}"
+              "fontFamily": "{typography.tv.paragraph.large.plain.fontFamily}",
+              "fontWeight": "{typography.tv.paragraph.large.plain.fontWeight}",
+              "lineHeight": "{typography.tv.paragraph.large.plain.lineHeight}",
+              "fontSize": "{typography.tv.paragraph.large.plain.fontSize}",
+              "letterSpacing": "{typography.tv.paragraph.large.plain.letterSpacing}",
+              "textDecoration": "{typography.tv.paragraph.large.plain.textDecoration}",
+              "textCase": "{typography.tv.paragraph.large.plain.textCase}"
             },
             "type": "typography"
           },
           "underlined-text": {
             "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-large-underlined.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-large-underlined.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-large-underlined.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-large-underlined.textCase}"
+              "fontFamily": "{typography.tv.paragraph.large.underlined.fontFamily}",
+              "fontWeight": "{typography.tv.paragraph.large.underlined.fontWeight}",
+              "lineHeight": "{typography.tv.paragraph.large.underlined.lineHeight}",
+              "fontSize": "{typography.tv.paragraph.large.underlined.fontSize}",
+              "letterSpacing": "{typography.tv.paragraph.large.underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.paragraph.large.underlined.textDecoration}",
+              "textCase": "{typography.tv.paragraph.large.underlined.textCase}"
             },
             "type": "typography"
           }
@@ -595,37 +507,25 @@
         "small": {
           "plain-text": {
             "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-small.textCase}"
-            },
-            "type": "typography"
-          },
-          "strong-text": {
-            "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-strong.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-strong.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-strong.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-strong.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-small-strong.textCase}"
+              "fontFamily": "{typography.tv.paragraph.small.plain.fontFamily}",
+              "fontWeight": "{typography.tv.paragraph.small.plain.fontWeight}",
+              "lineHeight": "{typography.tv.paragraph.small.plain.lineHeight}",
+              "fontSize": "{typography.tv.paragraph.small.plain.fontSize}",
+              "letterSpacing": "{typography.tv.paragraph.small.plain.letterSpacing}",
+              "textDecoration": "{typography.tv.paragraph.small.plain.textDecoration}",
+              "textCase": "{typography.tv.paragraph.small.plain.textCase}"
             },
             "type": "typography"
           },
           "underlined-text": {
             "value": {
-              "fontFamily": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontFamily}",
-              "fontWeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontWeight}",
-              "lineHeight": "{typography.tv.breakpoint-tv.paragraph-small-underlined.lineHeight}",
-              "fontSize": "{typography.tv.breakpoint-tv.paragraph-small-underlined.fontSize}",
-              "letterSpacing": "{typography.tv.breakpoint-tv.paragraph-small-underlined.letterSpacing}",
-              "textDecoration": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textDecoration}",
-              "textCase": "{typography.tv.breakpoint-tv.paragraph-small-underlined.textCase}"
+              "fontFamily": "{typography.tv.paragraph.small.underlined.fontFamily}",
+              "fontWeight": "{typography.tv.paragraph.small.underlined.fontWeight}",
+              "lineHeight": "{typography.tv.paragraph.small.underlined.lineHeight}",
+              "fontSize": "{typography.tv.paragraph.small.underlined.fontSize}",
+              "letterSpacing": "{typography.tv.paragraph.small.underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.paragraph.small.underlined.textDecoration}",
+              "textCase": "{typography.tv.paragraph.small.underlined.textCase}"
             },
             "type": "typography"
           }
@@ -634,25 +534,25 @@
       "label": {
         "large": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.label-large.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.label-large.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.label-large.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.label-large.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.label-large.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.label-large.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.label-large.textCase}"
+            "fontFamily": "{typography.tv.label.large.fontFamily}",
+            "fontWeight": "{typography.tv.label.large.fontWeight}",
+            "lineHeight": "{typography.tv.label.large.lineHeight}",
+            "fontSize": "{typography.tv.label.large.fontSize}",
+            "letterSpacing": "{typography.tv.label.large.letterSpacing}",
+            "textDecoration": "{typography.tv.label.large.textDecoration}",
+            "textCase": "{typography.tv.label.large.textCase}"
           },
           "type": "typography"
         },
         "small": {
           "value": {
-            "fontFamily": "{typography.tv.breakpoint-tv.label-small.fontFamily}",
-            "fontWeight": "{typography.tv.breakpoint-tv.label-small.fontWeight}",
-            "lineHeight": "{typography.tv.breakpoint-tv.label-small.lineHeight}",
-            "fontSize": "{typography.tv.breakpoint-tv.label-small.fontSize}",
-            "letterSpacing": "{typography.tv.breakpoint-tv.label-small.letterSpacing}",
-            "textDecoration": "{typography.tv.breakpoint-tv.label-small.textDecoration}",
-            "textCase": "{typography.tv.breakpoint-tv.label-small.textCase}"
+            "fontFamily": "{typography.tv.label.small.fontFamily}",
+            "fontWeight": "{typography.tv.label.small.fontWeight}",
+            "lineHeight": "{typography.tv.label.small.lineHeight}",
+            "fontSize": "{typography.tv.label.small.fontSize}",
+            "letterSpacing": "{typography.tv.label.small.letterSpacing}",
+            "textDecoration": "{typography.tv.label.small.textDecoration}",
+            "textCase": "{typography.tv.label.small.textCase}"
           },
           "type": "typography"
         }
@@ -660,39 +560,155 @@
       "badge": {
         "large": {
           "value": {
-            "fontFamily": "{typography.global.badge-large.fontFamily}",
-            "fontWeight": "{typography.global.badge-large.fontWeight}",
-            "lineHeight": "{typography.global.badge-large.lineHeight}",
-            "fontSize": "{typography.global.badge-large.fontSize}",
-            "letterSpacing": "{typography.global.badge-large.letterSpacing}",
-            "textDecoration": "{typography.global.badge-large.textDecoration}",
-            "textCase": "{typography.global.badge-large.textCase}"
+            "fontFamily": "{typography.tv.badge.large.fontFamily}",
+            "fontWeight": "{typography.tv.badge.large.fontWeight}",
+            "lineHeight": "{typography.tv.badge.large.lineHeight}",
+            "fontSize": "{typography.tv.badge.large.fontSize}",
+            "letterSpacing": "{typography.tv.badge.large.letterSpacing}",
+            "textDecoration": "{typography.tv.badge.large.textDecoration}",
+            "textCase": "{typography.tv.badge.large.textCase}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{typography.global.badge-medium.fontFamily}",
-            "fontWeight": "{typography.global.badge-medium.fontWeight}",
-            "lineHeight": "{typography.global.badge-medium.lineHeight}",
-            "fontSize": "{typography.global.badge-medium.fontSize}",
-            "letterSpacing": "{typography.global.badge-medium.letterSpacing}",
-            "textDecoration": "{typography.global.badge-medium.textDecoration}",
-            "textCase": "{typography.global.badge-medium.textCase}"
+            "fontFamily": "{typography.tv.badge.medium.fontFamily}",
+            "fontWeight": "{typography.tv.badge.medium.fontWeight}",
+            "lineHeight": "{typography.tv.badge.medium.lineHeight}",
+            "fontSize": "{typography.tv.badge.medium.fontSize}",
+            "letterSpacing": "{typography.tv.badge.medium.letterSpacing}",
+            "textDecoration": "{typography.tv.badge.medium.textDecoration}",
+            "textCase": "{typography.tv.badge.medium.textCase}"
           },
           "type": "typography"
         },
         "small": {
           "value": {
-            "fontFamily": "{typography.global.badge-small.fontFamily}",
-            "fontWeight": "{typography.global.badge-small.fontWeight}",
-            "lineHeight": "{typography.global.badge-small.lineHeight}",
-            "fontSize": "{typography.global.badge-small.fontSize}",
-            "letterSpacing": "{typography.global.badge-small.letterSpacing}",
-            "textDecoration": "{typography.global.badge-small.textDecoration}",
-            "textCase": "{typography.global.badge-small.textCase}"
+            "fontFamily": "{typography.tv.badge.small.fontFamily}",
+            "fontWeight": "{typography.tv.badge.small.fontWeight}",
+            "lineHeight": "{typography.tv.badge.small.lineHeight}",
+            "fontSize": "{typography.tv.badge.small.fontSize}",
+            "letterSpacing": "{typography.tv.badge.small.letterSpacing}",
+            "textDecoration": "{typography.tv.badge.small.textDecoration}",
+            "textCase": "{typography.tv.badge.small.textCase}"
           },
           "type": "typography"
+        }
+      },
+      "legal": {
+        "large": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.large.plain.fontFamily}",
+              "fontWeight": "{typography.tv.legal.large.plain.fontWeight}",
+              "lineHeight": "{typography.tv.legal.large.plain.lineHeight}",
+              "fontSize": "{typography.tv.legal.large.plain.fontSize}",
+              "letterSpacing": "{typography.tv.legal.large.plain.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.large.plain.textDecoration}",
+              "textCase": "{typography.tv.legal.large.plain.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.large.strong.fontFamily}",
+              "fontWeight": "{typography.tv.legal.large.strong.fontWeight}",
+              "lineHeight": "{typography.tv.legal.large.strong.lineHeight}",
+              "fontSize": "{typography.tv.legal.large.strong.fontSize}",
+              "letterSpacing": "{typography.tv.legal.large.strong.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.large.strong.textDecoration}",
+              "textCase": "{typography.tv.legal.large.strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.large.underlined.fontFamily}",
+              "fontWeight": "{typography.tv.legal.large.underlined.fontWeight}",
+              "lineHeight": "{typography.tv.legal.large.underlined.lineHeight}",
+              "fontSize": "{typography.tv.legal.large.underlined.fontSize}",
+              "letterSpacing": "{typography.tv.legal.large.underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.large.underlined.textDecoration}",
+              "textCase": "{typography.tv.legal.large.underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        },
+        "medium": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.medium.plain.fontFamily}",
+              "fontWeight": "{typography.tv.legal.medium.plain.fontWeight}",
+              "lineHeight": "{typography.tv.legal.medium.plain.lineHeight}",
+              "fontSize": "{typography.tv.legal.medium.plain.fontSize}",
+              "letterSpacing": "{typography.tv.legal.medium.plain.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.medium.plain.textDecoration}",
+              "textCase": "{typography.tv.legal.medium.plain.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.medium.strong.fontFamily}",
+              "fontWeight": "{typography.tv.legal.medium.strong.fontWeight}",
+              "lineHeight": "{typography.tv.legal.medium.strong.lineHeight}",
+              "fontSize": "{typography.tv.legal.medium.strong.fontSize}",
+              "letterSpacing": "{typography.tv.legal.medium.strong.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.medium.strong.textDecoration}",
+              "textCase": "{typography.tv.legal.medium.strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.medium.underlined.fontFamily}",
+              "fontWeight": "{typography.tv.legal.medium.underlined.fontWeight}",
+              "lineHeight": "{typography.tv.legal.medium.underlined.lineHeight}",
+              "fontSize": "{typography.tv.legal.medium.underlined.fontSize}",
+              "letterSpacing": "{typography.tv.legal.medium.underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.medium.underlined.textDecoration}",
+              "textCase": "{typography.tv.legal.medium.underlined.textCase}"
+            },
+            "type": "typography"
+          }
+        },
+        "small": {
+          "plain-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.small.plain.fontFamily}",
+              "fontWeight": "{typography.tv.legal.small.plain.fontWeight}",
+              "lineHeight": "{typography.tv.legal.small.plain.lineHeight}",
+              "fontSize": "{typography.tv.legal.small.plain.fontSize}",
+              "letterSpacing": "{typography.tv.legal.small.plain.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.small.plain.textDecoration}",
+              "textCase": "{typography.tv.legal.small.plain.textCase}"
+            },
+            "type": "typography"
+          },
+          "strong-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.small.strong.fontFamily}",
+              "fontWeight": "{typography.tv.legal.small.strong.fontWeight}",
+              "lineHeight": "{typography.tv.legal.small.strong.lineHeight}",
+              "fontSize": "{typography.tv.legal.small.strong.fontSize}",
+              "letterSpacing": "{typography.tv.legal.small.strong.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.small.strong.textDecoration}",
+              "textCase": "{typography.tv.legal.small.strong.textCase}"
+            },
+            "type": "typography"
+          },
+          "underlined-text": {
+            "value": {
+              "fontFamily": "{typography.tv.legal.small.underlined.fontFamily}",
+              "fontWeight": "{typography.tv.legal.small.underlined.fontWeight}",
+              "lineHeight": "{typography.tv.legal.small.underlined.lineHeight}",
+              "fontSize": "{typography.tv.legal.small.underlined.fontSize}",
+              "letterSpacing": "{typography.tv.legal.small.underlined.letterSpacing}",
+              "textDecoration": "{typography.tv.legal.small.underlined.textDecoration}",
+              "textCase": "{typography.tv.legal.small.underlined.textCase}"
+            },
+            "type": "typography"
+          }
         }
       }
     }

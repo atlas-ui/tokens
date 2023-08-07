@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand": "enabled",
-      "figma/typography/styles": "disabled"
+      "figma/typography/tv": "disabled",
+      "figma/typography/global": "disabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7005:194983",
@@ -148,11 +149,13 @@
     },
     "selectedTokenSets": {
       "brand": "source",
-      "figma/typography/styles": "enabled"
+      "figma/typography/styles": "enabled",
+      "figma/typography/tv": "source",
+      "figma/typography/global": "source"
     },
-    "group": "Typography",
     "$figmaCollectionId": "VariableCollectionId:7083:195064",
     "$figmaModeId": "7083:0",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Typography"
   }
 ]
