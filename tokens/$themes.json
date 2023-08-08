@@ -4,9 +4,7 @@
     "name": "Atlas",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand": "enabled",
-      "figma/typography/tv": "disabled",
-      "figma/typography/global": "disabled"
+      "brand": "enabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7005:194983",
@@ -145,7 +143,22 @@
       "overrides.web.paragraph.small.underlined-text": "S:1c3d7661d712c82047e18b05a4836469ec2b818d,",
       "overrides.tv.badge.large": "S:98a6f9d3bcc3233dbc0d88460ed4e66a968090c9,",
       "overrides.tv.badge.medium": "S:2f472235f4e6e9b5e40da6be02cb576c74c3e8bf,",
-      "overrides.tv.badge.small": "S:9ea4335f93fae550de71d2074ef698cc0b332d3d,"
+      "overrides.tv.badge.small": "S:9ea4335f93fae550de71d2074ef698cc0b332d3d,",
+      "legal.large.plain-text": "S:0c29204afbb79b462caf7332628dfb1326be5814,",
+      "legal.large.strong-text": "S:cfa062841f77ed4c161a0945d3b081f5c2efbfe1,",
+      "legal.large.underlined-text": "S:a8475e603e21af67f44251214f9c06d346f3852f,",
+      "legal.small.plain-text": "S:c55c21703e980e4cccde603c334973348d347c39,",
+      "legal.small.strong-text": "S:96fc54cffe43149609cc6bf6b1032df02308dcb4,",
+      "legal.small.underlined-text": "S:00c06e68350ac8d10a8207db3200218950751212,",
+      "overrides.tv.legal.large.plain-text": "S:86b70b34bc6031779ca119429c49820dfe998bde,",
+      "overrides.tv.legal.large.strong-text": "S:ea259fe1b1c86622fafa3d4d7265def41af684f1,",
+      "overrides.tv.legal.large.underlined-text": "S:046d8e4091a60c67ea80250a6fa793bb7aed8bbd,",
+      "legal.plain-text": "S:ab2e4817cc5cbb9ca67cd4ca3a15e27983e0961e,",
+      "legal.strong-text": "S:c7f00100151e1542a8478da8c80e3358d91c49d2,",
+      "legal.underlined-text": "S:03ee946cb30fe1abd577a578327c14add1873a05,",
+      "overrides.tv.legal.plain-text": "S:3277b578a2037f151e7c65d1710f2bd7ef80b1eb,",
+      "overrides.tv.legal.strong-text": "S:02a7e6ff5ff4635d68aa658ca64e8ea09f75fc8c,",
+      "overrides.tv.legal.underlined-text": "S:6025e5386fc415b883405a2e31d1d4501f462beb,"
     },
     "selectedTokenSets": {
       "brand": "source",
