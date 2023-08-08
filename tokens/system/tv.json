@@ -576,7 +576,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h3}",
+            "value": "{brand.typescale-tv.h4}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -606,7 +606,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h3}",
+            "value": "{brand.typescale-tv.h4}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -636,7 +636,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h4}",
+            "value": "{brand.typescale-tv.h5}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -666,7 +666,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h4}",
+            "value": "{brand.typescale-tv.h5}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -696,7 +696,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h5}",
+            "value": "{brand.typescale-tv.h6}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -726,7 +726,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h4}",
+            "value": "{brand.typescale-tv.h5}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -756,7 +756,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h5}",
+            "value": "{brand.typescale-tv.h6}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -906,7 +906,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h4}",
+            "value": "{brand.typescale-tv.h5}",
             "type": "fontSizes"
           },
           "letterSpacing": {
@@ -936,7 +936,7 @@
             "type": "lineHeights"
           },
           "fontSize": {
-            "value": "{brand.typescale-tv.h5}",
+            "value": "{brand.typescale-tv.h6}",
             "type": "fontSizes"
           },
           "letterSpacing": {

@@ -323,7 +323,7 @@
               "type": "alias"
             },
             "fontSize": {
-              "value": "{typography.global.paragraph-large.fontSize}",
+              "value": "{brand.typescale-global.h5}",
               "type": "alias"
             },
             "letterSpacing": {
@@ -353,7 +353,7 @@
               "type": "alias"
             },
             "fontSize": {
-              "value": "{typography.global.paragraph-large.fontSize}",
+              "value": "{brand.typescale-global.h5}",
               "type": "alias"
             },
             "letterSpacing": {
@@ -415,7 +415,7 @@
               "type": "alias"
             },
             "fontSize": {
-              "value": "{typography.global.paragraph-medium.fontSize}",
+              "value": "{brand.typescale-global.h6}",
               "type": "alias"
             },
             "letterSpacing": {
@@ -445,7 +445,7 @@
               "type": "alias"
             },
             "fontSize": {
-              "value": "{typography.global.paragraph-medium.fontSize}",
+              "value": "{brand.typescale-global.h6}",
               "type": "alias"
             },
             "letterSpacing": {
@@ -507,7 +507,7 @@
               "type": "alias"
             },
             "fontSize": {
-              "value": "{typography.global.paragraph-small.fontSize}",
+              "value": "{brand.typescale-global.h7}",
               "type": "alias"
             },
             "letterSpacing": {
