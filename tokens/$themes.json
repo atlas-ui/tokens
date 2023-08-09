@@ -73,14 +73,13 @@
       "paragraph.small.link": "S:725da4b9e4d465913687c13508445d8b390dbe8a,",
       "legal.plain": "S:ab2e4817cc5cbb9ca67cd4ca3a15e27983e0961e,",
       "legal.strong": "S:c7f00100151e1542a8478da8c80e3358d91c49d2,",
-      "legal.underlined": "S:03ee946cb30fe1abd577a578327c14add1873a05,",
       "overrides.tv.legal.plain": "S:3277b578a2037f151e7c65d1710f2bd7ef80b1eb,",
       "overrides.tv.legal.strong": "S:02a7e6ff5ff4635d68aa658ca64e8ea09f75fc8c,",
-      "overrides.tv.legal.link": "S:6025e5386fc415b883405a2e31d1d4501f462beb,",
       "overrides.tv.paragraph.large.plain": "S:b506e12eaf1643e57180ca94c730c81fdc0e4e3d,",
       "overrides.tv.paragraph.small.plain": "S:8c50e89119797e3b2291e7cbf5afd10a389be2d8,",
       "overrides.tv.paragraph.large.link": "S:2e940e2b40d89d45657274e32f25f5aee86ecfe6,",
-      "overrides.tv.paragraph.small.link": "S:1f2d26470339d9c177c8e0ea558abbdb7749f468,"
+      "overrides.tv.paragraph.small.link": "S:1f2d26470339d9c177c8e0ea558abbdb7749f468,",
+      "legal.link": "S:03ee946cb30fe1abd577a578327c14add1873a05,"
     },
     "selectedTokenSets": {
       "brand": "source",
