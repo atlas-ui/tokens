@@ -115,7 +115,7 @@
   },
   "paragraph": {
     "large": {
-      "plain-text": {
+      "plain": {
         "value": {
           "fontFamily": "{typography.global.paragraph.large.plain.fontFamily}",
           "fontWeight": "{typography.global.paragraph.large.plain.fontWeight}",
@@ -127,7 +127,7 @@
         },
         "type": "typography"
       },
-      "underlined-text": {
+      "link": {
         "value": {
           "fontFamily": "{typography.global.paragraph.large.underlined.fontFamily}",
           "fontWeight": "{typography.global.paragraph.large.underlined.fontWeight}",
@@ -141,7 +141,7 @@
       }
     },
     "medium": {
-      "plain-text": {
+      "plain": {
         "value": {
           "fontFamily": "{typography.global.paragraph.medium.plain.fontFamily}",
           "fontWeight": "{typography.global.paragraph.medium.plain.fontWeight}",
@@ -153,7 +153,7 @@
         },
         "type": "typography"
       },
-      "underlined-text": {
+      "link": {
         "value": {
           "fontFamily": "{typography.global.paragraph.medium.underlined.fontFamily}",
           "fontWeight": "{typography.global.paragraph.medium.underlined.fontWeight}",
@@ -167,7 +167,7 @@
       }
     },
     "small": {
-      "plain-text": {
+      "plain": {
         "value": {
           "fontFamily": "{typography.global.paragraph.small.plain.fontFamily}",
           "fontWeight": "{typography.global.paragraph.small.plain.fontWeight}",
@@ -179,7 +179,7 @@
         },
         "type": "typography"
       },
-      "underlined-text": {
+      "link": {
         "value": {
           "fontFamily": "{typography.global.paragraph.small.underlined.fontFamily}",
           "fontWeight": "{typography.global.paragraph.small.underlined.fontWeight}",
@@ -270,7 +270,7 @@
     }
   },
   "legal": {
-    "plain-text": {
+    "plain": {
       "value": {
         "fontFamily": "{typography.global.legal.plain.fontFamily}",
         "fontWeight": "{typography.global.legal.plain.fontWeight}",
@@ -282,7 +282,7 @@
       },
       "type": "typography"
     },
-    "strong-text": {
+    "strong": {
       "value": {
         "fontFamily": "{typography.global.legal.strong.fontFamily}",
         "fontWeight": "{typography.global.legal.strong.fontWeight}",
@@ -294,7 +294,7 @@
       },
       "type": "typography"
     },
-    "underlined-text": {
+    "underlined": {
       "value": {
         "fontFamily": "{typography.global.legal.underlined.fontFamily}",
         "fontWeight": "{typography.global.legal.underlined.fontWeight}",
@@ -375,7 +375,7 @@
       },
       "paragraph": {
         "large": {
-          "plain-text": {
+          "plain": {
             "value": {
               "fontFamily": "{typography.tv.paragraph.large.plain.fontFamily}",
               "fontWeight": "{typography.tv.paragraph.large.plain.fontWeight}",
@@ -387,7 +387,7 @@
             },
             "type": "typography"
           },
-          "underlined-text": {
+          "link": {
             "value": {
               "fontFamily": "{typography.tv.paragraph.large.underlined.fontFamily}",
               "fontWeight": "{typography.tv.paragraph.large.underlined.fontWeight}",
@@ -401,7 +401,7 @@
           }
         },
         "small": {
-          "plain-text": {
+          "plain": {
             "value": {
               "fontFamily": "{typography.tv.paragraph.small.plain.fontFamily}",
               "fontWeight": "{typography.tv.paragraph.small.plain.fontWeight}",
@@ -413,7 +413,7 @@
             },
             "type": "typography"
           },
-          "underlined-text": {
+          "link": {
             "value": {
               "fontFamily": "{typography.tv.paragraph.small.underlined.fontFamily}",
               "fontWeight": "{typography.tv.paragraph.small.underlined.fontWeight}",
@@ -480,7 +480,7 @@
         }
       },
       "legal": {
-        "plain-text": {
+        "plain": {
           "value": {
             "fontFamily": "{typography.tv.legal.plain.fontFamily}",
             "fontWeight": "{typography.tv.legal.plain.fontWeight}",
@@ -492,7 +492,7 @@
           },
           "type": "typography"
         },
-        "strong-text": {
+        "strong": {
           "value": {
             "fontFamily": "{typography.tv.legal.strong.fontFamily}",
             "fontWeight": "{typography.tv.legal.strong.fontWeight}",
@@ -504,7 +504,7 @@
           },
           "type": "typography"
         },
-        "underlined-text": {
+        "link": {
           "value": {
             "fontFamily": "{typography.tv.legal.underlined.fontFamily}",
             "fontWeight": "{typography.tv.legal.underlined.fontWeight}",
