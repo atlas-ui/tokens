@@ -154,15 +154,15 @@
     },
     "shape-rectangle": {
       "value": "rectangle",
-      "type": "borderRadius"
+      "type": "string"
     },
     "shape-capsule": {
       "value": "capsule",
-      "type": "borderRadius"
+      "type": "string"
     },
     "shape-circle": {
       "value": "circle",
-      "type": "borderRadius"
+      "type": "string"
     },
     "neutral": {
       "5": {
